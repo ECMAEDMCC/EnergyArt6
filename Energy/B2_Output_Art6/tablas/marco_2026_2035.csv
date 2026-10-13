@@ -1,0 +1,17 @@
+﻿componente,referencia,escenario,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,total_2026_2030,total_2031_2035,total_2026_2035
+"Corrección de la base, condicional (NDCCON del Modelo CLG menos CONA6)",NDCCON,CONA6,2390.3,1929.6,1917.2,1814.2,1852.4,1821.7,1750.2,1479.9,1180.1,853.1,9903.7,7085.0,16988.6
+"Corrección de la base, incondicional (NDCINC del Modelo CLG menos INCA6)",NDCINC,INCA6,2389.8,1934.9,1950.3,1817.9,1855.3,1889.3,1929.5,1963.1,2002.1,2032.3,9948.2,9816.3,19764.6
+Tramo condicional de la base corregida (INCA6 menos CONA6),INCA6,CONA6,0.5,112.8,104.8,145.9,165.3,1506.3,3189.0,4599.3,5990.3,7268.2,529.4,22553.1,23082.6
+Tramo condicional del Modelo CLG (NDCINC menos NDCCON),NDCINC,NDCCON,0.0,118.2,137.9,149.6,168.3,1573.9,3368.3,5082.5,6812.3,8447.4,574.0,25284.5,25858.5
+Proyectos de la NDC financiada (sobre el condicional),CONA6,A,268.0,363.4,401.7,707.1,963.3,837.6,579.4,438.0,346.1,272.0,2703.7,2473.1,5176.8
+Paquete fuera de la NDC (B sobre A),A,B,0.0,0.0,354.9,782.2,1097.8,1593.9,1876.2,1462.9,911.7,284.3,2235.0,6129.0,8364.0
+Paquete fuera de la NDC (C sobre B),B,C,6.4,14.7,79.3,93.6,112.0,171.6,207.8,581.5,657.2,732.2,306.0,2350.3,2656.3
+Efecto de la referencia del estado FOI (CONA6 menos CONA6P),CONA6,CONA6P,0.0,0.0,83.7,0.0,0.0,0.0,24.9,223.2,327.8,327.8,83.7,903.8,987.5
+Efecto de la referencia del estado IMP0 (CONA6 menos CONA6I),CONA6,CONA6I,-377.8,-377.8,-294.1,-377.7,-377.8,-377.8,-360.2,-271.1,-271.1,-271.1,-1805.1,-1551.3,-3356.3
+Efecto de la referencia del estado GAS (CONA6 menos CONA6G),CONA6,CONA6G,-118.0,-268.6,-839.6,-262.6,-108.1,-695.8,-877.5,-658.9,-405.9,-136.9,-1596.9,-2775.0,-4371.9
+Sin pisos térmicos en el A (riesgo de operación),A,A-FOI,0.0,0.0,241.7,195.0,8.4,30.9,160.7,327.9,327.8,327.8,445.0,1175.1,1620.2
+Sin pisos térmicos en el B (riesgo de operación),B,B-FOI,0.0,0.0,306.6,310.6,310.6,327.8,327.8,896.0,1475.2,1475.2,927.8,4502.1,5430.0
+Sin la expansión a gas declarada en el A (sensibilidad de la base),A,A-GAS,-118.0,-268.6,-681.6,-728.4,-915.0,-892.5,-754.5,-507.5,-290.7,-67.5,-2711.6,-2512.7,-5224.2
+Sin la expansión a gas declarada en el B (sensibilidad de la base),B,B-GAS,-118.0,-268.6,-542.0,-521.7,-529.5,-364.7,-43.0,0.0,0.0,0.0,-1979.9,-407.7,-2387.5
+Sin la expansión a gas declarada en el C (sensibilidad de la base),C,C-GAS,-118.0,-268.6,-595.1,-578.4,-588.8,-467.4,-141.3,0.0,0.0,0.0,-2148.9,-608.7,-2757.6
+Aporte atribuible por retiro de la NDC financiada,A-SIN,A,271.7,470.3,552.5,1020.5,1379.9,1357.4,1284.8,1131.8,1137.2,1137.2,3694.8,6048.4,9743.2

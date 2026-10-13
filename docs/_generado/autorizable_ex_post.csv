@@ -1,0 +1,661 @@
+﻿subconjunto,proyeccion,regla,lectura_de_autorizacion,estado,sufijo,escenario,estado_de_referencia,anio,firme_kt,capa_A_kt,condicionadas_kt,capa_B_kt,capa_C_kt,fuente_capa_A,reduccion_estado_kt,margen_kt,oferta_aniada_kt,autorizable_ex_post_kt,autorizado_ex_ante_kt,diferencia_ex_post_menos_ex_ante_kt,autorizable_ex_post_sin_tope_kt
+sin_EN32,CLG,prudente,True,Intacto,,C,False,2031,0.0,837.6,54.6,1593.9,171.6,CONA6 menos A,2657.7,4109.3,2657.7,2657.7,2657.7,0.0,2657.7
+sin_EN32,CLG,prudente,True,Intacto,,C,False,2032,0.0,579.4,70.6,1876.2,207.8,CONA6 menos A,2734.0,5852.4,2734.0,2734.0,2734.0,0.0,2734.0
+sin_EN32,CLG,prudente,True,Intacto,,C,False,2033,0.0,438.0,70.6,1462.9,581.5,CONA6 menos A,2553.1,7081.8,2553.1,2553.1,2553.1,0.0,2553.1
+sin_EN32,CLG,prudente,True,Intacto,,C,False,2034,192.4,346.1,70.6,911.7,657.2,CONA6 menos A,2178.1,7905.4,2178.1,2178.1,2178.1,0.0,2178.1
+sin_EN32,CLG,prudente,True,Intacto,,C,False,2035,192.4,272.0,70.6,284.3,732.2,CONA6 menos A,1551.6,8556.8,1551.6,1551.6,1551.6,0.0,1551.6
+sin_EN32,CLG,condicional,False,Intacto,,C,False,2031,0.0,837.6,54.6,1593.9,171.6,CONA6 menos A,2657.7,8491.9,2657.7,2657.7,2657.7,0.0,2657.7
+sin_EN32,CLG,condicional,False,Intacto,,C,False,2032,0.0,579.4,70.6,1876.2,207.8,CONA6 menos A,2734.0,9730.1,2734.0,2734.0,2734.0,0.0,2734.0
+sin_EN32,CLG,condicional,False,Intacto,,C,False,2033,0.0,438.0,70.6,1462.9,581.5,CONA6 menos A,2553.1,10726.9,2553.1,2553.1,2553.1,0.0,2553.1
+sin_EN32,CLG,condicional,False,Intacto,,C,False,2034,192.4,346.1,70.6,911.7,657.2,CONA6 menos A,2178.1,11337.3,2178.1,2178.1,2178.1,0.0,2178.1
+sin_EN32,CLG,condicional,False,Intacto,,C,False,2035,192.4,272.0,70.6,284.3,732.2,CONA6 menos A,1551.6,11888.5,1551.6,1551.6,1551.6,0.0,1551.6
+sin_EN32,corregida,condicional,False,Intacto,,C,False,2031,0.0,837.6,54.6,1593.9,171.6,CONA6 menos A,2657.7,10313.6,2657.7,2657.7,2657.7,0.0,2657.7
+sin_EN32,corregida,condicional,False,Intacto,,C,False,2032,0.0,579.4,70.6,1876.2,207.8,CONA6 menos A,2734.0,11480.2,2734.0,2734.0,2734.0,0.0,2734.0
+sin_EN32,corregida,condicional,False,Intacto,,C,False,2033,0.0,438.0,70.6,1462.9,581.5,CONA6 menos A,2553.1,12206.8,2553.1,2553.1,2553.1,0.0,2553.1
+sin_EN32,corregida,condicional,False,Intacto,,C,False,2034,192.4,346.1,70.6,911.7,657.2,CONA6 menos A,2178.1,12517.4,2178.1,2178.1,2178.1,0.0,2178.1
+sin_EN32,corregida,condicional,False,Intacto,,C,False,2035,192.4,272.0,70.6,284.3,732.2,CONA6 menos A,1551.6,12741.7,1551.6,1551.6,1551.6,0.0,1551.6
+sin_EN32,corregida,prudente,False,Intacto,,C,False,2031,0.0,837.6,54.6,1593.9,171.6,CONA6 menos A,2657.7,5998.7,2657.7,2657.7,2657.7,0.0,2657.7
+sin_EN32,corregida,prudente,False,Intacto,,C,False,2032,0.0,579.4,70.6,1876.2,207.8,CONA6 menos A,2734.0,7781.9,2734.0,2734.0,2734.0,0.0,2734.0
+sin_EN32,corregida,prudente,False,Intacto,,C,False,2033,0.0,438.0,70.6,1462.9,581.5,CONA6 menos A,2553.1,9044.9,2553.1,2553.1,2553.1,0.0,2553.1
+sin_EN32,corregida,prudente,False,Intacto,,C,False,2034,192.4,346.1,70.6,911.7,657.2,CONA6 menos A,2178.1,9907.5,2178.1,2178.1,2178.1,0.0,2178.1
+sin_EN32,corregida,prudente,False,Intacto,,C,False,2035,192.4,272.0,70.6,284.3,732.2,CONA6 menos A,1551.6,10589.1,1551.6,1551.6,1551.6,0.0,1551.6
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,837.6,54.6,983.7,183.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2059.3,-2460.5,2657.7,0.0,2657.7,-2657.7,0.0
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,579.4,70.6,2128.4,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2868.5,-592.6,2734.0,0.0,2734.0,-2734.0,0.0
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,438.0,70.6,2832.0,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3451.1,1159.6,2553.1,1159.6,2553.1,-1393.5,1159.6
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,346.1,70.6,3047.8,136.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3793.4,2917.2,2178.1,2178.1,2178.1,0.0,2917.2
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,272.0,70.6,3263.6,897.7,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4696.3,5344.9,1551.6,1551.6,1551.6,0.0,4696.3
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,837.6,54.6,983.7,183.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2059.3,1922.1,2657.7,1922.1,2657.7,-735.6,1922.1
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,579.4,70.6,2128.4,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2868.5,3285.1,2734.0,2734.0,2734.0,0.0,2868.5
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,438.0,70.6,2832.0,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3451.1,4804.7,2553.1,2553.1,2553.1,0.0,3451.1
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,346.1,70.6,3047.8,136.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3793.4,6349.1,2178.1,2178.1,2178.1,0.0,3793.4
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,272.0,70.6,3263.6,897.7,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4696.3,8676.6,1551.6,1551.6,1551.6,0.0,4696.3
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,837.6,54.6,983.7,183.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2059.3,3743.7,2657.7,2059.3,2657.7,-598.4,2059.3
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,579.4,70.6,2128.4,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2868.5,5035.2,2734.0,2734.0,2734.0,0.0,2868.5
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,438.0,70.6,2832.0,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3451.1,6284.6,2553.1,2553.1,2553.1,0.0,3451.1
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,346.1,70.6,3047.8,136.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3793.4,7529.3,2178.1,2178.1,2178.1,0.0,3793.4
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,272.0,70.6,3263.6,897.7,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4696.3,9529.8,1551.6,1551.6,1551.6,0.0,4696.3
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,837.6,54.6,983.7,183.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2059.3,-571.2,2657.7,0.0,2657.7,-2657.7,0.0
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,579.4,70.6,2128.4,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2868.5,1336.9,2734.0,1336.9,2734.0,-1397.1,1336.9
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,438.0,70.6,2832.0,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3451.1,3122.7,2553.1,2553.1,2553.1,0.0,3122.7
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,346.1,70.6,3047.8,136.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3793.4,4919.3,2178.1,2178.1,2178.1,0.0,3793.4
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,272.0,70.6,3263.6,897.7,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4696.3,7377.1,1551.6,1551.6,1551.6,0.0,4696.3
+sin_EN32,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,837.6,54.6,983.7,183.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2059.2,-482.4,2657.7,0.0,2657.7,-2657.7,0.0
+sin_EN32,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,579.4,70.6,2128.3,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2868.5,1385.5,2734.0,1385.5,2734.0,-1348.5,1385.5
+sin_EN32,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,438.0,70.6,2831.9,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3451.1,3137.8,2553.1,2553.1,2553.1,0.0,3137.8
+sin_EN32,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,346.1,70.6,3015.3,160.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3785.1,4887.2,2178.1,2178.1,2178.1,0.0,3785.1
+sin_EN32,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,272.0,70.6,2945.6,851.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4331.7,6958.4,1551.6,1551.6,1551.6,0.0,4331.7
+sin_EN32,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,837.6,54.6,983.7,183.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2059.2,3900.2,2657.7,2059.2,2657.7,-598.5,2059.2
+sin_EN32,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,579.4,70.6,2128.3,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2868.5,5263.2,2734.0,2734.0,2734.0,0.0,2868.5
+sin_EN32,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,438.0,70.6,2831.9,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3451.1,6782.9,2553.1,2553.1,2553.1,0.0,3451.1
+sin_EN32,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,346.1,70.6,3015.3,160.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3785.1,8319.1,2178.1,2178.1,2178.1,0.0,3785.1
+sin_EN32,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,272.0,70.6,2945.6,851.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4331.7,10290.2,1551.6,1551.6,1551.6,0.0,4331.7
+sin_EN32,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,837.6,54.6,983.7,183.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2059.2,5721.8,2657.7,2059.2,2657.7,-598.5,2059.2
+sin_EN32,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,579.4,70.6,2128.3,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2868.5,7013.4,2734.0,2734.0,2734.0,0.0,2868.5
+sin_EN32,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,438.0,70.6,2831.9,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3451.1,8262.8,2553.1,2553.1,2553.1,0.0,3451.1
+sin_EN32,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,346.1,70.6,3015.3,160.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3785.1,9499.2,2178.1,2178.1,2178.1,0.0,3785.1
+sin_EN32,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,272.0,70.6,2945.6,851.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4331.7,11143.3,1551.6,1551.6,1551.6,0.0,4331.7
+sin_EN32,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,837.6,54.6,983.7,183.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2059.2,1406.9,2657.7,1406.9,2657.7,-1250.8,1406.9
+sin_EN32,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,579.4,70.6,2128.3,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2868.5,3315.0,2734.0,2734.0,2734.0,0.0,2868.5
+sin_EN32,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,438.0,70.6,2831.9,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3451.1,5100.9,2553.1,2553.1,2553.1,0.0,3451.1
+sin_EN32,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,346.1,70.6,3015.3,160.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3785.1,6889.3,2178.1,2178.1,2178.1,0.0,3785.1
+sin_EN32,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,272.0,70.6,2945.6,851.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4331.7,8990.7,1551.6,1551.6,1551.6,0.0,4331.7
+sin_EN32,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,837.6,54.6,1861.0,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2924.8,3351.6,2657.7,2657.7,2657.7,0.0,2924.8
+sin_EN32,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,579.4,70.6,2014.9,207.8,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2872.7,5094.7,2734.0,2734.0,2734.0,0.0,2872.7
+sin_EN32,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,438.0,70.6,2031.1,243.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2783.2,6554.1,2553.1,2553.1,2553.1,0.0,2783.2
+sin_EN32,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,346.1,70.6,1669.4,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2935.8,7905.4,2178.1,2178.1,2178.1,0.0,2935.8
+sin_EN32,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,272.0,70.6,1042.1,732.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2309.3,8556.8,1551.6,1551.6,1551.6,0.0,2309.3
+sin_EN32,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,837.6,54.6,1861.0,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2924.8,7734.2,2657.7,2657.7,2657.7,0.0,2924.8
+sin_EN32,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,579.4,70.6,2014.9,207.8,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2872.7,8972.3,2734.0,2734.0,2734.0,0.0,2872.7
+sin_EN32,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,438.0,70.6,2031.1,243.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2783.2,10199.2,2553.1,2553.1,2553.1,0.0,2783.2
+sin_EN32,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,346.1,70.6,1669.4,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2935.8,11337.3,2178.1,2178.1,2178.1,0.0,2935.8
+sin_EN32,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,272.0,70.6,1042.1,732.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2309.3,11888.5,1551.6,1551.6,1551.6,0.0,2309.3
+sin_EN32,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,837.6,54.6,1861.0,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2924.8,9555.9,2657.7,2657.7,2657.7,0.0,2924.8
+sin_EN32,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,579.4,70.6,2014.9,207.8,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2872.7,10722.5,2734.0,2734.0,2734.0,0.0,2872.7
+sin_EN32,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,438.0,70.6,2031.1,243.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2783.2,11679.1,2553.1,2553.1,2553.1,0.0,2783.2
+sin_EN32,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,346.1,70.6,1669.4,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2935.8,12517.4,2178.1,2178.1,2178.1,0.0,2935.8
+sin_EN32,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,272.0,70.6,1042.1,732.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2309.3,12741.7,1551.6,1551.6,1551.6,0.0,2309.3
+sin_EN32,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,837.6,54.6,1861.0,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2924.8,5240.9,2657.7,2657.7,2657.7,0.0,2924.8
+sin_EN32,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,579.4,70.6,2014.9,207.8,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2872.7,7024.2,2734.0,2734.0,2734.0,0.0,2872.7
+sin_EN32,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,438.0,70.6,2031.1,243.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2783.2,8517.2,2553.1,2553.1,2553.1,0.0,2783.2
+sin_EN32,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,346.1,70.6,1669.4,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2935.8,9907.5,2178.1,2178.1,2178.1,0.0,2935.8
+sin_EN32,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,272.0,70.6,1042.1,732.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2309.3,10589.1,1551.6,1551.6,1551.6,0.0,2309.3
+sin_EN32,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,837.6,54.6,1167.5,68.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2128.6,86.6,2657.7,86.6,2657.7,-2571.1,86.6
+sin_EN32,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,579.4,70.6,1897.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2637.3,1654.0,2734.0,1654.0,2734.0,-1080.0,1654.0
+sin_EN32,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,438.0,70.6,2477.4,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3096.6,2895.4,2553.1,2553.1,2553.1,0.0,2895.4
+sin_EN32,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,346.1,70.6,2950.5,136.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3696.1,4142.4,2178.1,2178.1,2178.1,0.0,3696.1
+sin_EN32,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,272.0,70.6,3239.2,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4664.2,6027.2,1551.6,1551.6,1551.6,0.0,4664.2
+sin_EN32,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,837.6,54.6,1167.5,68.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2128.6,4469.2,2657.7,2128.6,2657.7,-529.1,2128.6
+sin_EN32,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,579.4,70.6,1897.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2637.3,5531.6,2734.0,2637.3,2734.0,-96.7,2637.3
+sin_EN32,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,438.0,70.6,2477.4,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3096.6,6540.6,2553.1,2553.1,2553.1,0.0,3096.6
+sin_EN32,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,346.1,70.6,2950.5,136.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3696.1,7574.3,2178.1,2178.1,2178.1,0.0,3696.1
+sin_EN32,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,272.0,70.6,3239.2,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4664.2,9359.0,1551.6,1551.6,1551.6,0.0,4664.2
+sin_EN32,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,837.6,54.6,1167.5,68.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2128.6,6290.9,2657.7,2128.6,2657.7,-529.1,2128.6
+sin_EN32,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,579.4,70.6,1897.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2637.3,7281.8,2734.0,2637.3,2734.0,-96.7,2637.3
+sin_EN32,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,438.0,70.6,2477.4,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3096.6,8020.4,2553.1,2553.1,2553.1,0.0,3096.6
+sin_EN32,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,346.1,70.6,2950.5,136.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3696.1,8754.4,2178.1,2178.1,2178.1,0.0,3696.1
+sin_EN32,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,272.0,70.6,3239.2,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4664.2,10212.1,1551.6,1551.6,1551.6,0.0,4664.2
+sin_EN32,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,837.6,54.6,1167.5,68.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2128.6,1975.9,2657.7,1975.9,2657.7,-681.8,1975.9
+sin_EN32,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,579.4,70.6,1897.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2637.3,3583.5,2734.0,2637.3,2734.0,-96.7,2637.3
+sin_EN32,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,438.0,70.6,2477.4,110.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3096.6,4858.5,2553.1,2553.1,2553.1,0.0,3096.6
+sin_EN32,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,346.1,70.6,2950.5,136.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3696.1,6144.5,2178.1,2178.1,2178.1,0.0,3696.1
+sin_EN32,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,272.0,70.6,3239.2,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4664.2,8059.5,1551.6,1551.6,1551.6,0.0,4664.2
+sin_EN32,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,837.6,54.6,1582.0,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2645.8,4124.3,2657.7,2645.8,2657.7,-11.9,2645.8
+sin_EN32,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,579.4,70.6,1897.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2637.3,1654.0,2734.0,1654.0,2734.0,-1080.0,1654.0
+sin_EN32,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,438.0,70.6,1448.0,581.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2538.1,7081.8,2553.1,2538.1,2553.1,-15.0,2538.1
+sin_EN32,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,346.1,70.6,896.7,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2163.1,7905.4,2178.1,2163.1,2178.1,-15.0,2163.1
+sin_EN32,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,272.0,70.6,3239.2,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4664.2,6027.2,1551.6,1551.6,1551.6,0.0,4664.2
+sin_EN32,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,837.6,54.6,1582.0,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2645.8,8506.9,2657.7,2645.8,2657.7,-11.9,2645.8
+sin_EN32,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,579.4,70.6,1897.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2637.3,5531.6,2734.0,2637.3,2734.0,-96.7,2637.3
+sin_EN32,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,438.0,70.6,1448.0,581.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2538.1,10726.9,2553.1,2538.1,2553.1,-15.0,2538.1
+sin_EN32,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,346.1,70.6,896.7,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2163.1,11337.3,2178.1,2163.1,2178.1,-15.0,2163.1
+sin_EN32,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,272.0,70.6,3239.2,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4664.2,9359.0,1551.6,1551.6,1551.6,0.0,4664.2
+sin_EN32,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,837.6,54.6,1582.0,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2645.8,10328.6,2657.7,2645.8,2657.7,-11.9,2645.8
+sin_EN32,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,579.4,70.6,1897.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2637.3,7281.8,2734.0,2637.3,2734.0,-96.7,2637.3
+sin_EN32,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,438.0,70.6,1448.0,581.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2538.1,12206.8,2553.1,2538.1,2553.1,-15.0,2538.1
+sin_EN32,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,346.1,70.6,896.7,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2163.1,12517.4,2178.1,2163.1,2178.1,-15.0,2163.1
+sin_EN32,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,272.0,70.6,3239.2,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4664.2,10212.1,1551.6,1551.6,1551.6,0.0,4664.2
+sin_EN32,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,837.6,54.6,1582.0,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2645.8,6013.6,2657.7,2645.8,2657.7,-11.9,2645.8
+sin_EN32,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,579.4,70.6,1897.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2637.3,3583.5,2734.0,2637.3,2734.0,-96.7,2637.3
+sin_EN32,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,438.0,70.6,1448.0,581.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2538.1,9044.9,2553.1,2538.1,2553.1,-15.0,2538.1
+sin_EN32,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,346.1,70.6,896.7,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2163.1,9907.5,2178.1,2163.1,2178.1,-15.0,2163.1
+sin_EN32,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,272.0,70.6,3239.2,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4664.2,8059.5,1551.6,1551.6,1551.6,0.0,4664.2
+sin_EN32,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,837.6,54.6,2072.7,90.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3055.8,2717.5,2657.7,2657.7,2657.7,0.0,2717.5
+sin_EN32,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,579.4,70.6,2254.7,207.8,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3112.6,4445.4,2734.0,2734.0,2734.0,0.0,3112.6
+sin_EN32,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,438.0,70.6,2202.4,243.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2954.5,5809.1,2553.1,2553.1,2553.1,0.0,2954.5
+sin_EN32,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,346.1,70.6,2207.7,283.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3100.3,7207.3,2178.1,2178.1,2178.1,0.0,3100.3
+sin_EN32,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,272.0,70.6,1974.3,732.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3241.6,8556.8,1551.6,1551.6,1551.6,0.0,3241.6
+sin_EN32,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,837.6,54.6,2072.7,90.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3055.8,7100.1,2657.7,2657.7,2657.7,0.0,3055.8
+sin_EN32,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,579.4,70.6,2254.7,207.8,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3112.6,8323.1,2734.0,2734.0,2734.0,0.0,3112.6
+sin_EN32,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,438.0,70.6,2202.4,243.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2954.5,9454.2,2553.1,2553.1,2553.1,0.0,2954.5
+sin_EN32,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,346.1,70.6,2207.7,283.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3100.3,10639.2,2178.1,2178.1,2178.1,0.0,3100.3
+sin_EN32,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,272.0,70.6,1974.3,732.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3241.6,11888.5,1551.6,1551.6,1551.6,0.0,3241.6
+sin_EN32,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,837.6,54.6,2072.7,90.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3055.8,8921.8,2657.7,2657.7,2657.7,0.0,3055.8
+sin_EN32,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,579.4,70.6,2254.7,207.8,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3112.6,10073.2,2734.0,2734.0,2734.0,0.0,3112.6
+sin_EN32,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,438.0,70.6,2202.4,243.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2954.5,10934.1,2553.1,2553.1,2553.1,0.0,2954.5
+sin_EN32,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,346.1,70.6,2207.7,283.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3100.3,11819.3,2178.1,2178.1,2178.1,0.0,3100.3
+sin_EN32,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,272.0,70.6,1974.3,732.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3241.6,12741.7,1551.6,1551.6,1551.6,0.0,3241.6
+sin_EN32,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,837.6,54.6,2072.7,90.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3055.8,4606.8,2657.7,2657.7,2657.7,0.0,3055.8
+sin_EN32,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,579.4,70.6,2254.7,207.8,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3112.6,6374.9,2734.0,2734.0,2734.0,0.0,3112.6
+sin_EN32,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,438.0,70.6,2202.4,243.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2954.5,7772.2,2553.1,2553.1,2553.1,0.0,2954.5
+sin_EN32,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,346.1,70.6,2207.7,283.4,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3100.3,9209.4,2178.1,2178.1,2178.1,0.0,3100.3
+sin_EN32,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,272.0,70.6,1974.3,732.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3241.6,10589.1,1551.6,1551.6,1551.6,0.0,3241.6
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,837.6,54.6,1161.0,183.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2236.5,-5862.8,2657.7,0.0,2657.7,-2657.7,0.0
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,579.4,70.6,1704.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2444.3,-4616.0,2734.0,0.0,2734.0,-2734.0,0.0
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,438.0,70.6,2284.4,110.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2903.6,-3374.5,2553.1,0.0,2553.1,-2553.1,0.0
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,346.1,70.6,2757.5,136.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3503.2,-2127.6,2178.1,0.0,2178.1,-2178.1,0.0
+sin_EN32,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,272.0,70.6,3263.6,897.7,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4696.4,-210.7,1551.6,0.0,1551.6,-1551.6,0.0
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,837.6,54.6,1161.0,183.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2236.5,-1480.2,2657.7,0.0,2657.7,-2657.7,0.0
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,579.4,70.6,1704.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2444.3,-738.3,2734.0,0.0,2734.0,-2734.0,0.0
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,438.0,70.6,2284.4,110.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2903.6,270.6,2553.1,270.6,2553.1,-2282.5,270.6
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,346.1,70.6,2757.5,136.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3503.2,1304.3,2178.1,1304.3,2178.1,-873.8,1304.3
+sin_EN32,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,272.0,70.6,3263.6,897.7,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4696.4,3121.1,1551.6,1551.6,1551.6,0.0,3121.1
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,837.6,54.6,1161.0,183.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2236.5,341.4,2657.7,341.4,2657.7,-2316.3,341.4
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,579.4,70.6,1704.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2444.3,1011.8,2734.0,1011.8,2734.0,-1722.2,1011.8
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,438.0,70.6,2284.4,110.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2903.6,1750.5,2553.1,1750.5,2553.1,-802.6,1750.5
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,346.1,70.6,2757.5,136.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3503.2,2484.4,2178.1,2178.1,2178.1,0.0,2484.4
+sin_EN32,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,272.0,70.6,3263.6,897.7,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4696.4,3974.2,1551.6,1551.6,1551.6,0.0,3974.2
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,837.6,54.6,1161.0,183.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2236.5,-3973.5,2657.7,0.0,2657.7,-2657.7,0.0
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,579.4,70.6,1704.2,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2444.3,-2686.5,2734.0,0.0,2734.0,-2734.0,0.0
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,438.0,70.6,2284.4,110.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2903.6,-1411.4,2553.1,0.0,2553.1,-2553.1,0.0
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,346.1,70.6,2757.5,136.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3503.2,-125.5,2178.1,0.0,2178.1,-2178.1,0.0
+sin_EN32,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,272.0,70.6,3263.6,897.7,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4696.4,1821.6,1551.6,1551.6,1551.6,0.0,1821.6
+sin_EN32,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,862.1,54.6,1676.0,171.6,CONA6I menos A-IMP0,2764.3,3838.2,2657.7,2657.7,2657.7,0.0,2764.3
+sin_EN32,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,668.5,70.6,1876.2,207.8,CONA6I menos A-IMP0,2823.1,5581.3,2734.0,2734.0,2734.0,0.0,2823.1
+sin_EN32,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,438.0,70.6,1734.1,499.5,CONA6I menos A-IMP0,2742.2,6999.7,2553.1,2553.1,2553.1,0.0,2742.2
+sin_EN32,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,346.1,70.6,1182.8,657.2,CONA6I menos A-IMP0,2449.2,7905.4,2178.1,2178.1,2178.1,0.0,2449.2
+sin_EN32,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,272.0,70.6,555.4,732.2,CONA6I menos A-IMP0,1822.7,8556.8,1551.6,1551.6,1551.6,0.0,1822.7
+sin_EN32,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,862.1,54.6,1676.0,171.6,CONA6I menos A-IMP0,2764.3,8220.8,2657.7,2657.7,2657.7,0.0,2764.3
+sin_EN32,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,668.5,70.6,1876.2,207.8,CONA6I menos A-IMP0,2823.1,9458.9,2734.0,2734.0,2734.0,0.0,2823.1
+sin_EN32,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,438.0,70.6,1734.1,499.5,CONA6I menos A-IMP0,2742.2,10644.9,2553.1,2553.1,2553.1,0.0,2742.2
+sin_EN32,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,346.1,70.6,1182.8,657.2,CONA6I menos A-IMP0,2449.2,11337.3,2178.1,2178.1,2178.1,0.0,2449.2
+sin_EN32,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,272.0,70.6,555.4,732.2,CONA6I menos A-IMP0,1822.7,11888.5,1551.6,1551.6,1551.6,0.0,1822.7
+sin_EN32,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,862.1,54.6,1676.0,171.6,CONA6I menos A-IMP0,2764.3,10042.5,2657.7,2657.7,2657.7,0.0,2764.3
+sin_EN32,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,668.5,70.6,1876.2,207.8,CONA6I menos A-IMP0,2823.1,11209.1,2734.0,2734.0,2734.0,0.0,2823.1
+sin_EN32,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,438.0,70.6,1734.1,499.5,CONA6I menos A-IMP0,2742.2,12124.7,2553.1,2553.1,2553.1,0.0,2742.2
+sin_EN32,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,346.1,70.6,1182.8,657.2,CONA6I menos A-IMP0,2449.2,12517.4,2178.1,2178.1,2178.1,0.0,2449.2
+sin_EN32,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,272.0,70.6,555.4,732.2,CONA6I menos A-IMP0,1822.7,12741.7,1551.6,1551.6,1551.6,0.0,1822.7
+sin_EN32,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,862.1,54.6,1676.0,171.6,CONA6I menos A-IMP0,2764.3,5727.6,2657.7,2657.7,2657.7,0.0,2764.3
+sin_EN32,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,668.5,70.6,1876.2,207.8,CONA6I menos A-IMP0,2823.1,7510.8,2734.0,2734.0,2734.0,0.0,2823.1
+sin_EN32,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,438.0,70.6,1734.1,499.5,CONA6I menos A-IMP0,2742.2,8962.8,2553.1,2553.1,2553.1,0.0,2742.2
+sin_EN32,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,346.1,70.6,1182.8,657.2,CONA6I menos A-IMP0,2449.2,9907.5,2178.1,2178.1,2178.1,0.0,2449.2
+sin_EN32,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,272.0,70.6,555.4,732.2,CONA6I menos A-IMP0,1822.7,10589.1,1551.6,1551.6,1551.6,0.0,1822.7
+sin_EN32,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,837.6,54.6,1671.1,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2734.8,3853.2,2657.7,2657.7,2657.7,0.0,2734.8
+sin_EN32,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,579.4,70.6,1704.1,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2444.2,1276.2,2734.0,1276.2,2734.0,-1457.8,1276.2
+sin_EN32,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,438.0,70.6,1719.1,500.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2727.9,7000.4,2553.1,2553.1,2553.1,0.0,2727.9
+sin_EN32,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,346.1,70.6,1167.8,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2434.2,7905.4,2178.1,2178.1,2178.1,0.0,2434.2
+sin_EN32,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,272.0,70.6,3256.8,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4681.8,5667.0,1551.6,1551.6,1551.6,0.0,4681.8
+sin_EN32,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,837.6,54.6,1671.1,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2734.8,8235.8,2657.7,2657.7,2657.7,0.0,2734.8
+sin_EN32,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,579.4,70.6,1704.1,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2444.2,5153.9,2734.0,2444.2,2734.0,-289.8,2444.2
+sin_EN32,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,438.0,70.6,1719.1,500.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2727.9,10645.6,2553.1,2553.1,2553.1,0.0,2727.9
+sin_EN32,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,346.1,70.6,1167.8,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2434.2,11337.3,2178.1,2178.1,2178.1,0.0,2434.2
+sin_EN32,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,272.0,70.6,3256.8,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4681.8,8998.8,1551.6,1551.6,1551.6,0.0,4681.8
+sin_EN32,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,837.6,54.6,1671.1,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2734.8,10057.5,2657.7,2657.7,2657.7,0.0,2734.8
+sin_EN32,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,579.4,70.6,1704.1,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2444.2,6904.0,2734.0,2444.2,2734.0,-289.8,2444.2
+sin_EN32,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,438.0,70.6,1719.1,500.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2727.9,12125.5,2553.1,2553.1,2553.1,0.0,2727.9
+sin_EN32,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,346.1,70.6,1167.8,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2434.2,12517.4,2178.1,2178.1,2178.1,0.0,2434.2
+sin_EN32,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,272.0,70.6,3256.8,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4681.8,9851.9,1551.6,1551.6,1551.6,0.0,4681.8
+sin_EN32,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,837.6,54.6,1671.1,171.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2734.8,5742.5,2657.7,2657.7,2657.7,0.0,2734.8
+sin_EN32,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,579.4,70.6,1704.1,90.1,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2444.2,3205.7,2734.0,2444.2,2734.0,-289.8,2444.2
+sin_EN32,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,438.0,70.6,1719.1,500.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2727.9,8963.5,2553.1,2553.1,2553.1,0.0,2727.9
+sin_EN32,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,346.1,70.6,1167.8,657.2,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2434.2,9907.5,2178.1,2178.1,2178.1,0.0,2434.2
+sin_EN32,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,272.0,70.6,3256.8,890.0,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4681.8,7699.3,1551.6,1551.6,1551.6,0.0,4681.8
+sin_EN32,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,837.6,54.6,2121.7,26.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3040.8,441.4,2657.7,441.4,2657.7,-2216.3,441.4
+sin_EN32,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,579.4,70.6,1704.2,41.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2396.1,-2585.6,2734.0,0.0,2734.0,-2734.0,0.0
+sin_EN32,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,438.0,70.6,2798.1,80.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3387.3,4087.6,2553.1,2553.1,2553.1,0.0,3387.3
+sin_EN32,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,346.1,70.6,2775.7,240.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3625.1,5654.8,2178.1,2178.1,2178.1,0.0,3625.1
+sin_EN32,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,272.0,70.6,3116.0,831.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4482.7,1575.7,1551.6,1551.6,1551.6,0.0,1575.7
+sin_EN32,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,837.6,54.6,2121.7,26.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3040.8,4824.0,2657.7,2657.7,2657.7,0.0,3040.8
+sin_EN32,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,579.4,70.6,1704.2,41.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2396.1,1292.1,2734.0,1292.1,2734.0,-1441.9,1292.1
+sin_EN32,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,438.0,70.6,2798.1,80.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3387.3,7732.7,2553.1,2553.1,2553.1,0.0,3387.3
+sin_EN32,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,346.1,70.6,2775.7,240.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3625.1,9086.7,2178.1,2178.1,2178.1,0.0,3625.1
+sin_EN32,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,272.0,70.6,3116.0,831.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4482.7,4907.5,1551.6,1551.6,1551.6,0.0,4482.7
+sin_EN32,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,837.6,54.6,2121.7,26.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3040.8,6645.7,2657.7,2657.7,2657.7,0.0,3040.8
+sin_EN32,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,579.4,70.6,1704.2,41.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2396.1,3042.2,2734.0,2396.1,2734.0,-337.9,2396.1
+sin_EN32,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,438.0,70.6,2798.1,80.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3387.3,9212.6,2553.1,2553.1,2553.1,0.0,3387.3
+sin_EN32,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,346.1,70.6,2775.7,240.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3625.1,10266.8,2178.1,2178.1,2178.1,0.0,3625.1
+sin_EN32,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,272.0,70.6,3116.0,831.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4482.7,5760.6,1551.6,1551.6,1551.6,0.0,4482.7
+sin_EN32,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,837.6,54.6,2121.7,26.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3040.8,2330.8,2657.7,2330.8,2657.7,-326.9,2330.8
+sin_EN32,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,579.4,70.6,1704.2,41.9,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",2396.1,-656.1,2734.0,0.0,2734.0,-2734.0,0.0
+sin_EN32,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,438.0,70.6,2798.1,80.5,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3387.3,6050.7,2553.1,2553.1,2553.1,0.0,3387.3
+sin_EN32,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,346.1,70.6,2775.7,240.3,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",3625.1,7656.9,2178.1,2178.1,2178.1,0.0,3625.1
+sin_EN32,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,272.0,70.6,3116.0,831.6,"capa intacta, CONA6 menos A: el estado no tiene referencia CONA6 propia [supuesto]",4482.7,3608.0,1551.6,1551.6,1551.6,0.0,3608.0
+lista_blanca,CLG,prudente,True,Intacto,,C,False,2031,0.0,,54.6,,171.6,,226.2,4109.3,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,prudente,True,Intacto,,C,False,2032,0.0,,70.6,,207.8,,278.5,5852.4,278.5,278.5,278.5,0.0,278.5
+lista_blanca,CLG,prudente,True,Intacto,,C,False,2033,0.0,,70.6,,581.5,,652.1,7081.8,652.1,652.1,652.1,0.0,652.1
+lista_blanca,CLG,prudente,True,Intacto,,C,False,2034,192.4,,70.6,,657.2,,920.2,7905.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,prudente,True,Intacto,,C,False,2035,192.4,,70.6,,732.2,,995.2,8556.8,995.2,995.2,995.2,0.0,995.2
+lista_blanca,CLG,condicional,False,Intacto,,C,False,2031,0.0,,54.6,,171.6,,226.2,8491.9,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,condicional,False,Intacto,,C,False,2032,0.0,,70.6,,207.8,,278.5,9730.1,278.5,278.5,278.5,0.0,278.5
+lista_blanca,CLG,condicional,False,Intacto,,C,False,2033,0.0,,70.6,,581.5,,652.1,10726.9,652.1,652.1,652.1,0.0,652.1
+lista_blanca,CLG,condicional,False,Intacto,,C,False,2034,192.4,,70.6,,657.2,,920.2,11337.3,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,condicional,False,Intacto,,C,False,2035,192.4,,70.6,,732.2,,995.2,11888.5,995.2,995.2,995.2,0.0,995.2
+lista_blanca,corregida,condicional,False,Intacto,,C,False,2031,0.0,,54.6,,171.6,,226.2,10313.6,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,condicional,False,Intacto,,C,False,2032,0.0,,70.6,,207.8,,278.5,11480.2,278.5,278.5,278.5,0.0,278.5
+lista_blanca,corregida,condicional,False,Intacto,,C,False,2033,0.0,,70.6,,581.5,,652.1,12206.8,652.1,652.1,652.1,0.0,652.1
+lista_blanca,corregida,condicional,False,Intacto,,C,False,2034,192.4,,70.6,,657.2,,920.2,12517.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,condicional,False,Intacto,,C,False,2035,192.4,,70.6,,732.2,,995.2,12741.7,995.2,995.2,995.2,0.0,995.2
+lista_blanca,corregida,prudente,False,Intacto,,C,False,2031,0.0,,54.6,,171.6,,226.2,5998.7,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,prudente,False,Intacto,,C,False,2032,0.0,,70.6,,207.8,,278.5,7781.9,278.5,278.5,278.5,0.0,278.5
+lista_blanca,corregida,prudente,False,Intacto,,C,False,2033,0.0,,70.6,,581.5,,652.1,9044.9,652.1,652.1,652.1,0.0,652.1
+lista_blanca,corregida,prudente,False,Intacto,,C,False,2034,192.4,,70.6,,657.2,,920.2,9907.5,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,prudente,False,Intacto,,C,False,2035,192.4,,70.6,,732.2,,995.2,10589.1,995.2,995.2,995.2,0.0,995.2
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,,54.6,,183.4,,238.0,-2460.5,226.2,0.0,226.2,-226.2,0.0
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,,70.6,,90.1,,160.7,-592.6,278.5,0.0,278.5,-278.5,0.0
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,,70.6,,110.5,,181.1,1159.6,652.1,181.1,652.1,-471.0,181.1
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,,70.6,,136.4,,399.5,2917.2,920.2,399.5,920.2,-520.8,399.5
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,,70.6,,897.7,,1160.7,5344.9,995.2,995.2,995.2,0.0,1160.7
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,,54.6,,183.4,,238.0,1922.1,226.2,226.2,226.2,0.0,238.0
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,,70.6,,90.1,,160.7,3285.1,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,,70.6,,110.5,,181.1,4804.7,652.1,181.1,652.1,-471.0,181.1
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,,70.6,,136.4,,399.5,6349.1,920.2,399.5,920.2,-520.8,399.5
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,,70.6,,897.7,,1160.7,8676.6,995.2,995.2,995.2,0.0,1160.7
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,,54.6,,183.4,,238.0,3743.7,226.2,226.2,226.2,0.0,238.0
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,,70.6,,90.1,,160.7,5035.2,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,,70.6,,110.5,,181.1,6284.6,652.1,181.1,652.1,-471.0,181.1
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,,70.6,,136.4,,399.5,7529.3,920.2,399.5,920.2,-520.8,399.5
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,,70.6,,897.7,,1160.7,9529.8,995.2,995.2,995.2,0.0,1160.7
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,,54.6,,183.4,,238.0,-571.2,226.2,0.0,226.2,-226.2,0.0
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,,70.6,,90.1,,160.7,1336.9,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,,70.6,,110.5,,181.1,3122.7,652.1,181.1,652.1,-471.0,181.1
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,,70.6,,136.4,,399.5,4919.3,920.2,399.5,920.2,-520.8,399.5
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,,70.6,,897.7,,1160.7,7377.1,995.2,995.2,995.2,0.0,1160.7
+lista_blanca,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,,54.6,,183.3,,237.9,-482.4,226.2,0.0,226.2,-226.2,0.0
+lista_blanca,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,,70.6,,90.1,,160.7,1385.5,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,,70.6,,110.5,,181.2,3137.8,652.1,181.2,652.1,-471.0,181.2
+lista_blanca,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,,70.6,,160.6,,423.7,4887.2,920.2,423.7,920.2,-496.6,423.7
+lista_blanca,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,,70.6,,851.0,,1114.0,6958.4,995.2,995.2,995.2,0.0,1114.0
+lista_blanca,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,,54.6,,183.3,,237.9,3900.2,226.2,226.2,226.2,0.0,237.9
+lista_blanca,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,,70.6,,90.1,,160.7,5263.2,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,,70.6,,110.5,,181.2,6782.9,652.1,181.2,652.1,-471.0,181.2
+lista_blanca,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,,70.6,,160.6,,423.7,8319.1,920.2,423.7,920.2,-496.6,423.7
+lista_blanca,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,,70.6,,851.0,,1114.0,10290.2,995.2,995.2,995.2,0.0,1114.0
+lista_blanca,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,,54.6,,183.3,,237.9,5721.8,226.2,226.2,226.2,0.0,237.9
+lista_blanca,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,,70.6,,90.1,,160.7,7013.4,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,,70.6,,110.5,,181.2,8262.8,652.1,181.2,652.1,-471.0,181.2
+lista_blanca,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,,70.6,,160.6,,423.7,9499.2,920.2,423.7,920.2,-496.6,423.7
+lista_blanca,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,,70.6,,851.0,,1114.0,11143.3,995.2,995.2,995.2,0.0,1114.0
+lista_blanca,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,,54.6,,183.3,,237.9,1406.9,226.2,226.2,226.2,0.0,237.9
+lista_blanca,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,,70.6,,90.1,,160.7,3315.0,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,,70.6,,110.5,,181.2,5100.9,652.1,181.2,652.1,-471.0,181.2
+lista_blanca,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,,70.6,,160.6,,423.7,6889.3,920.2,423.7,920.2,-496.6,423.7
+lista_blanca,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,,70.6,,851.0,,1114.0,8990.7,995.2,995.2,995.2,0.0,1114.0
+lista_blanca,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,,54.6,,171.6,,226.2,3351.6,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,,70.6,,207.8,,278.5,5094.7,278.5,278.5,278.5,0.0,278.5
+lista_blanca,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,,70.6,,243.5,,314.1,6554.1,652.1,314.1,652.1,-338.0,314.1
+lista_blanca,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,,70.6,,657.2,,920.2,7905.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,,70.6,,732.2,,995.2,8556.8,995.2,995.2,995.2,0.0,995.2
+lista_blanca,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,,54.6,,171.6,,226.2,7734.2,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,,70.6,,207.8,,278.5,8972.3,278.5,278.5,278.5,0.0,278.5
+lista_blanca,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,,70.6,,243.5,,314.1,10199.2,652.1,314.1,652.1,-338.0,314.1
+lista_blanca,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,,70.6,,657.2,,920.2,11337.3,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,,70.6,,732.2,,995.2,11888.5,995.2,995.2,995.2,0.0,995.2
+lista_blanca,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,,54.6,,171.6,,226.2,9555.9,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,,70.6,,207.8,,278.5,10722.5,278.5,278.5,278.5,0.0,278.5
+lista_blanca,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,,70.6,,243.5,,314.1,11679.1,652.1,314.1,652.1,-338.0,314.1
+lista_blanca,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,,70.6,,657.2,,920.2,12517.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,,70.6,,732.2,,995.2,12741.7,995.2,995.2,995.2,0.0,995.2
+lista_blanca,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,,54.6,,171.6,,226.2,5240.9,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,,70.6,,207.8,,278.5,7024.2,278.5,278.5,278.5,0.0,278.5
+lista_blanca,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,,70.6,,243.5,,314.1,8517.2,652.1,314.1,652.1,-338.0,314.1
+lista_blanca,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,,70.6,,657.2,,920.2,9907.5,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,,70.6,,732.2,,995.2,10589.1,995.2,995.2,995.2,0.0,995.2
+lista_blanca,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,,54.6,,68.9,,123.5,86.6,226.2,86.6,226.2,-139.6,86.6
+lista_blanca,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,,70.6,,90.1,,160.7,1654.0,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,,70.6,,110.5,,181.2,2895.4,652.1,181.2,652.1,-471.0,181.2
+lista_blanca,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,,70.6,,136.4,,399.5,4142.4,920.2,399.5,920.2,-520.8,399.5
+lista_blanca,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,,70.6,,890.0,,1153.0,6027.2,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,,54.6,,68.9,,123.5,4469.2,226.2,123.5,226.2,-102.7,123.5
+lista_blanca,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,,70.6,,90.1,,160.7,5531.6,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,,70.6,,110.5,,181.2,6540.6,652.1,181.2,652.1,-471.0,181.2
+lista_blanca,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,,70.6,,136.4,,399.5,7574.3,920.2,399.5,920.2,-520.8,399.5
+lista_blanca,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,,70.6,,890.0,,1153.0,9359.0,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,,54.6,,68.9,,123.5,6290.9,226.2,123.5,226.2,-102.7,123.5
+lista_blanca,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,,70.6,,90.1,,160.7,7281.8,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,,70.6,,110.5,,181.2,8020.4,652.1,181.2,652.1,-471.0,181.2
+lista_blanca,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,,70.6,,136.4,,399.5,8754.4,920.2,399.5,920.2,-520.8,399.5
+lista_blanca,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,,70.6,,890.0,,1153.0,10212.1,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,,54.6,,68.9,,123.5,1975.9,226.2,123.5,226.2,-102.7,123.5
+lista_blanca,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,,70.6,,90.1,,160.7,3583.5,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,,70.6,,110.5,,181.2,4858.5,652.1,181.2,652.1,-471.0,181.2
+lista_blanca,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,,70.6,,136.4,,399.5,6144.5,920.2,399.5,920.2,-520.8,399.5
+lista_blanca,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,,70.6,,890.0,,1153.0,8059.5,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,,54.6,,171.6,,226.2,4124.3,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,,70.6,,90.1,,160.7,1654.0,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,,70.6,,581.5,,652.1,7081.8,652.1,652.1,652.1,0.0,652.1
+lista_blanca,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,,70.6,,657.2,,920.2,7905.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,,70.6,,890.0,,1153.0,6027.2,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,,54.6,,171.6,,226.2,8506.9,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,,70.6,,90.1,,160.7,5531.6,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,,70.6,,581.5,,652.1,10726.9,652.1,652.1,652.1,0.0,652.1
+lista_blanca,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,,70.6,,657.2,,920.2,11337.3,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,,70.6,,890.0,,1153.0,9359.0,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,,54.6,,171.6,,226.2,10328.6,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,,70.6,,90.1,,160.7,7281.8,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,,70.6,,581.5,,652.1,12206.8,652.1,652.1,652.1,0.0,652.1
+lista_blanca,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,,70.6,,657.2,,920.2,12517.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,,70.6,,890.0,,1153.0,10212.1,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,,54.6,,171.6,,226.2,6013.6,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,,70.6,,90.1,,160.7,3583.5,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,,70.6,,581.5,,652.1,9044.9,652.1,652.1,652.1,0.0,652.1
+lista_blanca,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,,70.6,,657.2,,920.2,9907.5,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,,70.6,,890.0,,1153.0,8059.5,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,,54.6,,90.9,,145.5,2717.5,226.2,145.5,226.2,-80.7,145.5
+lista_blanca,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,,70.6,,207.8,,278.5,4445.4,278.5,278.5,278.5,0.0,278.5
+lista_blanca,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,,70.6,,243.5,,314.1,5809.1,652.1,314.1,652.1,-338.0,314.1
+lista_blanca,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,,70.6,,283.4,,546.5,7207.3,920.2,546.5,920.2,-373.8,546.5
+lista_blanca,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,,70.6,,732.2,,995.2,8556.8,995.2,995.2,995.2,0.0,995.2
+lista_blanca,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,,54.6,,90.9,,145.5,7100.1,226.2,145.5,226.2,-80.7,145.5
+lista_blanca,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,,70.6,,207.8,,278.5,8323.1,278.5,278.5,278.5,0.0,278.5
+lista_blanca,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,,70.6,,243.5,,314.1,9454.2,652.1,314.1,652.1,-338.0,314.1
+lista_blanca,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,,70.6,,283.4,,546.5,10639.2,920.2,546.5,920.2,-373.8,546.5
+lista_blanca,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,,70.6,,732.2,,995.2,11888.5,995.2,995.2,995.2,0.0,995.2
+lista_blanca,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,,54.6,,90.9,,145.5,8921.8,226.2,145.5,226.2,-80.7,145.5
+lista_blanca,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,,70.6,,207.8,,278.5,10073.2,278.5,278.5,278.5,0.0,278.5
+lista_blanca,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,,70.6,,243.5,,314.1,10934.1,652.1,314.1,652.1,-338.0,314.1
+lista_blanca,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,,70.6,,283.4,,546.5,11819.3,920.2,546.5,920.2,-373.8,546.5
+lista_blanca,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,,70.6,,732.2,,995.2,12741.7,995.2,995.2,995.2,0.0,995.2
+lista_blanca,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,,54.6,,90.9,,145.5,4606.8,226.2,145.5,226.2,-80.7,145.5
+lista_blanca,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,,70.6,,207.8,,278.5,6374.9,278.5,278.5,278.5,0.0,278.5
+lista_blanca,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,,70.6,,243.5,,314.1,7772.2,652.1,314.1,652.1,-338.0,314.1
+lista_blanca,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,,70.6,,283.4,,546.5,9209.4,920.2,546.5,920.2,-373.8,546.5
+lista_blanca,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,,70.6,,732.2,,995.2,10589.1,995.2,995.2,995.2,0.0,995.2
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,,54.6,,183.3,,237.9,-5862.8,226.2,0.0,226.2,-226.2,0.0
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,,70.6,,90.1,,160.7,-4616.0,278.5,0.0,278.5,-278.5,0.0
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,,70.6,,110.6,,181.2,-3374.5,652.1,0.0,652.1,-652.1,0.0
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,,70.6,,136.5,,399.5,-2127.6,920.2,0.0,920.2,-920.2,0.0
+lista_blanca,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,,70.6,,897.7,,1160.7,-210.7,995.2,0.0,995.2,-995.2,0.0
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,,54.6,,183.3,,237.9,-1480.2,226.2,0.0,226.2,-226.2,0.0
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,,70.6,,90.1,,160.7,-738.3,278.5,0.0,278.5,-278.5,0.0
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,,70.6,,110.6,,181.2,270.6,652.1,181.2,652.1,-470.9,181.2
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,,70.6,,136.5,,399.5,1304.3,920.2,399.5,920.2,-520.7,399.5
+lista_blanca,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,,70.6,,897.7,,1160.7,3121.1,995.2,995.2,995.2,0.0,1160.7
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,,54.6,,183.3,,237.9,341.4,226.2,226.2,226.2,0.0,237.9
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,,70.6,,90.1,,160.7,1011.8,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,,70.6,,110.6,,181.2,1750.5,652.1,181.2,652.1,-470.9,181.2
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,,70.6,,136.5,,399.5,2484.4,920.2,399.5,920.2,-520.7,399.5
+lista_blanca,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,,70.6,,897.7,,1160.7,3974.2,995.2,995.2,995.2,0.0,1160.7
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,,54.6,,183.3,,237.9,-3973.5,226.2,0.0,226.2,-226.2,0.0
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,,70.6,,90.1,,160.7,-2686.5,278.5,0.0,278.5,-278.5,0.0
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,,70.6,,110.6,,181.2,-1411.4,652.1,0.0,652.1,-652.1,0.0
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,,70.6,,136.5,,399.5,-125.5,920.2,0.0,920.2,-920.2,0.0
+lista_blanca,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,,70.6,,897.7,,1160.7,1821.6,995.2,995.2,995.2,0.0,1160.7
+lista_blanca,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,,54.6,,171.6,,226.2,3838.2,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,,70.6,,207.8,,278.5,5581.3,278.5,278.5,278.5,0.0,278.5
+lista_blanca,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,,70.6,,499.5,,570.1,6999.7,652.1,570.1,652.1,-82.0,570.1
+lista_blanca,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,,70.6,,657.2,,920.2,7905.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,,70.6,,732.2,,995.2,8556.8,995.2,995.2,995.2,0.0,995.2
+lista_blanca,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,,54.6,,171.6,,226.2,8220.8,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,,70.6,,207.8,,278.5,9458.9,278.5,278.5,278.5,0.0,278.5
+lista_blanca,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,,70.6,,499.5,,570.1,10644.9,652.1,570.1,652.1,-82.0,570.1
+lista_blanca,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,,70.6,,657.2,,920.2,11337.3,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,,70.6,,732.2,,995.2,11888.5,995.2,995.2,995.2,0.0,995.2
+lista_blanca,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,,54.6,,171.6,,226.2,10042.5,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,,70.6,,207.8,,278.5,11209.1,278.5,278.5,278.5,0.0,278.5
+lista_blanca,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,,70.6,,499.5,,570.1,12124.7,652.1,570.1,652.1,-82.0,570.1
+lista_blanca,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,,70.6,,657.2,,920.2,12517.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,,70.6,,732.2,,995.2,12741.7,995.2,995.2,995.2,0.0,995.2
+lista_blanca,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,,54.6,,171.6,,226.2,5727.6,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,,70.6,,207.8,,278.5,7510.8,278.5,278.5,278.5,0.0,278.5
+lista_blanca,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,,70.6,,499.5,,570.1,8962.8,652.1,570.1,652.1,-82.0,570.1
+lista_blanca,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,,70.6,,657.2,,920.2,9907.5,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,,70.6,,732.2,,995.2,10589.1,995.2,995.2,995.2,0.0,995.2
+lista_blanca,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,,54.6,,171.6,,226.2,3853.2,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,,70.6,,90.1,,160.7,1276.2,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,,70.6,,500.2,,570.8,7000.4,652.1,570.8,652.1,-81.3,570.8
+lista_blanca,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,,70.6,,657.2,,920.2,7905.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,,70.6,,890.0,,1153.0,5667.0,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,,54.6,,171.6,,226.2,8235.8,226.2,226.2,226.2,0.0,226.2
+lista_blanca,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,,70.6,,90.1,,160.7,5153.9,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,,70.6,,500.2,,570.8,10645.6,652.1,570.8,652.1,-81.3,570.8
+lista_blanca,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,,70.6,,657.2,,920.2,11337.3,920.2,920.2,920.2,0.0,920.2
+lista_blanca,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,,70.6,,890.0,,1153.0,8998.8,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,,54.6,,171.6,,226.2,10057.5,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,,70.6,,90.1,,160.7,6904.0,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,,70.6,,500.2,,570.8,12125.5,652.1,570.8,652.1,-81.3,570.8
+lista_blanca,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,,70.6,,657.2,,920.2,12517.4,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,,70.6,,890.0,,1153.0,9851.9,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,,54.6,,171.6,,226.2,5742.5,226.2,226.2,226.2,0.0,226.2
+lista_blanca,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,,70.6,,90.1,,160.7,3205.7,278.5,160.7,278.5,-117.7,160.7
+lista_blanca,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,,70.6,,500.2,,570.8,8963.5,652.1,570.8,652.1,-81.3,570.8
+lista_blanca,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,,70.6,,657.2,,920.2,9907.5,920.2,920.2,920.2,0.0,920.2
+lista_blanca,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,,70.6,,890.0,,1153.0,7699.3,995.2,995.2,995.2,0.0,1153.0
+lista_blanca,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,,54.6,,26.9,,81.5,441.4,226.2,81.5,226.2,-144.7,81.5
+lista_blanca,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,,70.6,,41.9,,112.5,-2585.6,278.5,0.0,278.5,-278.5,0.0
+lista_blanca,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,,70.6,,80.5,,151.2,4087.6,652.1,151.2,652.1,-501.0,151.2
+lista_blanca,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,,70.6,,240.3,,503.3,5654.8,920.2,503.3,920.2,-416.9,503.3
+lista_blanca,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,,70.6,,831.6,,1094.6,1575.7,995.2,995.2,995.2,0.0,1094.6
+lista_blanca,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,,54.6,,26.9,,81.5,4824.0,226.2,81.5,226.2,-144.7,81.5
+lista_blanca,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,,70.6,,41.9,,112.5,1292.1,278.5,112.5,278.5,-165.9,112.5
+lista_blanca,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,,70.6,,80.5,,151.2,7732.7,652.1,151.2,652.1,-501.0,151.2
+lista_blanca,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,,70.6,,240.3,,503.3,9086.7,920.2,503.3,920.2,-416.9,503.3
+lista_blanca,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,,70.6,,831.6,,1094.6,4907.5,995.2,995.2,995.2,0.0,1094.6
+lista_blanca,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,,54.6,,26.9,,81.5,6645.7,226.2,81.5,226.2,-144.7,81.5
+lista_blanca,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,,70.6,,41.9,,112.5,3042.2,278.5,112.5,278.5,-165.9,112.5
+lista_blanca,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,,70.6,,80.5,,151.2,9212.6,652.1,151.2,652.1,-501.0,151.2
+lista_blanca,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,,70.6,,240.3,,503.3,10266.8,920.2,503.3,920.2,-416.9,503.3
+lista_blanca,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,,70.6,,831.6,,1094.6,5760.6,995.2,995.2,995.2,0.0,1094.6
+lista_blanca,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,,54.6,,26.9,,81.5,2330.8,226.2,81.5,226.2,-144.7,81.5
+lista_blanca,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,,70.6,,41.9,,112.5,-656.1,278.5,0.0,278.5,-278.5,0.0
+lista_blanca,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,,70.6,,80.5,,151.2,6050.7,652.1,151.2,652.1,-501.0,151.2
+lista_blanca,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,,70.6,,240.3,,503.3,7656.9,920.2,503.3,920.2,-416.9,503.3
+lista_blanca,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,,70.6,,831.6,,1094.6,3608.0,995.2,995.2,995.2,0.0,1094.6
+solo_firme,CLG,prudente,True,Intacto,,C,False,2031,0.0,,,,,,0.0,4109.3,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Intacto,,C,False,2032,0.0,,,,,,0.0,5852.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Intacto,,C,False,2033,0.0,,,,,,0.0,7081.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Intacto,,C,False,2034,192.4,,,,,,192.4,7905.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Intacto,,C,False,2035,192.4,,,,,,192.4,8556.8,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Intacto,,C,False,2031,0.0,,,,,,0.0,8491.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Intacto,,C,False,2032,0.0,,,,,,0.0,9730.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Intacto,,C,False,2033,0.0,,,,,,0.0,10726.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Intacto,,C,False,2034,192.4,,,,,,192.4,11337.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Intacto,,C,False,2035,192.4,,,,,,192.4,11888.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Intacto,,C,False,2031,0.0,,,,,,0.0,10313.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Intacto,,C,False,2032,0.0,,,,,,0.0,11480.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Intacto,,C,False,2033,0.0,,,,,,0.0,12206.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Intacto,,C,False,2034,192.4,,,,,,192.4,12517.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Intacto,,C,False,2035,192.4,,,,,,192.4,12741.7,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Intacto,,C,False,2031,0.0,,,,,,0.0,5998.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Intacto,,C,False,2032,0.0,,,,,,0.0,7781.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Intacto,,C,False,2033,0.0,,,,,,0.0,9044.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Intacto,,C,False,2034,192.4,,,,,,192.4,9907.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Intacto,,C,False,2035,192.4,,,,,,192.4,10589.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,,,,,,0.0,-2460.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,,,,,,0.0,-592.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,,,,,,0.0,1159.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,,,,,,192.4,2917.2,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,,,,,,192.4,5344.9,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,,,,,,0.0,1922.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,,,,,,0.0,3285.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,,,,,,0.0,4804.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,,,,,,192.4,6349.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,,,,,,192.4,8676.6,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,,,,,,0.0,3743.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,,,,,,0.0,5035.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,,,,,,0.0,6284.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,,,,,,192.4,7529.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,,,,,,192.4,9529.8,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,,,,,,0.0,-571.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,,,,,,0.0,1336.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,,,,,,0.0,3122.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,,,,,,192.4,4919.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,,,,,,192.4,7377.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,,,,,,0.0,-482.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,,,,,,0.0,1385.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,,,,,,0.0,3137.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,,,,,,192.4,4887.2,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,,,,,,192.4,6958.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,,,,,,0.0,3900.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,,,,,,0.0,5263.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,,,,,,0.0,6782.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,,,,,,192.4,8319.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,,,,,,192.4,10290.2,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,,,,,,0.0,5721.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,,,,,,0.0,7013.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,,,,,,0.0,8262.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,,,,,,192.4,9499.2,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,,,,,,192.4,11143.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,,,,,,0.0,1406.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,,,,,,0.0,3315.0,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,,,,,,0.0,5100.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,,,,,,192.4,6889.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,,,,,,192.4,8990.7,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,,,,,,0.0,3351.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,,,,,,0.0,5094.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,,,,,,0.0,6554.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,,,,,,192.4,7905.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,,,,,,192.4,8556.8,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,,,,,,0.0,7734.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,,,,,,0.0,8972.3,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,,,,,,0.0,10199.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,,,,,,192.4,11337.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,,,,,,192.4,11888.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,,,,,,0.0,9555.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,,,,,,0.0,10722.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,,,,,,0.0,11679.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,,,,,,192.4,12517.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,,,,,,192.4,12741.7,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,,,,,,0.0,5240.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,,,,,,0.0,7024.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,,,,,,0.0,8517.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,,,,,,192.4,9907.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,,,,,,192.4,10589.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,,,,,,0.0,86.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,,,,,,0.0,1654.0,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,,,,,,0.0,2895.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,,,,,,192.4,4142.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,,,,,,192.4,6027.2,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,,,,,,0.0,4469.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,,,,,,0.0,5531.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,,,,,,0.0,6540.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,,,,,,192.4,7574.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,,,,,,192.4,9359.0,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,,,,,,0.0,6290.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,,,,,,0.0,7281.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,,,,,,0.0,8020.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,,,,,,192.4,8754.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,,,,,,192.4,10212.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,,,,,,0.0,1975.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,,,,,,0.0,3583.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,,,,,,0.0,4858.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,,,,,,192.4,6144.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,,,,,,192.4,8059.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,,,,,,0.0,4124.3,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,,,,,,0.0,1654.0,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,,,,,,0.0,7081.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,,,,,,192.4,7905.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,,,,,,192.4,6027.2,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,,,,,,0.0,8506.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,,,,,,0.0,5531.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,,,,,,0.0,10726.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,,,,,,192.4,11337.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,,,,,,192.4,9359.0,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,,,,,,0.0,10328.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,,,,,,0.0,7281.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,,,,,,0.0,12206.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,,,,,,192.4,12517.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,,,,,,192.4,10212.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,,,,,,0.0,6013.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,,,,,,0.0,3583.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,,,,,,0.0,9044.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,,,,,,192.4,9907.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,,,,,,192.4,8059.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,,,,,,0.0,2717.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,,,,,,0.0,4445.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,,,,,,0.0,5809.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,,,,,,192.4,7207.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,,,,,,192.4,8556.8,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,,,,,,0.0,7100.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,,,,,,0.0,8323.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,,,,,,0.0,9454.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,,,,,,192.4,10639.2,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,,,,,,192.4,11888.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,,,,,,0.0,8921.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,,,,,,0.0,10073.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,,,,,,0.0,10934.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,,,,,,192.4,11819.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,,,,,,192.4,12741.7,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,,,,,,0.0,4606.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,,,,,,0.0,6374.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,,,,,,0.0,7772.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,,,,,,192.4,9209.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,,,,,,192.4,10589.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,,,,,,0.0,-5862.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,,,,,,0.0,-4616.0,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,,,,,,0.0,-3374.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,,,,,,192.4,-2127.6,192.4,0.0,192.4,-192.4,0.0
+solo_firme,CLG,prudente,True,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,,,,,,192.4,-210.7,192.4,0.0,192.4,-192.4,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,,,,,,0.0,-1480.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,,,,,,0.0,-738.3,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,,,,,,0.0,270.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,,,,,,192.4,1304.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,,,,,,192.4,3121.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,,,,,,0.0,341.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,,,,,,0.0,1011.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,,,,,,0.0,1750.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,,,,,,192.4,2484.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,,,,,,192.4,3974.2,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,,,,,,0.0,-3973.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,,,,,,0.0,-2686.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,,,,,,0.0,-1411.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,,,,,,192.4,-125.5,192.4,0.0,192.4,-192.4,0.0
+solo_firme,corregida,prudente,False,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,,,,,,192.4,1821.6,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,,,,,,0.0,3838.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,,,,,,0.0,5581.3,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,,,,,,0.0,6999.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,,,,,,192.4,7905.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,,,,,,192.4,8556.8,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,,,,,,0.0,8220.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,,,,,,0.0,9458.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,,,,,,0.0,10644.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,,,,,,192.4,11337.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,,,,,,192.4,11888.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,,,,,,0.0,10042.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,,,,,,0.0,11209.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,,,,,,0.0,12124.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,,,,,,192.4,12517.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,,,,,,192.4,12741.7,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,,,,,,0.0,5727.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,,,,,,0.0,7510.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,,,,,,0.0,8962.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,,,,,,192.4,9907.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,,,,,,192.4,10589.1,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,,,,,,0.0,3853.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,,,,,,0.0,1276.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,,,,,,0.0,7000.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,,,,,,192.4,7905.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,,,,,,192.4,5667.0,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,,,,,,0.0,8235.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,,,,,,0.0,5153.9,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,,,,,,0.0,10645.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,,,,,,192.4,11337.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,,,,,,192.4,8998.8,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,,,,,,0.0,10057.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,,,,,,0.0,6904.0,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,,,,,,0.0,12125.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,,,,,,192.4,12517.4,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,,,,,,192.4,9851.9,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,,,,,,0.0,5742.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,,,,,,0.0,3205.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,,,,,,0.0,8963.5,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,,,,,,192.4,9907.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,,,,,,192.4,7699.3,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,,,,,,0.0,441.4,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,,,,,,0.0,-2585.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,,,,,,0.0,4087.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,,,,,,192.4,5654.8,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,prudente,True,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,,,,,,192.4,1575.7,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,,,,,,0.0,4824.0,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,,,,,,0.0,1292.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,,,,,,0.0,7732.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,,,,,,192.4,9086.7,192.4,192.4,192.4,0.0,192.4
+solo_firme,CLG,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,,,,,,192.4,4907.5,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,,,,,,0.0,6645.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,,,,,,0.0,3042.2,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,,,,,,0.0,9212.6,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,,,,,,192.4,10266.8,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,condicional,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,,,,,,192.4,5760.6,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,,,,,,0.0,2330.8,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,,,,,,0.0,-656.1,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,,,,,,0.0,6050.7,0.0,0.0,0.0,0.0,0.0
+solo_firme,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,,,,,,192.4,7656.9,192.4,192.4,192.4,0.0,192.4
+solo_firme,corregida,prudente,False,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,,,,,,192.4,3608.0,192.4,192.4,192.4,0.0,192.4

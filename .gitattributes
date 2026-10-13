@@ -1,0 +1,7 @@
+*.bat text eol=crlf
+*.xlsx binary
+*.pickle binary
+*.png binary
+*.woff2 binary
+*.dll binary
+*.exe binary

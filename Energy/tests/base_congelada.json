@@ -1,0 +1,69 @@
+{
+ "corrida": {
+  "log": "tests/logs/paso13_base_k16_2026-10-13.log",
+  "inicio": "2026-10-13 08:26:55",
+  "fin": "2026-10-13 08:31:05",
+  "CONA6_0_Output_md5": "0410ba4f6df37851dcac6ce1e72dbbb1",
+  "base_anterior": {
+   "huellas": "tests/base_congelada_2026-10-12.json",
+   "copias": "_stale_ECU_NDC_2026-10-11/base_congelada_2026-10-12_1646",
+   "CONA6_0_Output_md5": "331e5665a80029b8549059092e9bc161"
+  },
+  "cambios_frente_a_la_anterior": "K16 (piso de PPFOI 2026-2035 = 5,0567 PJ) en las cuatro referencias; RE01 (respaldo de emergencia) en INCA6G"
+ },
+ "referencias": {
+  "INCA6": {
+   "output": "e5c2051f3ef52a54fa5f3690e0842b8e",
+   "datafile": "d242d9dbf5825bcda2ff9a3f5c0f6516",
+   "A2": "d3875818d1b153490124da14833c8143",
+   "filas_libro": {
+    "Scenarios": "cf9e635a9acda3193365b00215279d60",
+    "Electrical": "06dcc1270083f0e137131b3751bbad25",
+    "SmartGrid": "a79be5e36fda6a2d2c51a8f26a39aed3",
+    "Efficiency": "997e09c9ffb11b9e1fff0588413f2c5f",
+    "Distance_Levers": "62ba1fb246a38a96aaf2d95364d0d463",
+    "Occupancy_Rate": "48e605ca17cecb85a38fab356d701358"
+   }
+  },
+  "CONA6": {
+   "output": "f6b6d05b83362c18f889632cd6f2b750",
+   "datafile": "228c192b1dd68f02ed8ccc1033d09f2a",
+   "A2": "5ff3064f83a4bcf99fc2fc5e018fdfa6",
+   "filas_libro": {
+    "Scenarios": "225310e73b6ea168098d9beb928caf2d",
+    "Electrical": "db9d6856a46b0da536a6e7094816061e",
+    "SmartGrid": "4f23598c3e08a8d2f1b6860f4db874f2",
+    "Efficiency": "d79e5515475c002d8f9598edf7236ae5",
+    "Distance_Levers": "1ce8de3cef8d85b0b8de935f17924312",
+    "Occupancy_Rate": "81efd7efdc8f02ac46b4c44cbf3ee628"
+   }
+  },
+  "INCA6G": {
+   "output": "8da29581b6991087c90d12dfcad622f2",
+   "datafile": "a4f06ca8307cd34a04efc05203aadd8d",
+   "A2": "0c5d657dd07a89235f3e4bc5736987b8",
+   "filas_libro": {
+    "Scenarios": "54359c2b67eadade2c2d9fb6ab5fd0e4",
+    "Electrical": "06dcc1270083f0e137131b3751bbad25",
+    "SmartGrid": "9ee55b59f47b5fab5930c4803be61540",
+    "Efficiency": "997e09c9ffb11b9e1fff0588413f2c5f",
+    "Distance_Levers": "e8a2fd4e40fc1dc1148ec039eb04ab31",
+    "Occupancy_Rate": "34046d077304910cdd0db49f487a1300"
+   }
+  },
+  "CONA6G": {
+   "output": "f722bbe63028c7d9901fc5d7667c760c",
+   "datafile": "81c8c2025ae591f38e485e8adde3f98a",
+   "A2": "7b6e4d04a3df16e287b7fae13fc69b8c",
+   "filas_libro": {
+    "Scenarios": "266e4137fd492da05e013b62b72613c7",
+    "Electrical": "a60093425f7cdf86e156fc430bd97b42",
+    "SmartGrid": "73efd921a3969cf5da9103df0210e6ab",
+    "Efficiency": "78b8c9e94a1b9378155ac280f94fa5eb",
+    "Distance_Levers": "6016fe16ea6e19f296d7ebcddbbb7ded",
+    "Occupancy_Rate": "067324ac4692de548ded205bdad0e1c7"
+   }
+  }
+ },
+ "copias": "<trabajo>\\_stale_ECU_NDC_2026-10-11\\base_congelada_2026-10-13_0826"
+}

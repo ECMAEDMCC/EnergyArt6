@@ -1,0 +1,33 @@
+# Compila la documentación Sphinx de docs/ y la publica en GitHub Pages (rama gh-pages), como el
+# repositorio oficial ECMAEDMCC/ECU_OSeMOSYS. Las páginas generadas (docs/_generado, docs/_static)
+# vienen del cierre de la etapa de Artículo 6, así que no hace falta correr el modelo.
+name: documentation
+
+on: [push, pull_request, workflow_dispatch]
+
+permissions:
+  contents: write
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Dependencias
+        run: pip install -r docs/requirements.txt
+      - name: Compilar con Sphinx
+        env:
+          DOCS_GITHUB_USER: ${{ github.repository_owner }}
+          DOCS_GITHUB_REPO: ${{ github.event.repository.name }}
+        run: python -m sphinx -b html docs docs/_build/html
+      - name: Publicar en GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        with:
+          publish_branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs/_build/html
+          force_orphan: true

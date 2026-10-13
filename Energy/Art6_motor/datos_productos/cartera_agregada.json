@@ -1,0 +1,533 @@
+{
+ "origen": {
+  "archivo": "dashboard_demanda_art6_V8 (1).jsx",
+  "version": "V8",
+  "md5": "7e25958ad2478b737075d1f0de11ab67",
+  "fecha_archivo": "2026-10-13",
+  "fecha_extraccion": "2026-10-13",
+  "bloque": "PORT",
+  "capitulo": "Capítulo 2 · Portafolio"
+ },
+ "regla": "Solo número de iniciativas por sector, veredicto, actividad, tramo y canal: sin nombres de proyecto, sin códigos y sin potenciales (decisión del 13-10-2026).",
+ "totales": {
+  "iniciativas": 68,
+  "proyectos": 57,
+  "actividades_de_cartera": 11
+ },
+ "conciliacion_documento": {
+  "instancias_del_documento": 64,
+  "segunda_ndc": 29,
+  "planmicc_en_el_documento": 35,
+  "proyectos_con_ficha": 57
+ },
+ "veredictos": [
+  "Núcleo",
+  "Condicionado",
+  "Descartar",
+  "Doméstico",
+  "Pendiente",
+  "Habilitante"
+ ],
+ "canales": [
+  {
+   "canal": "Art. 6 · Revelada",
+   "detalle": "N5",
+   "revelada": true
+  },
+  {
+   "canal": "Art. 6 · Anunciada",
+   "detalle": "JCM/Suiza/Otros",
+   "revelada": false
+  },
+  {
+   "canal": "CORSIA · Revelada",
+   "detalle": "LoA N3",
+   "revelada": true
+  },
+  {
+   "canal": "Sin canal",
+   "detalle": "emergente 2031+",
+   "revelada": false
+  }
+ ],
+ "por_actividad": [
+  {
+   "sector": "Residuos",
+   "veredicto": "Núcleo",
+   "actividad": "Biogás de relleno (metano)",
+   "tipo": "proyecto",
+   "iniciativas": 3,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Núcleo",
+   "actividad": "Geotermia",
+   "tipo": "proyecto",
+   "iniciativas": 3,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Residuos",
+   "veredicto": "Núcleo",
+   "actividad": "PTAR / digestión anaerobia de lodos (metano)",
+   "tipo": "proyecto",
+   "iniciativas": 3,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Núcleo",
+   "actividad": "BECCS (puente a remociones)",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Núcleo",
+   "actividad": "Biodigestores agropecuarios (metano)",
+   "tipo": "proyecto",
+   "iniciativas": 1,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Núcleo",
+   "actividad": "Biomasa despachable",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "IPU",
+   "veredicto": "Núcleo",
+   "actividad": "Destrucción de HFC / refrigerantes",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Núcleo",
+   "actividad": "Eficiencia Energética Industrial (calor de proceso fósil)",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Núcleo",
+   "actividad": "Gas asociado / fugitivo (upstream)",
+   "tipo": "proyecto",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Núcleo",
+   "actividad": "Solar térmica (SHIP + piscinas)",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Condicionado",
+   "actividad": "Renovable aislada (Galápagos)",
+   "tipo": "proyecto",
+   "iniciativas": 4,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Residuos",
+   "veredicto": "Condicionado",
+   "actividad": "Compostaje / lumbricultura",
+   "tipo": "proyecto",
+   "iniciativas": 2,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Transporte",
+   "veredicto": "Condicionado",
+   "actividad": "Electromovilidad de flotas",
+   "tipo": "proyecto",
+   "iniciativas": 2,
+   "canales": [
+    "Art. 6 · Revelada",
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "IPU",
+   "veredicto": "Condicionado",
+   "actividad": "AC eficiente / refrigerantes",
+   "tipo": "proyecto",
+   "iniciativas": 1,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Condicionado",
+   "actividad": "Almacenamiento (BESS)",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "IPU",
+   "veredicto": "Condicionado",
+   "actividad": "CO₂ biogénico de fermentación (CCU/CCS)",
+   "tipo": "proyecto",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Condicionado",
+   "actividad": "Eficiencia Energética",
+   "tipo": "proyecto",
+   "iniciativas": 1,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Transporte",
+   "veredicto": "Condicionado",
+   "actividad": "Electrolinera (ii) — FV aislada + BESS",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "IPU",
+   "veredicto": "Condicionado",
+   "actividad": "Proceso industrial – cal/cemento (CO₂ de proceso)",
+   "tipo": "proyecto",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Residuos",
+   "veredicto": "Condicionado",
+   "actividad": "RDF/CDR co-procesamiento cementero",
+   "tipo": "proyecto",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Descartar",
+   "actividad": "Solar PV a red",
+   "tipo": "proyecto",
+   "iniciativas": 9,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Descartar",
+   "actividad": "Eólica a red",
+   "tipo": "proyecto",
+   "iniciativas": 3,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Doméstico",
+   "actividad": "Hidroeléctrica a red",
+   "tipo": "proyecto",
+   "iniciativas": 10,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Transporte",
+   "veredicto": "Doméstico",
+   "actividad": "Transporte masivo (metro/tranvía/monorriel)",
+   "tipo": "proyecto",
+   "iniciativas": 7,
+   "canales": [
+    "Art. 6 · Anunciada"
+   ]
+  },
+  {
+   "sector": "Energía",
+   "veredicto": "Doméstico",
+   "actividad": "Cocción eficiente (PEC, inducción)",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Art. 6 · Revelada",
+    "CORSIA · Revelada"
+   ]
+  },
+  {
+   "sector": "Transporte",
+   "veredicto": "Doméstico",
+   "actividad": "Eficiencia y eco-conducción",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Transporte",
+   "veredicto": "Doméstico",
+   "actividad": "Electrolinera (i) — red nacional",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Transporte",
+   "veredicto": "Doméstico",
+   "actividad": "Etanol en gasolinas",
+   "tipo": "proyecto",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Transporte",
+   "veredicto": "Doméstico",
+   "actividad": "Infraestructura logística (puertos secos, carga)",
+   "tipo": "actividad de cartera",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "Residuos",
+   "veredicto": "Pendiente",
+   "actividad": "Gestión de residuos – tecnología por validar",
+   "tipo": "proyecto",
+   "iniciativas": 2,
+   "canales": [
+    "Sin canal"
+   ]
+  },
+  {
+   "sector": "IPU",
+   "veredicto": "Habilitante",
+   "actividad": "Habilitante (MRV/datos, sin crédito)",
+   "tipo": "proyecto",
+   "iniciativas": 1,
+   "canales": [
+    "Sin canal"
+   ]
+  }
+ ],
+ "por_tramo": [
+  {
+   "portafolio": "Segunda NDC",
+   "veredicto": "Núcleo",
+   "tramo": "Condicional",
+   "iniciativas": 1
+  },
+  {
+   "portafolio": "Segunda NDC",
+   "veredicto": "Núcleo",
+   "tramo": "Incondicional",
+   "iniciativas": 1
+  },
+  {
+   "portafolio": "Segunda NDC",
+   "veredicto": "Condicionado",
+   "tramo": "Condicional",
+   "iniciativas": 3
+  },
+  {
+   "portafolio": "Segunda NDC",
+   "veredicto": "Condicionado",
+   "tramo": "Incondicional",
+   "iniciativas": 2
+  },
+  {
+   "portafolio": "Segunda NDC",
+   "veredicto": "Descartar",
+   "tramo": "Condicional",
+   "iniciativas": 4
+  },
+  {
+   "portafolio": "Segunda NDC",
+   "veredicto": "Descartar",
+   "tramo": "Incondicional",
+   "iniciativas": 1
+  },
+  {
+   "portafolio": "Segunda NDC",
+   "veredicto": "Doméstico",
+   "tramo": "Condicional",
+   "iniciativas": 5
+  },
+  {
+   "portafolio": "Segunda NDC",
+   "veredicto": "Doméstico",
+   "tramo": "Incondicional",
+   "iniciativas": 12
+  },
+  {
+   "portafolio": "Plan de Inversión del PLANMICC",
+   "veredicto": "Núcleo",
+   "tramo": "Por determinar",
+   "iniciativas": 9
+  },
+  {
+   "portafolio": "Plan de Inversión del PLANMICC",
+   "veredicto": "Condicionado",
+   "tramo": "Por determinar",
+   "iniciativas": 8
+  },
+  {
+   "portafolio": "Plan de Inversión del PLANMICC",
+   "veredicto": "Descartar",
+   "tramo": "Por determinar",
+   "iniciativas": 7
+  },
+  {
+   "portafolio": "Plan de Inversión del PLANMICC",
+   "veredicto": "Doméstico",
+   "tramo": "Condicional (duplica una iniciativa de la NDC)",
+   "iniciativas": 1
+  },
+  {
+   "portafolio": "Plan de Inversión del PLANMICC",
+   "veredicto": "Pendiente",
+   "tramo": "Por determinar",
+   "iniciativas": 2
+  },
+  {
+   "portafolio": "Plan de Inversión del PLANMICC",
+   "veredicto": "Habilitante",
+   "tramo": "No aplica (habilitante)",
+   "iniciativas": 1
+  },
+  {
+   "portafolio": "Actividades de cartera del Capítulo 2",
+   "veredicto": "Núcleo",
+   "tramo": "Fuera de la NDC",
+   "iniciativas": 5
+  },
+  {
+   "portafolio": "Actividades de cartera del Capítulo 2",
+   "veredicto": "Condicionado",
+   "tramo": "Fuera de la NDC",
+   "iniciativas": 2
+  },
+  {
+   "portafolio": "Actividades de cartera del Capítulo 2",
+   "veredicto": "Doméstico",
+   "tramo": "Fuera de la NDC",
+   "iniciativas": 4
+  }
+ ],
+ "por_canal": [
+  {
+   "veredicto": "Núcleo",
+   "canal": "Art. 6 · Anunciada",
+   "iniciativas": 10
+  },
+  {
+   "veredicto": "Núcleo",
+   "canal": "Sin canal",
+   "iniciativas": 6
+  },
+  {
+   "veredicto": "Condicionado",
+   "canal": "Art. 6 · Revelada",
+   "iniciativas": 2
+  },
+  {
+   "veredicto": "Condicionado",
+   "canal": "Art. 6 · Anunciada",
+   "iniciativas": 9
+  },
+  {
+   "veredicto": "Condicionado",
+   "canal": "Sin canal",
+   "iniciativas": 6
+  },
+  {
+   "veredicto": "Descartar",
+   "canal": "Art. 6 · Anunciada",
+   "iniciativas": 12
+  },
+  {
+   "veredicto": "Doméstico",
+   "canal": "Art. 6 · Revelada",
+   "iniciativas": 1
+  },
+  {
+   "veredicto": "Doméstico",
+   "canal": "Art. 6 · Anunciada",
+   "iniciativas": 7
+  },
+  {
+   "veredicto": "Doméstico",
+   "canal": "CORSIA · Revelada",
+   "iniciativas": 1
+  },
+  {
+   "veredicto": "Doméstico",
+   "canal": "Sin canal",
+   "iniciativas": 14
+  },
+  {
+   "veredicto": "Pendiente",
+   "canal": "Sin canal",
+   "iniciativas": 2
+  },
+  {
+   "veredicto": "Habilitante",
+   "canal": "Sin canal",
+   "iniciativas": 1
+  }
+ ]
+}

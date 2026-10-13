@@ -1,0 +1,25 @@
+﻿caso,clave,bloque,kt_2031_2035,2031,2032,2033,2034,2035
+central_K16_con_gas,firme,"Firme: Proyecto Geotérmico Chachimbiro (declarado, tramo condicional)",384.8,,,,,
+central_K16_con_gas,capa:A,Por demostrar: proyectos de la NDC financiada (modelo),2473.1,,,,,
+central_K16_con_gas,declarado,Por demostrar: condicionadas con potencial declarado (declarado),337.2,,,,,
+central_K16_con_gas,capa:B,"Por demostrar: paquete fuera de la NDC, B sobre A (modelo)",6129.0,,,,,
+central_K16_con_gas,capa:C,"Por demostrar: paquete fuera de la NDC, C sobre B (modelo)",2350.3,,,,,
+central_K16_con_gas,total,"Oferta total, sin las líneas en reserva",11674.4,2657.7,2734.0,2553.1,2178.1,1551.6
+central_K16_con_gas,en_reserva,"En reserva, fuera de la oferta: EN32",925.0,185.0,185.0,185.0,185.0,185.0
+central_K16_con_gas,total_con_reserva,Oferta con las líneas en reserva (anterior a la decisión del 2026-10-13),12599.4,2842.7,2919.0,2738.1,2363.1,1736.6
+K16_sin_gas,firme,"Firme: Proyecto Geotérmico Chachimbiro (declarado, tramo condicional)",384.8,,,,,
+K16_sin_gas,capa:A,Por demostrar: proyectos de la NDC financiada (modelo) [sin gas: A-GAS sobre CONA6G],2735.5,,,,,
+K16_sin_gas,declarado,Por demostrar: condicionadas con potencial declarado (declarado),337.2,,,,,
+K16_sin_gas,capa:B,"Por demostrar: paquete fuera de la NDC, B sobre A (modelo) [sin gas: B-GAS sobre A-GAS]",8234.0,,,,,
+K16_sin_gas,capa:C,"Por demostrar: paquete fuera de la NDC, C sobre B (modelo) [sin gas: C-GAS sobre B-GAS]",2149.3,,,,,
+K16_sin_gas,total,"Oferta total, sin las líneas en reserva",13840.8,2886.1,3470.2,3212.0,2584.0,1688.5
+K16_sin_gas,en_reserva,"En reserva, fuera de la oferta: EN32",925.0,185.0,185.0,185.0,185.0,185.0
+K16_sin_gas,total_con_reserva,Oferta con las líneas en reserva (anterior a la decisión del 2026-10-13),14765.8,3071.1,3655.2,3397.0,2769.0,1873.5
+pisos_CLG_12_10,firme,"Firme: Proyecto Geotérmico Chachimbiro (declarado, tramo condicional)",384.8,,,,,
+pisos_CLG_12_10,capa:A,Por demostrar: proyectos de la NDC financiada (modelo),1905.5,,,,,
+pisos_CLG_12_10,declarado,Por demostrar: condicionadas con potencial declarado (declarado) [sin EN32],337.2,,,,,
+pisos_CLG_12_10,capa:B,"Por demostrar: paquete fuera de la NDC, B sobre A (modelo)",4169.8,,,,,
+pisos_CLG_12_10,capa:C,"Por demostrar: paquete fuera de la NDC, C sobre B (modelo)",2649.7,,,,,
+pisos_CLG_12_10,total,"Oferta total, sin las líneas en reserva",9446.9,2426.2,2545.1,1921.9,1558.5,995.2
+pisos_CLG_12_10,en_reserva,"En reserva, fuera de la oferta: EN32",925.0,185.0,185.0,185.0,185.0,185.0
+pisos_CLG_12_10,total_con_reserva,Oferta con las líneas en reserva (anterior a la decisión del 2026-10-13),10371.9,2611.2,2730.1,2106.9,1743.5,1180.2

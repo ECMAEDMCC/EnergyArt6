@@ -1,0 +1,63 @@
+{
+ "corrida": {
+  "log": "tests/logs/paso9_arriendos_2026-10-12.log",
+  "inicio": "2026-10-12 16:46:51",
+  "fin": "2026-10-12 16:50:54",
+  "CONA6_0_Output_md5": "331e5665a80029b8549059092e9bc161"
+ },
+ "referencias": {
+  "INCA6": {
+   "output": "d547cff9efbde7f1648a7c7db13d4379",
+   "datafile": "803521c606b19929e25404818d8292fe",
+   "A2": "46df93df43fd6dcb207438c683469200",
+   "filas_libro": {
+    "Scenarios": "cf9e635a9acda3193365b00215279d60",
+    "Electrical": "06dcc1270083f0e137131b3751bbad25",
+    "SmartGrid": "a79be5e36fda6a2d2c51a8f26a39aed3",
+    "Efficiency": "997e09c9ffb11b9e1fff0588413f2c5f",
+    "Distance_Levers": "62ba1fb246a38a96aaf2d95364d0d463",
+    "Occupancy_Rate": "48e605ca17cecb85a38fab356d701358"
+   }
+  },
+  "CONA6": {
+   "output": "7427356d56eec96644a5ecc4225bc073",
+   "datafile": "4624c2d3b2c22a24f39e5c48f6b7fe25",
+   "A2": "5ff3064f83a4bcf99fc2fc5e018fdfa6",
+   "filas_libro": {
+    "Scenarios": "225310e73b6ea168098d9beb928caf2d",
+    "Electrical": "4a864d02d3627c87d016343f2261be86",
+    "SmartGrid": "4f23598c3e08a8d2f1b6860f4db874f2",
+    "Efficiency": "d79e5515475c002d8f9598edf7236ae5",
+    "Distance_Levers": "1ce8de3cef8d85b0b8de935f17924312",
+    "Occupancy_Rate": "81efd7efdc8f02ac46b4c44cbf3ee628"
+   }
+  },
+  "INCA6G": {
+   "output": null,
+   "datafile": "52929276436d079bc5792f7b38069d20",
+   "A2": "ef983f0d1af5d12b60bde13ebb009be8",
+   "filas_libro": {
+    "Scenarios": "f4b9cdf9085df0b2161ef87a0958c97a",
+    "Electrical": "06dcc1270083f0e137131b3751bbad25",
+    "SmartGrid": "9ee55b59f47b5fab5930c4803be61540",
+    "Efficiency": "997e09c9ffb11b9e1fff0588413f2c5f",
+    "Distance_Levers": "e8a2fd4e40fc1dc1148ec039eb04ab31",
+    "Occupancy_Rate": "34046d077304910cdd0db49f487a1300"
+   }
+  },
+  "CONA6G": {
+   "output": "d9768d7dd4259fe398efa8599fdaaea6",
+   "datafile": "e4d47299df42f5262b7905b4073cc3bb",
+   "A2": "7b6e4d04a3df16e287b7fae13fc69b8c",
+   "filas_libro": {
+    "Scenarios": "266e4137fd492da05e013b62b72613c7",
+    "Electrical": "6c57bd2ff70a780985e658732b6d5201",
+    "SmartGrid": "73efd921a3969cf5da9103df0210e6ab",
+    "Efficiency": "78b8c9e94a1b9378155ac280f94fa5eb",
+    "Distance_Levers": "6016fe16ea6e19f296d7ebcddbbb7ded",
+    "Occupancy_Rate": "067324ac4692de548ded205bdad0e1c7"
+   }
+  }
+ },
+ "copias": "<trabajo>\\_stale_ECU_NDC_2026-10-11\\base_congelada_2026-10-12_1646"
+}

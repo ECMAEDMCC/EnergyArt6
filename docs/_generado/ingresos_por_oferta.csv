@@ -1,0 +1,8 @@
+﻿clave,oferta,kt_2031_2035,nota,MUSD_Bajo,MUSD_Central,MUSD_Alto
+firme,"Firme: Proyecto Geotérmico Chachimbiro (declarado, tramo condicional)",384.8,única línea con adicionalidad firme; vende tramo condicional,3.8,9.6,11.5
+firme_capa,Firme más la capa del A por demostrar (modelo),2857.9,agrega la reducción que el modelo atribuye a las palancas del A,28.6,71.4,85.7
+capa:B,"Paquete fuera de la NDC, B sobre A (modelo)",6129.0,no consume ninguna meta; adicionalidad por demostrar,61.3,153.2,183.9
+capa:C,"Paquete fuera de la NDC, C sobre B (modelo)",2350.3,no consume ninguna meta; adicionalidad por demostrar,23.5,58.8,70.5
+declarado,Condicionadas por demostrar (declarado),337.2,"potencial declarado en el Plan de Implementación de la Segunda NDC; sin EN32, en reserva",3.4,8.4,10.1
+en_reserva,"En reserva, fuera de la oferta: Renovación y Descarbonización del Transporte Público y Comercial en el Ecuador (declarado)",925.0,"fuera de la oferta: EN32, adicionalidad regulatoria por demostrar (decisión del 13-10-2026)",9.2,23.1,27.8
+maximo,Máximo teórico con tramo condicional (A contra INCA6),25026.3,"incluye Proyecto Hidroeléctrico Santiago y Proyecto hidroeléctrico Cardenillo, sin adicionalidad: no es oferta vendible",250.3,625.7,750.8

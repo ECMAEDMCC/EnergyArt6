@@ -1,0 +1,65 @@
+{
+ "insumos": {
+  "NDCINC": {
+   "output_md5": "5db1ae26bf51711cf71a199393c1b9f9",
+   "datafile_md5": "a6836be38f39b491f7a4fc4db49769dc"
+  },
+  "INCA6": {
+   "output_md5": "71e4f443b84b0e3d3c6263c7fdb959c0",
+   "datafile_md5": "f0faef0a45a59b00455ab4b17d544f6e"
+  },
+  "INCA6G": {
+   "output_md5": "sin salida de B1: variante de suficiencia",
+   "datafile_md5": "1cbc8337ad54ef39958673ba5efed2e1"
+  },
+  "NDCCON": {
+   "output_md5": "5ec9a6b2bcc6d362daf916a7ddd72100",
+   "datafile_md5": "9f93868138ded4bca7ecf89839b56953"
+  },
+  "CONA6": {
+   "output_md5": "331e5665a80029b8549059092e9bc161",
+   "datafile_md5": "669a832aacb001171a4fc58cbb440dda"
+  },
+  "CONA6G": {
+   "output_md5": "5251f9604df6f6f710d9085804a3ca4b",
+   "datafile_md5": "4320121c21e9b8548069162c66196971"
+  }
+ },
+ "sin_salida_de_B1": [
+  "INCA6G"
+ ],
+ "tablas_md5": {
+  "ben2025_tabla_2_19.csv": "bdbf2982268d72d53b51e430a1020258",
+  "ben2025_tabla_2_20.csv": "b7be0c077c850ffe2f931009471541f3",
+  "ben2025_tabla_2_23.csv": "3cd9c8c6a62fcbaa131e4f099ecf51f7",
+  "ben2025_tabla_2_25_sgda.csv": "79561a119328bd3d2ac8e6335d53f489",
+  "ben2025_tabla_2_28.csv": "135d16e7c86d58dea2084ab451ebab79",
+  "ben2025_tablas_3_12_a_3_15.csv": "205cb4e73e30f24fa60ae9904c46d0d4"
+ },
+ "inventario_gei_largo_md5": "d763ac04e247888a90a85aee1bcd3007",
+ "version_anterior": "../../_stale_ECU_NDC_2026-10-11/iter_arriendos_antes_163913/clones",
+ "tabla5_md5": "5284c8fbf96dcaf832acdd11589a39de",
+ "capacidad_bio_fuentes_md5": "4dbdf31ca27a7d12716f1a2d715958e8",
+ "correcciones_K_md5": "0c0e2be73d84c86a023a376009999cab",
+ "arconel2025_tablas_18_19_md5": "3edcd0b0d2f8edfa533cc81fbeac99e7",
+ "construccion_hidro_2024_MW": {
+  "NDCCON": {
+   "PPHD": 19612.2,
+   "PPHDAMPS": 16.3
+  },
+  "CONA6": {
+   "PPHDAMPS": 16.3,
+   "PPHRORAM": 2.601,
+   "PPHRORAS": 0.326,
+   "PPHRORPM": 3.624,
+   "PPHRORPS": 0.793
+  },
+  "INCA6": {
+   "PPHDAMPS": 16.3,
+   "PPHRORAM": 2.601,
+   "PPHRORAS": 0.326,
+   "PPHRORPM": 3.624,
+   "PPHRORPS": 0.793
+  }
+ }
+}

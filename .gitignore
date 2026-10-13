@@ -1,0 +1,41 @@
+# El repositorio lleva la cadena A1-A2-B1-B2-B3, sus insumos, los escenarios que crea B1 (datafile, entradas y salidas
+# por escenario en Energy/Executables y parámetros en Energy/B1_Output_Params), la etapa de Artículo 6 y sus resultados,
+# de modo que las cifras se comprueban sin correr el modelo. La consolidación de B2 (ECUInput.csv y ECUOutput.csv, unos
+# 140 MB) queda fuera: el análisis no la usa y B2 la regenera en unos 70 segundos.
+__pycache__/
+*.pyc
+~$*.xlsx
+docs/_build/
+# registros de cada corrida de ejecutar_modelo.bat y salidas de diagnóstico de las pruebas
+Energy/registros/
+Energy/tests/logs/
+# respaldos locales que escriben los scripts antes de tocar el libro de configuración
+_stale_*/
+Energy/_stale_respaldos/
+# derivados que se rehacen en cada corrida
+Energy/SelectedResults.csv
+Energy/Executables/*_0/SelectedResults.csv
+Energy/Executables/*_0/*_output.txt
+Energy/Executables/input_dataset_0.csv
+Energy/Executables/output_dataset_0.csv
+Energy/ECUInput.csv
+Energy/ECUOutput.csv
+Energy/ECUInput_20*.csv
+Energy/ECUOutput_20*.csv
+# registro de A1 (no se corre) y restos del modelo de referencia
+Energy/A1_Outputs/Log.txt
+Energy/A1_Outputs/reference_*/
+# datos por central de la capa CENTRALES de ARCONEL (uso autorizado): no se publican
+*.dbf
+*.shp
+*.shx
+*.prj
+Energy/Art6_calibracion/centrales_extracto.csv
+Energy/Art6_calibracion/centrales_clases.csv
+Energy/Art6_calibracion/act_2026_centrales.csv
+Energy/Art6_calibracion/termica_altas_2024_2025.csv
+Energy/Art6_calibracion/anoseco_cenace_2024.csv
+Energy/Art6_calibracion/participacion_pphrorab_2025.csv
+# documentos fuente locales (PDF de CENACE, ARCONEL, MAE y XM), en Energy/Fuentes: se citan, no se distribuyen.
+# La ruta va completa porque git en Windows no distingue mayúsculas y Energy/Art6_motor/fuentes (tipografía) sí va.
+/Energy/Fuentes/

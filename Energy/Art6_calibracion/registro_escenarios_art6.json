@@ -1,0 +1,3018 @@
+{
+ "fecha": "2026-10-13T12:06:05",
+ "rama": null,
+ "commit": null,
+ "base": "CONA6",
+ "base_congelada": {
+  "datafile_ordenado": "228c192b1dd68f02ed8ccc1033d09f2a",
+  "output_md5": "0410ba4f6df37851dcac6ce1e72dbbb1"
+ },
+ "libro_md5": "1ae62f78882a4d48503f47a020baf444",
+ "art6_configuracion_contenido_md5": "14d330f9aec40220abe962be4d12db03",
+ "sandbox_datafiles_md5": {
+  "NDCCON_0.txt": "d4a003399f6c48ac3702f77abbe31999",
+  "A_0.txt": "3be6bf1ba911b6adae7e43b440d7001a",
+  "B_0.txt": "a32ea2b586361c887038207ccd8480d0",
+  "C_0.txt": "b4cc698dbc17bef3167bc5d757cde746"
+ },
+ "supuestos": {
+  "razon_seca": {
+   "PPHD": 0.841,
+   "PPHDAMAB": 0.6479,
+   "PPHDAMAM": 0.647,
+   "PPHDAMAS": 0.7598,
+   "PPHDAMPM": 0.9406,
+   "PPHDAMPS": 0.9406,
+   "PPHRORAB": 0.864,
+   "PPHRORAM": 0.804,
+   "PPHRORAS": 0.7598,
+   "PPHRORPM": 0.659,
+   "PPHRORPS": 0.659
+  },
+  "participacion_coca_codo_2025": 0.7274078876977548,
+  "factor_ccsolo": 0.2725921123022452,
+  "factor_ccder": 0.8545184224604491,
+  "cf_b10": 0.5895,
+  "techo_b6": 0.6941,
+  "existente_eolica_GW": 0.0663501,
+  "existente_solar_GW": 0.0911439,
+  "existente_solar_sin_condicional_GW": 0.024143899999999996,
+  "act_2026": {
+   "factor_2026": {
+    "PPHD": 1.112299,
+    "PPHDAMAB": 0.981139,
+    "PPHDAMAM": 1.181957,
+    "PPHDAMAS": 0.988185,
+    "PPHDAMPM": 0.811651,
+    "PPHDAMPS": 1.112453,
+    "PPHRORAB": 1.146535,
+    "PPHRORAM": 1.415139,
+    "PPHRORAS": 1.003346,
+    "PPHRORPM": 0.92218,
+    "PPHRORPS": 1.112104
+   },
+   "clases": [
+    {
+     "clase": "PPHD",
+     "actividad_CONA6_2025_PJ": 2.5891,
+     "razon_2026_2025": 0.988185,
+     "actividad_ACT_2026_PJ": 2.5585,
+     "techo_CONA6_2026_PJ": 2.3002,
+     "factor_2026": 1.112299,
+     "fp_CONA6_2026": 0.1129,
+     "fp_ACT_2026": 0.1256,
+     "origen": "Otras Hidro (0.9882)"
+    },
+    {
+     "clase": "PPHDAMAB",
+     "actividad_CONA6_2025_PJ": 18.1715,
+     "razon_2026_2025": 1.00116,
+     "actividad_ACT_2026_PJ": 18.1926,
+     "techo_CONA6_2026_PJ": 18.5423,
+     "factor_2026": 0.981139,
+     "fp_CONA6_2026": 0.5757,
+     "fp_ACT_2026": 0.5648,
+     "origen": "Molino (razón del tablero de CENACE ponderada por su participación en la potencia de la clase)"
+    },
+    {
+     "clase": "PPHDAMAM",
+     "actividad_CONA6_2025_PJ": 5.5813,
+     "razon_2026_2025": 1.206078,
+     "actividad_ACT_2026_PJ": 6.7315,
+     "techo_CONA6_2026_PJ": 5.6952,
+     "factor_2026": 1.181957,
+     "fp_CONA6_2026": 0.5761,
+     "fp_ACT_2026": 0.6809,
+     "origen": "Mazar y Agoyán (razón del tablero de CENACE ponderada por su participación en la potencia de la clase) y resto con Otras Hidro (0.9882)"
+    },
+    {
+     "clase": "PPHDAMAS",
+     "actividad_CONA6_2025_PJ": 0.0,
+     "razon_2026_2025": 0.988185,
+     "actividad_ACT_2026_PJ": 0.0214,
+     "techo_CONA6_2026_PJ": 0.0217,
+     "factor_2026": 0.988185,
+     "fp_CONA6_2026": 0.5359,
+     "fp_ACT_2026": 0.5296,
+     "origen": "Otras Hidro (0.9882); sin actividad en 2025: razón sobre CONA6 2026"
+    },
+    {
+     "clase": "PPHDAMPM",
+     "actividad_CONA6_2025_PJ": 5.5214,
+     "razon_2026_2025": 0.988185,
+     "actividad_ACT_2026_PJ": 5.4562,
+     "techo_CONA6_2026_PJ": 6.7223,
+     "factor_2026": 0.811651,
+     "fp_CONA6_2026": 0.5305,
+     "fp_ACT_2026": 0.4306,
+     "origen": "Otras Hidro (0.9882)"
+    },
+    {
+     "clase": "PPHDAMPS",
+     "actividad_CONA6_2025_PJ": 1.008,
+     "razon_2026_2025": 0.988185,
+     "actividad_ACT_2026_PJ": 0.9961,
+     "techo_CONA6_2026_PJ": 0.8954,
+     "factor_2026": 1.112453,
+     "fp_CONA6_2026": 0.3992,
+     "fp_ACT_2026": 0.4441,
+     "origen": "Otras Hidro (0.9882)"
+    },
+    {
+     "clase": "PPHRORAB",
+     "actividad_CONA6_2025_PJ": 33.4504,
+     "razon_2026_2025": 1.158116,
+     "actividad_ACT_2026_PJ": 38.7395,
+     "techo_CONA6_2026_PJ": 33.7883,
+     "factor_2026": 1.146535,
+     "fp_CONA6_2026": 0.5676,
+     "fp_ACT_2026": 0.6508,
+     "origen": "Coca Codo con factor de planta 0.6285 (estimado de 2026: acumulado al 10-10 más el resto del año al ritmo del 1 al 10 de octubre) sobre 1.500 MW: 29.7326 PJ; Sopladora, participación 0.2726 de CONA6 2025 por su razón 0.9878: 9.0069 PJ"
+    },
+    {
+     "clase": "PPHRORAM",
+     "actividad_CONA6_2025_PJ": 7.1343,
+     "razon_2026_2025": 1.257407,
+     "actividad_ACT_2026_PJ": 8.9707,
+     "techo_CONA6_2026_PJ": 6.3391,
+     "factor_2026": 1.415139,
+     "fp_CONA6_2026": 0.4702,
+     "fp_ACT_2026": 0.6654,
+     "origen": "Delsitanisagua (razón del tablero de CENACE ponderada por su participación en la potencia de la clase) y resto con Otras Hidro (0.9882)"
+    },
+    {
+     "clase": "PPHRORAS",
+     "actividad_CONA6_2025_PJ": 1.5631,
+     "razon_2026_2025": 0.988185,
+     "actividad_ACT_2026_PJ": 1.5447,
+     "techo_CONA6_2026_PJ": 1.5395,
+     "factor_2026": 1.003346,
+     "fp_CONA6_2026": 0.8128,
+     "fp_ACT_2026": 0.8155,
+     "origen": "Otras Hidro (0.9882)"
+    },
+    {
+     "clase": "PPHRORPM",
+     "actividad_CONA6_2025_PJ": 5.3407,
+     "razon_2026_2025": 0.941001,
+     "actividad_ACT_2026_PJ": 5.0256,
+     "techo_CONA6_2026_PJ": 5.4497,
+     "factor_2026": 0.92218,
+     "fp_CONA6_2026": 0.6201,
+     "fp_ACT_2026": 0.5718,
+     "origen": "San Francisco y Minas San Francisco (razón del tablero de CENACE ponderada por su participación en la potencia de la clase) y resto con Otras Hidro (0.9882)"
+    },
+    {
+     "clase": "PPHRORPS",
+     "actividad_CONA6_2025_PJ": 3.7354,
+     "razon_2026_2025": 0.988185,
+     "actividad_ACT_2026_PJ": 3.6913,
+     "techo_CONA6_2026_PJ": 3.3192,
+     "factor_2026": 1.112104,
+     "fp_CONA6_2026": 0.7254,
+     "fp_ACT_2026": 0.8067,
+     "origen": "Otras Hidro (0.9882)"
+    }
+   ],
+   "observado": {
+    "consumo_ene_ago_2025_GWh": 21638.0,
+    "consumo_ene_ago_2026_GWh": 24391.0,
+    "crecimiento_demanda_2026": 1.12723,
+    "consumo_2025_GWh": 32593.0,
+    "hidro_ene_jul_razon_2026_2025": 1.042929,
+    "hidro_ene_ago_2025_GWh": 18712.464962,
+    "hidro_ene_ago_2026_GWh": 19603.125417,
+    "hidro_ene_ago_razon_2026_2025": 1.047597,
+    "hidro_total_2025_GWh": 28031.38,
+    "hidro_acumulada_2026_al_10_oct_GWh": 22451.0,
+    "cc_potencia_efectiva_MW": 1500.0,
+    "cc_fp_2024": 0.5529,
+    "cc_fp_2025": 0.5863,
+    "cc_acumulado_2026_al_10_oct_GWh": 6563.0,
+    "cc_oct_1_10_2026_GWh": 206.835,
+    "cc_fp_2026_al_10_oct": 0.644189,
+    "cc_fp_oct_1_10_2026": 0.574542,
+    "cc_fp_2026_estimado": 0.628542,
+    "importacion_ene_ago_2026_GWh": 226.22,
+    "importacion_sep_1_6_2026_GWh": 40.831489,
+    "importacion_2026_antes_07_09_GWh": 267.051489,
+    "importacion_desde_07_09_2026_GWh": 0.771548,
+    "importacion_2025_GWh": 624.35,
+    "termica_participacion_ene_ago_2026": 0.204952,
+    "termica_participacion_ene_ago_2026_sin_importacion": 0.206802,
+    "termica_participacion_2025": 0.145524,
+    "termica_participacion_2025_sin_importacion": 0.148244,
+    "termica_participacion_2026_al_10_oct": 0.206675
+   },
+   "multiplicador_demanda": 1.115477,
+   "demanda_CONA6_2025_PJ": 110.82,
+   "demanda_CONA6_2026_PJ": 111.9876,
+   "demanda_ACT_2026_PJ": 124.9196,
+   "crecimiento_demanda_2026": 1.12723,
+   "importacion_2026_PJ": 0.961385,
+   "fp_coca_codo_2026": 0.628542,
+   "hidro_CONA6_2025_PJ": 84.0952,
+   "hidro_ACT_2026_PJ": 91.9281,
+   "razon_hidro_modelo_2026_2025": 1.0931,
+   "anios_secos": [
+    2029,
+    2032,
+    2035
+   ],
+   "insumos_md5": {
+    "act_2026_observado.csv": "5a5fd6522fae9b66efd6f63797abc26d",
+    "parametros_hidro_por_clase.csv": "d6c99de10d3026dcaa5cf839b94e7916"
+   }
+  },
+  "respaldo_multiplicador_costo": 1000.0,
+  "familia_GAS": {
+   "base": "CONA6G",
+   "grupos": [
+    "A",
+    "B",
+    "C"
+   ],
+   "datafile_md5": "d08a98697da861cf77adac4636bcf792",
+   "filas_iguales_en_las_dos_bases": 30
+  }
+ },
+ "escenarios": [
+  "CONA6P",
+  "CONA6I",
+  "A",
+  "A-CCOFF",
+  "A-CCSOLO",
+  "A-CCDER",
+  "A-ANOSECO",
+  "A-ANOSEC3",
+  "A-ANOSECM",
+  "A-CCOFFANOSECO",
+  "A-FOI",
+  "A-IMP0",
+  "A-ACT",
+  "A-ACTDEM",
+  "A-GAS",
+  "A-SIN",
+  "B",
+  "B-CCOFF",
+  "B-CCSOLO",
+  "B-CCDER",
+  "B-ANOSECO",
+  "B-ANOSEC3",
+  "B-ANOSECM",
+  "B-CCOFFANOSECO",
+  "B-FOI",
+  "B-IMP0",
+  "B-ACT",
+  "B-ACTDEM",
+  "B-GAS",
+  "C",
+  "C-CCOFF",
+  "C-CCSOLO",
+  "C-CCDER",
+  "C-ANOSECO",
+  "C-ANOSEC3",
+  "C-ANOSECM",
+  "C-CCOFFANOSECO",
+  "C-IMP0",
+  "C-ACT",
+  "C-ACTDEM",
+  "C-GAS",
+  "A-V7",
+  "B-V7",
+  "C-V7"
+ ],
+ "activos_solo": "todos",
+ "filas_por_escenario": {
+  "CONA6P": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 13,
+    "base": "CONA6",
+    "palancas": 3
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "CONA6I": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 14,
+    "base": "CONA6",
+    "palancas": 2
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 9,
+    "base": "CONA6",
+    "palancas": 6
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-CCOFF": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 9,
+    "base": "CONA6",
+    "palancas": 13
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-CCSOLO": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 9,
+    "base": "CONA6",
+    "palancas": 13
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-CCDER": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 9,
+    "base": "CONA6",
+    "palancas": 13
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-ANOSECO": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 43
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-ANOSEC3": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 43
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-ANOSECM": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 43
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-CCOFFANOSECO": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 43
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-FOI": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 8,
+    "base": "CONA6",
+    "palancas": 9
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-IMP0": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 9,
+    "base": "CONA6",
+    "palancas": 12
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "A-ACT": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 45
+   },
+   "Efficiency": {
+    "copias_de_la_base": 2,
+    "base": "CONA6",
+    "palancas": 6
+   }
+  },
+  "A-ACTDEM": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 45
+   },
+   "Efficiency": {
+    "copias_de_la_base": 2,
+    "base": "CONA6",
+    "palancas": 6
+   }
+  },
+  "A-GAS": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6G",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 9,
+    "base": "CONA6G",
+    "palancas": 6
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6G",
+    "palancas": 0
+   }
+  },
+  "A-SIN": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 6,
+    "base": "CONA6",
+    "palancas": 8
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 11
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-CCOFF": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 18
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-CCSOLO": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 18
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-CCDER": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 18
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-ANOSECO": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 48
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-ANOSEC3": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 48
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-ANOSECM": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 48
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-CCOFFANOSECO": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 48
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-FOI": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 6,
+    "base": "CONA6",
+    "palancas": 14
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-IMP0": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 17
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-ACT": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 50
+   },
+   "Efficiency": {
+    "copias_de_la_base": 2,
+    "base": "CONA6",
+    "palancas": 6
+   }
+  },
+  "B-ACTDEM": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 50
+   },
+   "Efficiency": {
+    "copias_de_la_base": 2,
+    "base": "CONA6",
+    "palancas": 6
+   }
+  },
+  "B-GAS": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6G",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6G",
+    "palancas": 11
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6G",
+    "palancas": 0
+   }
+  },
+  "C": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 11
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  },
+  "C-CCOFF": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 18
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  },
+  "C-CCSOLO": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 18
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  },
+  "C-CCDER": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 18
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  },
+  "C-ANOSECO": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 48
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  },
+  "C-ANOSEC3": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 48
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  },
+  "C-ANOSECM": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 48
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  },
+  "C-CCOFFANOSECO": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 48
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  },
+  "C-IMP0": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 17
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  },
+  "C-ACT": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 50
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 19
+   }
+  },
+  "C-ACTDEM": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 5,
+    "base": "CONA6",
+    "palancas": 50
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 19
+   }
+  },
+  "C-GAS": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6G",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6G",
+    "palancas": 11
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6G",
+    "palancas": 15
+   }
+  },
+  "A-V7": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 9,
+    "base": "CONA6",
+    "palancas": 7
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "B-V7": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 11
+   },
+   "Efficiency": {
+    "copias_de_la_base": 3,
+    "base": "CONA6",
+    "palancas": 0
+   }
+  },
+  "C-V7": {
+   "SmartGrid": {
+    "copias_de_la_base": 4,
+    "base": "CONA6",
+    "palancas": 0
+   },
+   "Electrical": {
+    "copias_de_la_base": 7,
+    "base": "CONA6",
+    "palancas": 11
+   },
+   "Efficiency": {
+    "copias_de_la_base": 0,
+    "base": "CONA6",
+    "palancas": 15
+   }
+  }
+ },
+ "palancas": {
+  "A1": {
+   "grupo": "A",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPWNDON",
+   "2026": 1.2901,
+   "2030": 3.2903,
+   "2035": 3.2903
+  },
+  "A3": {
+   "grupo": "A",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPPVT",
+   "2026": 0.833,
+   "2030": 2.7616,
+   "2035": 3.6751
+  },
+  "A5": {
+   "grupo": "A",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 1.27,
+   "2035": 1.27
+  },
+  "A7": {
+   "grupo": "A",
+   "parametro": "TotalAnnualMaxCapacity",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 0.5,
+   "2035": 0.5
+  },
+  "A8": {
+   "grupo": "A",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "A9": {
+   "grupo": "A",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 1.27,
+   "2035": 1.27
+  },
+  "B2": {
+   "grupo": "B",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPPVT",
+   "2026": 0.833,
+   "2030": 5.7762,
+   "2035": 11.714
+  },
+  "B4": {
+   "grupo": "B",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPWNDON",
+   "2026": 1.2901,
+   "2030": 7.1822,
+   "2035": 9.7768
+  },
+  "B6": {
+   "grupo": "B",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPBIM",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.6941
+  },
+  "B7": {
+   "grupo": "B",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPWNDON",
+   "2026": 0.05,
+   "2030": 0.1438,
+   "2035": 0.0
+  },
+  "B8": {
+   "grupo": "B",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPPVT",
+   "2026": 0.073,
+   "2030": 0.298,
+   "2035": 0.198
+  },
+  "B9": {
+   "grupo": "B",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPBIM",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "B10": {
+   "grupo": "B",
+   "parametro": "CapacityFactor",
+   "clave": "PPBIM,All",
+   "2026": 0.4592,
+   "2030": 0.4592,
+   "2035": 0.5895
+  },
+  "C-GEO1": {
+   "grupo": "C",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.138
+  },
+  "C-GEO2": {
+   "grupo": "C",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 1.27,
+   "2035": 4.7065
+  },
+  "C-EI1": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDBIM",
+   "2026": 7.7643,
+   "2030": 7.688,
+   "2035": 7.5926
+  },
+  "C-EI2": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDCOA",
+   "2026": 0.1129,
+   "2030": 0.1227,
+   "2035": 0.1354
+  },
+  "C-EI3": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDCOK",
+   "2026": 7.5959,
+   "2030": 8.2512,
+   "2035": 9.1104
+  },
+  "C-EI4": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDDSL",
+   "2026": 23.5618,
+   "2030": 25.7795,
+   "2035": 28.6847
+  },
+  "C-EI5": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDELE",
+   "2026": 46.6682,
+   "2030": 51.0561,
+   "2035": 56.8132
+  },
+  "C-EI6": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDFIR",
+   "2026": 2.4519,
+   "2030": 2.6803,
+   "2035": 2.9826999999999995
+  },
+  "C-EI7": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDFOI",
+   "2026": 11.2521,
+   "2030": 12.3135,
+   "2035": 13.7039
+  },
+  "C-EI8": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDGSL",
+   "2026": 1.281,
+   "2030": 1.4058,
+   "2035": 1.5553999999999997
+  },
+  "C-EI9": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDLPG",
+   "2026": 4.2508,
+   "2030": 4.6502,
+   "2035": 5.1764
+  },
+  "C-EI10": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDNGS",
+   "2026": 1.4885,
+   "2030": 1.6282,
+   "2035": 1.8138
+  },
+  "C-EI11": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDOID",
+   "2026": 0.6979,
+   "2030": 0.7581,
+   "2035": 0.8371
+  },
+  "C-EI12": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDRDF",
+   "2026": 0.8629,
+   "2030": 0.9374000000000001,
+   "2035": 1.035
+  },
+  "C-EM1": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TROGSL",
+   "2026": 115.1057,
+   "2030": 124.5217,
+   "2035": 141.2418
+  },
+  "C-EM2": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TRODSL",
+   "2026": 16.0364,
+   "2030": 17.5534,
+   "2035": 19.2815
+  },
+  "C-EM3": {
+   "grupo": "C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TROELE",
+   "2026": 0.6059,
+   "2030": 3.4588,
+   "2035": 6.2409
+  },
+  "SIN1": {
+   "grupo": "SIN",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPWNDON",
+   "2026": 0.7357,
+   "2030": 0.7357,
+   "2035": 0.7357
+  },
+  "SIN2": {
+   "grupo": "SIN",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPPVT",
+   "2026": 0.1225,
+   "2030": 0.1225,
+   "2035": 0.1225
+  },
+  "SIN4": {
+   "grupo": "SIN",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPWNDON",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "SIN5": {
+   "grupo": "SIN",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPPVT",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "SIN6": {
+   "grupo": "SIN",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPPVT",
+   "2026": 0.1201,
+   "2030": 0.1201,
+   "2035": 0.1201
+  },
+  "SIN7": {
+   "grupo": "SIN",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "SIN8": {
+   "grupo": "SIN",
+   "parametro": "TotalAnnualMaxCapacity",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "SIN9": {
+   "grupo": "SIN",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "R-CC01": {
+   "grupo": "CCOFF",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAB,All",
+   "2026": 0.5676,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "R-CC02": {
+   "grupo": "CCOFF",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAB",
+   "2026": 33.4504,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "R-CC03": {
+   "grupo": "CCOFF",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAB",
+   "2026": 33.7883,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "R-CS01": {
+   "grupo": "CCSOLO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAB,All",
+   "2026": 0.5676,
+   "2030": 0.1547,
+   "2035": 0.1547
+  },
+  "R-CS02": {
+   "grupo": "CCSOLO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAB",
+   "2026": 33.4504,
+   "2030": 9.1183,
+   "2035": 9.1183
+  },
+  "R-CS03": {
+   "grupo": "CCSOLO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAB",
+   "2026": 33.7883,
+   "2030": 9.2104,
+   "2035": 9.2104
+  },
+  "R-CD01": {
+   "grupo": "CCDER",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAB,All",
+   "2026": 0.5676,
+   "2030": 0.485,
+   "2035": 0.485
+  },
+  "R-CD02": {
+   "grupo": "CCDER",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAB",
+   "2026": 33.4504,
+   "2030": 28.5841,
+   "2035": 28.5841
+  },
+  "R-CD03": {
+   "grupo": "CCDER",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAB",
+   "2026": 33.7883,
+   "2030": 28.8727,
+   "2035": 28.8727
+  },
+  "R-AS01": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHD,All",
+   "2026": 0.0949,
+   "2030": 0.0949,
+   "2035": 0.0949
+  },
+  "R-AS02": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAB,All",
+   "2026": 0.373,
+   "2030": 0.373,
+   "2035": 0.373
+  },
+  "R-AS03": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAM,All",
+   "2026": 0.3727,
+   "2030": 0.3727,
+   "2035": 0.3727
+  },
+  "R-AS04": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAS,All",
+   "2026": 0.4072,
+   "2030": 0.4072,
+   "2035": 0.4072
+  },
+  "R-AS05": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMPM,All",
+   "2026": 0.499,
+   "2030": 0.499,
+   "2035": 0.499
+  },
+  "R-AS06": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMPS,All",
+   "2026": 0.3755,
+   "2030": 0.3755,
+   "2035": 0.3755
+  },
+  "R-AS07": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAB,All",
+   "2026": 0.4904,
+   "2030": 0.4904,
+   "2035": 0.4904
+  },
+  "R-AS08": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAM,All",
+   "2026": 0.378,
+   "2030": 0.378,
+   "2035": 0.378
+  },
+  "R-AS09": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAS,All",
+   "2026": 0.6176,
+   "2030": 0.6176,
+   "2035": 0.6176
+  },
+  "R-AS10": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORPM,All",
+   "2026": 0.4086,
+   "2030": 0.4086,
+   "2035": 0.4086
+  },
+  "R-AS11": {
+   "grupo": "ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORPS,All",
+   "2026": 0.478,
+   "2030": 0.478,
+   "2035": 0.478
+  },
+  "R-AS12": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHD",
+   "2026": 1.8424,
+   "2030": 1.8424,
+   "2035": 1.8424
+  },
+  "R-AS13": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAB",
+   "2026": 11.7733,
+   "2030": 11.7733,
+   "2035": 33.6519
+  },
+  "R-AS14": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAM",
+   "2026": 3.6111,
+   "2030": 3.6111,
+   "2035": 3.6111
+  },
+  "R-AS15": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAS",
+   "2026": 0.0162,
+   "2030": 0.0486,
+   "2035": 0.0486
+  },
+  "R-AS16": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMPM",
+   "2026": 6.1966,
+   "2030": 7.1997,
+   "2035": 7.1997
+  },
+  "R-AS17": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMPS",
+   "2026": 0.8254,
+   "2030": 0.8254,
+   "2035": 0.8254
+  },
+  "R-AS18": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAB",
+   "2026": 28.9011,
+   "2030": 28.9012,
+   "2035": 28.9012
+  },
+  "R-AS19": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAM",
+   "2026": 4.9947,
+   "2030": 4.9947,
+   "2035": 4.9947
+  },
+  "R-AS20": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAS",
+   "2026": 1.1463,
+   "2030": 1.1463,
+   "2035": 1.1463
+  },
+  "R-AS21": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORPM",
+   "2026": 3.5195,
+   "2030": 3.5195,
+   "2035": 3.5195
+  },
+  "R-AS22": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORPS",
+   "2026": 2.1436,
+   "2030": 2.1436,
+   "2035": 2.1436
+  },
+  "R-AS23": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHD",
+   "2026": 1.9345,
+   "2030": 1.9345,
+   "2035": 1.9345
+  },
+  "R-AS24": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAB",
+   "2026": 12.0136,
+   "2030": 18.3922,
+   "2035": 34.3387
+  },
+  "R-AS25": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAM",
+   "2026": 3.6848,
+   "2030": 3.6848,
+   "2035": 3.6848
+  },
+  "R-AS26": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAS",
+   "2026": 0.0165,
+   "2030": 0.0495,
+   "2035": 0.0495
+  },
+  "R-AS27": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMPM",
+   "2026": 6.323,
+   "2030": 7.3467,
+   "2035": 7.3467
+  },
+  "R-AS28": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMPS",
+   "2026": 0.8422,
+   "2030": 0.8422,
+   "2035": 0.8422
+  },
+  "R-AS29": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAB",
+   "2026": 29.1931,
+   "2030": 29.1931,
+   "2035": 29.1931
+  },
+  "R-AS30": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAM",
+   "2026": 5.0966,
+   "2030": 5.0966,
+   "2035": 5.0966
+  },
+  "R-AS31": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAS",
+   "2026": 1.1697,
+   "2030": 1.1697,
+   "2035": 1.1697
+  },
+  "R-AS32": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORPM",
+   "2026": 3.5914,
+   "2030": 3.5914,
+   "2035": 3.5914
+  },
+  "R-AS33": {
+   "grupo": "ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORPS",
+   "2026": 2.1874,
+   "2030": 2.1874,
+   "2035": 2.1874
+  },
+  "R-A301": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHD,All",
+   "2026": 0.0949,
+   "2030": 0.1129,
+   "2035": 0.0949
+  },
+  "R-A302": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAB,All",
+   "2026": 0.373,
+   "2030": 0.5757,
+   "2035": 0.373
+  },
+  "R-A303": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAM,All",
+   "2026": 0.3727,
+   "2030": 0.5761,
+   "2035": 0.3727
+  },
+  "R-A304": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAS,All",
+   "2026": 0.4072,
+   "2030": 0.5359,
+   "2035": 0.4072
+  },
+  "R-A305": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMPM,All",
+   "2026": 0.499,
+   "2030": 0.5305,
+   "2035": 0.499
+  },
+  "R-A306": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMPS,All",
+   "2026": 0.3755,
+   "2030": 0.3992,
+   "2035": 0.3755
+  },
+  "R-A307": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAB,All",
+   "2026": 0.4904,
+   "2030": 0.5676,
+   "2035": 0.4904
+  },
+  "R-A308": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAM,All",
+   "2026": 0.378,
+   "2030": 0.4702,
+   "2035": 0.378
+  },
+  "R-A309": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAS,All",
+   "2026": 0.6176,
+   "2030": 0.8128,
+   "2035": 0.6176
+  },
+  "R-A310": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORPM,All",
+   "2026": 0.4086,
+   "2030": 0.6201,
+   "2035": 0.4086
+  },
+  "R-A311": {
+   "grupo": "ANOSEC3",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORPS,All",
+   "2026": 0.478,
+   "2030": 0.7254,
+   "2035": 0.478
+  },
+  "R-A312": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHD",
+   "2026": 1.8424,
+   "2030": 2.1907,
+   "2035": 1.8424
+  },
+  "R-A313": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAB",
+   "2026": 11.7733,
+   "2030": 18.1715,
+   "2035": 33.6519
+  },
+  "R-A314": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAM",
+   "2026": 3.6111,
+   "2030": 5.5813,
+   "2035": 3.6111
+  },
+  "R-A315": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAS",
+   "2026": 0.0162,
+   "2030": 0.0639,
+   "2035": 0.0486
+  },
+  "R-A316": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMPM",
+   "2026": 6.1966,
+   "2030": 7.6544,
+   "2035": 7.1997
+  },
+  "R-A317": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMPS",
+   "2026": 0.8254,
+   "2030": 0.8775,
+   "2035": 0.8254
+  },
+  "R-A318": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAB",
+   "2026": 28.9011,
+   "2030": 33.4505,
+   "2035": 28.9012
+  },
+  "R-A319": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAM",
+   "2026": 4.9947,
+   "2030": 6.2123,
+   "2035": 4.9947
+  },
+  "R-A320": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAS",
+   "2026": 1.1463,
+   "2030": 1.5087,
+   "2035": 1.1463
+  },
+  "R-A321": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORPM",
+   "2026": 3.5195,
+   "2030": 5.3407,
+   "2035": 3.5195
+  },
+  "R-A322": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORPS",
+   "2026": 2.1436,
+   "2030": 3.2528,
+   "2035": 2.1436
+  },
+  "R-A323": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHD",
+   "2026": 1.9345,
+   "2030": 2.3002,
+   "2035": 1.9345
+  },
+  "R-A324": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAB",
+   "2026": 12.0136,
+   "2030": 28.3874,
+   "2035": 34.3387
+  },
+  "R-A325": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAM",
+   "2026": 3.6848,
+   "2030": 5.6952,
+   "2035": 3.6848
+  },
+  "R-A326": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAS",
+   "2026": 0.0165,
+   "2030": 0.0652,
+   "2035": 0.0495
+  },
+  "R-A327": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMPM",
+   "2026": 6.323,
+   "2030": 7.8106,
+   "2035": 7.3467
+  },
+  "R-A328": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMPS",
+   "2026": 0.8422,
+   "2030": 0.8954,
+   "2035": 0.8422
+  },
+  "R-A329": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAB",
+   "2026": 29.1931,
+   "2030": 33.7883,
+   "2035": 29.1931
+  },
+  "R-A330": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAM",
+   "2026": 5.0966,
+   "2030": 6.3391,
+   "2035": 5.0966
+  },
+  "R-A331": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAS",
+   "2026": 1.1697,
+   "2030": 1.5395,
+   "2035": 1.1697
+  },
+  "R-A332": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORPM",
+   "2026": 3.5914,
+   "2030": 5.4497,
+   "2035": 3.5914
+  },
+  "R-A333": {
+   "grupo": "ANOSEC3",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORPS",
+   "2026": 2.1874,
+   "2030": 3.3192,
+   "2035": 2.1874
+  },
+  "R-AM01": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHD,All",
+   "2026": 0.1025,
+   "2030": 0.1025,
+   "2035": 0.1025
+  },
+  "R-AM02": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAB,All",
+   "2026": 0.5227,
+   "2030": 0.5227,
+   "2035": 0.5227
+  },
+  "R-AM03": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAM,All",
+   "2026": 0.5231,
+   "2030": 0.5231,
+   "2035": 0.5231
+  },
+  "R-AM04": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAS,All",
+   "2026": 0.4866,
+   "2030": 0.4866,
+   "2035": 0.4866
+  },
+  "R-AM05": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMPM,All",
+   "2026": 0.4817,
+   "2030": 0.4817,
+   "2035": 0.4817
+  },
+  "R-AM06": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMPS,All",
+   "2026": 0.3625,
+   "2030": 0.3625,
+   "2035": 0.3625
+  },
+  "R-AM07": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAB,All",
+   "2026": 0.5154,
+   "2030": 0.5154,
+   "2035": 0.5154
+  },
+  "R-AM08": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAM,All",
+   "2026": 0.4269,
+   "2030": 0.4269,
+   "2035": 0.4269
+  },
+  "R-AM09": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAS,All",
+   "2026": 0.738,
+   "2030": 0.738,
+   "2035": 0.738
+  },
+  "R-AM10": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORPM,All",
+   "2026": 0.5631,
+   "2030": 0.5631,
+   "2035": 0.5631
+  },
+  "R-AM11": {
+   "grupo": "ANOSECM",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORPS,All",
+   "2026": 0.6587,
+   "2030": 0.6587,
+   "2035": 0.6587
+  },
+  "R-AM12": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHD",
+   "2026": 1.9892,
+   "2030": 1.9892,
+   "2035": 1.9892
+  },
+  "R-AM13": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAB",
+   "2026": 16.4997,
+   "2030": 16.4997,
+   "2035": 47.1615
+  },
+  "R-AM14": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAM",
+   "2026": 5.0678,
+   "2030": 5.0678,
+   "2035": 5.0678
+  },
+  "R-AM15": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAS",
+   "2026": 0.0193,
+   "2030": 0.058,
+   "2035": 0.058
+  },
+  "R-AM16": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMPM",
+   "2026": 5.9818,
+   "2030": 6.9502,
+   "2035": 6.9502
+  },
+  "R-AM17": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMPS",
+   "2026": 0.7968,
+   "2030": 0.7968,
+   "2035": 0.7968
+  },
+  "R-AM18": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAB",
+   "2026": 30.373,
+   "2030": 30.3731,
+   "2035": 30.3731
+  },
+  "R-AM19": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAM",
+   "2026": 5.6408,
+   "2030": 5.6408,
+   "2035": 5.6408
+  },
+  "R-AM20": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAS",
+   "2026": 1.3699,
+   "2030": 1.3699,
+   "2035": 1.3699
+  },
+  "R-AM21": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORPM",
+   "2026": 4.8494,
+   "2030": 4.8494,
+   "2035": 4.8494
+  },
+  "R-AM22": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORPS",
+   "2026": 2.9535,
+   "2030": 2.9535,
+   "2035": 2.9535
+  },
+  "R-AM23": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHD",
+   "2026": 2.0886,
+   "2030": 2.0886,
+   "2035": 2.0886
+  },
+  "R-AM24": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAB",
+   "2026": 16.8364,
+   "2030": 25.7758,
+   "2035": 48.124
+  },
+  "R-AM25": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAM",
+   "2026": 5.1712,
+   "2030": 5.1712,
+   "2035": 5.1712
+  },
+  "R-AM26": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAS",
+   "2026": 0.0197,
+   "2030": 0.0592,
+   "2035": 0.0592
+  },
+  "R-AM27": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMPM",
+   "2026": 6.1038,
+   "2030": 7.092,
+   "2035": 7.092
+  },
+  "R-AM28": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMPS",
+   "2026": 0.813,
+   "2030": 0.813,
+   "2035": 0.813
+  },
+  "R-AM29": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAB",
+   "2026": 30.6798,
+   "2030": 30.6798,
+   "2035": 30.6798
+  },
+  "R-AM30": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAM",
+   "2026": 5.7559,
+   "2030": 5.7559,
+   "2035": 5.7559
+  },
+  "R-AM31": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAS",
+   "2026": 1.3979,
+   "2030": 1.3979,
+   "2035": 1.3979
+  },
+  "R-AM32": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORPM",
+   "2026": 4.9483,
+   "2030": 4.9483,
+   "2035": 4.9483
+  },
+  "R-AM33": {
+   "grupo": "ANOSECM",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORPS",
+   "2026": 3.0138,
+   "2030": 3.0138,
+   "2035": 3.0138
+  },
+  "R-CA01": {
+   "grupo": "CCOFF_ANOSECO",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAB,All",
+   "2026": 0.4904,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "R-CA02": {
+   "grupo": "CCOFF_ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAB",
+   "2026": 28.9011,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "R-CA03": {
+   "grupo": "CCOFF_ANOSECO",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAB",
+   "2026": 29.1931,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "S1": {
+   "grupo": "FOI",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPFOI",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "S2": {
+   "grupo": "FOI",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPDSL",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "S3": {
+   "grupo": "FOI",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPNGS",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "I1": {
+   "grupo": "IMP0",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "IMPELE",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "I2": {
+   "grupo": "IMP0",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "IMPELE",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "R-AT01": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHD,All",
+   "2026": 0.1256,
+   "2030": 0.1129,
+   "2035": 0.0949
+  },
+  "R-AT02": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAB,All",
+   "2026": 0.5648,
+   "2030": 0.5757,
+   "2035": 0.373
+  },
+  "R-AT03": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAM,All",
+   "2026": 0.6809,
+   "2030": 0.5761,
+   "2035": 0.3727
+  },
+  "R-AT04": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMAS,All",
+   "2026": 0.5296,
+   "2030": 0.5359,
+   "2035": 0.4072
+  },
+  "R-AT05": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMPM,All",
+   "2026": 0.4306,
+   "2030": 0.5305,
+   "2035": 0.499
+  },
+  "R-AT06": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHDAMPS,All",
+   "2026": 0.4441,
+   "2030": 0.3992,
+   "2035": 0.3755
+  },
+  "R-AT07": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAB,All",
+   "2026": 0.6508,
+   "2030": 0.5676,
+   "2035": 0.4904
+  },
+  "R-AT08": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAM,All",
+   "2026": 0.6654,
+   "2030": 0.4702,
+   "2035": 0.378
+  },
+  "R-AT09": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORAS,All",
+   "2026": 0.8155,
+   "2030": 0.8128,
+   "2035": 0.6176
+  },
+  "R-AT10": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORPM,All",
+   "2026": 0.5718,
+   "2030": 0.6201,
+   "2035": 0.4086
+  },
+  "R-AT11": {
+   "grupo": "ACTH",
+   "parametro": "CapacityFactor",
+   "clave": "PPHRORPS,All",
+   "2026": 0.8067,
+   "2030": 0.7254,
+   "2035": 0.478
+  },
+  "R-AT12": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHD",
+   "2026": 2.4367,
+   "2030": 2.1907,
+   "2035": 1.8424
+  },
+  "R-AT13": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAB",
+   "2026": 17.8288,
+   "2030": 18.1715,
+   "2035": 33.6519
+  },
+  "R-AT14": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAM",
+   "2026": 6.5969,
+   "2030": 5.5813,
+   "2035": 3.6111
+  },
+  "R-AT15": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMAS",
+   "2026": 0.021,
+   "2030": 0.0639,
+   "2035": 0.0486
+  },
+  "R-AT16": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMPM",
+   "2026": 5.3471,
+   "2030": 7.6544,
+   "2035": 7.1997
+  },
+  "R-AT17": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHDAMPS",
+   "2026": 0.9762,
+   "2030": 0.8775,
+   "2035": 0.8254
+  },
+  "R-AT18": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAB",
+   "2026": 38.3521,
+   "2030": 33.4505,
+   "2035": 28.9012
+  },
+  "R-AT19": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAM",
+   "2026": 8.7913,
+   "2030": 6.2123,
+   "2035": 4.9947
+  },
+  "R-AT20": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORAS",
+   "2026": 1.5137,
+   "2030": 1.5087,
+   "2035": 1.1463
+  },
+  "R-AT21": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORPM",
+   "2026": 4.9251,
+   "2030": 5.3407,
+   "2035": 3.5195
+  },
+  "R-AT22": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPHRORPS",
+   "2026": 3.6175,
+   "2030": 3.2528,
+   "2035": 2.1436
+  },
+  "R-AT23": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHD",
+   "2026": 2.5585,
+   "2030": 2.3002,
+   "2035": 1.9345
+  },
+  "R-AT24": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAB",
+   "2026": 18.1926,
+   "2030": 28.3874,
+   "2035": 34.3387
+  },
+  "R-AT25": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAM",
+   "2026": 6.7315,
+   "2030": 5.6952,
+   "2035": 3.6848
+  },
+  "R-AT26": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMAS",
+   "2026": 0.0214,
+   "2030": 0.0652,
+   "2035": 0.0495
+  },
+  "R-AT27": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMPM",
+   "2026": 5.4562,
+   "2030": 7.8106,
+   "2035": 7.3467
+  },
+  "R-AT28": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHDAMPS",
+   "2026": 0.9961,
+   "2030": 0.8954,
+   "2035": 0.8422
+  },
+  "R-AT29": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAB",
+   "2026": 38.7395,
+   "2030": 33.7883,
+   "2035": 29.1931
+  },
+  "R-AT30": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAM",
+   "2026": 8.9707,
+   "2030": 6.3391,
+   "2035": 5.0966
+  },
+  "R-AT31": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORAS",
+   "2026": 1.5447,
+   "2030": 1.5395,
+   "2035": 1.1697
+  },
+  "R-AT32": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORPM",
+   "2026": 5.0256,
+   "2030": 5.4497,
+   "2035": 3.5914
+  },
+  "R-AT33": {
+   "grupo": "ACTH",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPHRORPS",
+   "2026": 3.6913,
+   "2030": 3.3192,
+   "2035": 2.1874
+  },
+  "I3": {
+   "grupo": "IMPACT",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "IMPELE",
+   "2026": 0.9614,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "I4": {
+   "grupo": "IMPACT",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "IMPELE",
+   "2026": 0.9614,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "D-A1": {
+   "grupo": "DEMACT",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5COMELE",
+   "2026": 34.47490400455565,
+   "2030": 34.021635707633344,
+   "2035": 38.42397361029277
+  },
+  "D-A2": {
+   "grupo": "DEMACT",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDELE",
+   "2026": 52.185113691089235,
+   "2030": 51.68934312596274,
+   "2035": 58.240095859823995
+  },
+  "D-A3": {
+   "grupo": "DEMACT",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5RESELE",
+   "2026": 34.416264104256896,
+   "2030": 32.37653353767488,
+   "2035": 34.158329636482364
+  },
+  "D-A4": {
+   "grupo": "DEMACT",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TROELE",
+   "2026": 0.2655950737,
+   "2030": 1.6202,
+   "2035": 2.5635
+  },
+  "D-A5": {
+   "grupo": "DEMACT",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5ALLTRNELE",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "D-A6": {
+   "grupo": "DEMACT",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5CONELE",
+   "2026": 3.5777173575427508,
+   "2030": 3.600984323004173,
+   "2035": 4.105685094792657
+  },
+  "D-C1": {
+   "grupo": "DEMACT_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5COMELE",
+   "2026": 34.47490400455565,
+   "2030": 34.021635707633344,
+   "2035": 38.42397361029277
+  },
+  "D-C2": {
+   "grupo": "DEMACT_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDELE",
+   "2026": 52.0573037314,
+   "2030": 51.0561,
+   "2035": 56.8132
+  },
+  "D-C3": {
+   "grupo": "DEMACT_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5RESELE",
+   "2026": 34.416264104256896,
+   "2030": 32.37653353767488,
+   "2035": 34.158329636482364
+  },
+  "D-C4": {
+   "grupo": "DEMACT_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TROELE",
+   "2026": 0.6758675143,
+   "2030": 3.4588,
+   "2035": 6.2409
+  },
+  "D-C5": {
+   "grupo": "DEMACT_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5ALLTRNELE",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "D-C6": {
+   "grupo": "DEMACT_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5CONELE",
+   "2026": 3.5777173575427508,
+   "2030": 3.600984323004173,
+   "2035": 4.105685094792657
+  },
+  "D-P1": {
+   "grupo": "DEMACTDEM",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5COMELE",
+   "2026": 34.47490400455565,
+   "2030": 37.95035213424372,
+   "2035": 42.86105881088855
+  },
+  "D-P2": {
+   "grupo": "DEMACTDEM",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDELE",
+   "2026": 52.185113691089235,
+   "2030": 57.65827340211955,
+   "2035": 64.96548740942889
+  },
+  "D-P3": {
+   "grupo": "DEMACTDEM",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5RESELE",
+   "2026": 34.416264104256896,
+   "2030": 36.115278501004966,
+   "2035": 38.10283106791444
+  },
+  "D-P4": {
+   "grupo": "DEMACTDEM",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TROELE",
+   "2026": 0.2655950737,
+   "2030": 1.8072958354000002,
+   "2035": 2.8595252895
+  },
+  "D-P5": {
+   "grupo": "DEMACTDEM",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5ALLTRNELE",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "D-P6": {
+   "grupo": "DEMACTDEM",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5CONELE",
+   "2026": 3.5777173575427508,
+   "2030": 4.016815189671727,
+   "2035": 4.579797292484028
+  },
+  "D-Q1": {
+   "grupo": "DEMACTDEM_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5COMELE",
+   "2026": 34.47490400455565,
+   "2030": 37.95035213424372,
+   "2035": 42.86105881088855
+  },
+  "D-Q2": {
+   "grupo": "DEMACTDEM_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDELE",
+   "2026": 52.0573037314,
+   "2030": 56.951905259700006,
+   "2035": 63.373817896400006
+  },
+  "D-Q3": {
+   "grupo": "DEMACTDEM_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5RESELE",
+   "2026": 34.416264104256896,
+   "2030": 36.115278501004966,
+   "2035": 38.10283106791444
+  },
+  "D-Q4": {
+   "grupo": "DEMACTDEM_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TROELE",
+   "2026": 0.6758675143,
+   "2030": 3.8582118476000002,
+   "2035": 6.9615804093
+  },
+  "D-Q5": {
+   "grupo": "DEMACTDEM_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5ALLTRNELE",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "D-Q6": {
+   "grupo": "DEMACTDEM_C",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5CONELE",
+   "2026": 3.5777173575427508,
+   "2030": 4.016815189671727,
+   "2035": 4.579797292484028
+  },
+  "RE1": {
+   "grupo": "RESP",
+   "parametro": "TotalAnnualMaxCapacity",
+   "clave": "PPFOI",
+   "2026": 99999.0,
+   "2030": 99999.0,
+   "2035": 99999.0
+  },
+  "RE2": {
+   "grupo": "RESP",
+   "parametro": "CapitalCost",
+   "clave": "PPFOI",
+   "2026": 1000.0,
+   "2030": 1000.0,
+   "2035": 1000.0
+  },
+  "RE3": {
+   "grupo": "RESP",
+   "parametro": "FixedCost",
+   "clave": "PPFOI",
+   "2026": 1000.0,
+   "2030": 1000.0,
+   "2035": 1000.0
+  },
+  "RE4": {
+   "grupo": "RESP",
+   "parametro": "TotalAnnualMaxCapacity",
+   "clave": "STOELE",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "A1-V7": {
+   "grupo": "A_V7",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPWNDON",
+   "2026": 0.7565,
+   "2030": 2.6968,
+   "2035": 2.6968
+  },
+  "A3-V7": {
+   "grupo": "A_V7",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPPVT",
+   "2026": 0.7114,
+   "2030": 2.5728,
+   "2035": 3.6693
+  },
+  "A5-V7": {
+   "grupo": "A_V7",
+   "parametro": "TotalTechnologyAnnualActivityLowerLimit",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 1.27,
+   "2035": 1.27
+  },
+  "A6-V7": {
+   "grupo": "A_V7",
+   "parametro": "CapacityFactor",
+   "clave": "PPWNDON,All",
+   "2026": 0.359,
+   "2030": 0.359,
+   "2035": 0.359
+  },
+  "A7-V7": {
+   "grupo": "A_V7",
+   "parametro": "TotalAnnualMaxCapacity",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 0.5,
+   "2035": 0.5
+  },
+  "A8-V7": {
+   "grupo": "A_V7",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "A9-V7": {
+   "grupo": "A_V7",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 1.27,
+   "2035": 1.27
+  },
+  "B2-V7": {
+   "grupo": "B_V7",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPPVT",
+   "2026": 0.7114,
+   "2030": 5.4824,
+   "2035": 11.2134
+  },
+  "B4-V7": {
+   "grupo": "B_V7",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPWNDON",
+   "2026": 0.7565,
+   "2030": 6.4719,
+   "2035": 8.9887
+  },
+  "B6-V7": {
+   "grupo": "B_V7",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPBIM",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.4897
+  },
+  "B7-V7": {
+   "grupo": "B_V7",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPWNDON",
+   "2026": 0.05,
+   "2030": 0.1438,
+   "2035": 0.0
+  },
+  "B8-V7": {
+   "grupo": "B_V7",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPPVT",
+   "2026": 0.073,
+   "2030": 0.298,
+   "2035": 0.198
+  },
+  "B9-V7": {
+   "grupo": "B_V7",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPBIM",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.0
+  },
+  "C-EI1-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDBIM",
+   "2026": 7.7643,
+   "2030": 7.688,
+   "2035": 7.5926
+  },
+  "C-EI2-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDCOA",
+   "2026": 0.1129,
+   "2030": 0.1227,
+   "2035": 0.1354
+  },
+  "C-EI3-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDCOK",
+   "2026": 7.5959,
+   "2030": 8.2512,
+   "2035": 9.1104
+  },
+  "C-EI4-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDDSL",
+   "2026": 23.5618,
+   "2030": 25.7795,
+   "2035": 28.6847
+  },
+  "C-EI5-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDELE",
+   "2026": 46.6682,
+   "2030": 51.0561,
+   "2035": 56.8132
+  },
+  "C-EI6-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDFIR",
+   "2026": 2.4519,
+   "2030": 2.6803,
+   "2035": 2.9827
+  },
+  "C-EI7-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDFOI",
+   "2026": 11.2521,
+   "2030": 12.3135,
+   "2035": 13.7039
+  },
+  "C-EI8-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDGSL",
+   "2026": 1.281,
+   "2030": 1.4058,
+   "2035": 1.5554
+  },
+  "C-EI9-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDLPG",
+   "2026": 4.2508,
+   "2030": 4.6502,
+   "2035": 5.1764
+  },
+  "C-EI10-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDNGS",
+   "2026": 1.4885,
+   "2030": 1.6282,
+   "2035": 1.8138
+  },
+  "C-EI11-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDOID",
+   "2026": 0.6979,
+   "2030": 0.7581,
+   "2035": 0.8371
+  },
+  "C-EI12-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5INDRDF",
+   "2026": 0.8629,
+   "2030": 0.9374,
+   "2035": 1.035
+  },
+  "C-EM2-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TRODSL",
+   "2026": 16.0364,
+   "2030": 17.5534,
+   "2035": 19.2815
+  },
+  "C-EM3-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TROELE",
+   "2026": 0.6059,
+   "2030": 3.4588,
+   "2035": 6.2409
+  },
+  "C-EM1-V7": {
+   "grupo": "C_V7",
+   "parametro": "SpecifiedAnnualDemand",
+   "clave": "E5TROGSL",
+   "2026": 115.1057,
+   "2030": 124.5217,
+   "2035": 141.2418
+  },
+  "C-GEO1-V7": {
+   "grupo": "C_V7",
+   "parametro": "TotalAnnualMinCapacityInvestment",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 0.0,
+   "2035": 0.138
+  },
+  "C-GEO2-V7": {
+   "grupo": "C_V7",
+   "parametro": "TotalTechnologyAnnualActivityUpperLimit",
+   "clave": "PPGEO",
+   "2026": 0.0,
+   "2030": 1.27,
+   "2035": 4.7065
+  }
+ },
+ "insumos_md5": {
+  "parametros_hidro_por_clase.csv": "d6c99de10d3026dcaa5cf839b94e7916",
+  "act_2026_observado.csv": "5a5fd6522fae9b66efd6f63797abc26d"
+ }
+}

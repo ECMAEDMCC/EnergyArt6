@@ -1,0 +1,550 @@
+# Potencial de ITMO
+
+La oferta de 2031-2035 se informa en tres casos: el caso central, el caso con los pisos térmicos del
+Modelo CLG y el caso sin la expansión a gas declarada. Cada caso se calcula con las líneas en reserva
+fuera y dentro de la oferta.
+
+El margen frente a la meta se calcula con dos proyecciones (Modelo CLG y corregida) y dos reglas para
+los sectores que el modelo no representa (condicional y prudente). La lectura que dimensiona la
+autorización es la proyección del Modelo CLG con la regla prudente ([Metodología](../methods.md)).
+
+![Indicadores para la decisión](../../_static/graficas/g00_indicadores.png)
+
+Indicadores para la decisión
+
+#### Qué muestra
+
+Cifras de la corrida que resumen la decisión: la oferta potencial de ITMO del sector energía en 2031-2035, la parte con adicionalidad firme, el margen de 2035 con la salida de la clase de Coca Codo y el año seco severo y el volumen que puede transferirse sin incumplir la meta incondicional, con el sistema intacto y con la salida de la clase de Coca Codo y el año seco severo.
+
+#### Cómo leerla
+
+Las barras horizontales comparan el volumen transferible con la oferta total, que marca la raya negra. Un margen en rojo es negativo: el país quedaría por encima de su meta incondicional aun sin transferir.
+
+#### Qué dice el modelo
+
+Con el sistema intacto pueden transferirse los 11 674 kt CO₂e ofertables. Con la salida de la clase de Coca Codo y el año seco severo, en la regla prudente (los demás sectores cumplen solo su tramo incondicional), el volumen transferible cae a 0 kt y el margen de 2035 del C es de −211 kt.
+
+#### Para la decisión
+
+Solo 385 kt de la oferta tienen adicionalidad firme: Proyecto Geotérmico Chachimbiro. La eólica y la solar aportan el 88 % de la generación renovable que el C, último escalón de la escalera, agrega en 2031-2035 frente al condicional. De las 11 líneas de las capas del modelo, una tiene adicionalidad firme (Proyecto Geotérmico Chachimbiro), seis figuran como «Descartar», una como «Condicionada» y las tres del C no tienen veredicto. Fuera del modelo, las seis líneas figuran como «Condicionada» y entran con su potencial declarado. El potencial depende además de que el sistema hidroeléctrico opere como prevé la NDC.
+
+![Comparación de escenarios en 2035](../../_static/graficas/g19_comparacion.png)
+
+Comparación de escenarios en 2035
+
+Emisiones por escenario en 2035: 50 328 kt en NDC financiada, 50 044 kt en Ambición ampliada y 49 312 kt en Ambición integral; Ambición integral reduce 16 197 kt acumulados en 2026-2035 frente al condicional y su margen de 2035 va de 8 557 a 11 888 kt según la regla. Barras con el color de cada escenario. Margen: distancia entre la meta incondicional y las emisiones nacionales del escenario; la barra clara aplica la regla prudente. La ERNC excluye la hidroelectricidad.
+
+#### Qué muestra
+
+Los escenarios lado a lado en cuatro paneles: emisiones del sector energía en 2035, reducción acumulada 2026-2035 frente al condicional (y el aporte atribuible por retiro cuando la corrida trae el contrafactual), margen nacional de 2035 con las dos reglas para los sectores que el modelo no cubre y participación de la ERNC.
+
+#### Cómo leerla
+
+Cada barra lleva el color de su escenario y la cifra al final. En el panel del margen, la barra clara aplica la regla prudente (los demás sectores cumplen solo su tramo incondicional); un margen negativo significa que el escenario incumple la meta incondicional.
+
+#### Qué dice el modelo
+
+En 2035 NDC financiada emite 50 328 kt, Ambición ampliada emite 50 044 kt y Ambición integral emite 49 312 kt. Ambición integral reduce 16 197 kt acumulados en 2026-2035 frente al condicional y NDC financiada 5 177 kt; su margen de 2035 es de 11 888 kt con la regla base y 8 557 kt con la regla prudente.
+
+#### Para la decisión
+
+La comparación separa lo que el país controla (la capa de cada escenario) de lo que depende de los demás sectores (la regla del margen): la decisión de autorizar transferencias se toma sobre el margen prudente y la adicionalidad que admita el comprador.
+
+![Oferta de Artículo 6 por tramo, 2031-2035](../../_static/graficas/g01_itmos_area.png)
+
+Oferta de Artículo 6 por tramo, 2031-2035
+
+Potencial de Artículo 6, 2031-2035: 10 952 kt adicionales a la NDC y 22 553 kt del tramo condicional. Emisiones del sector energía (kt CO2e). Verde: lo que el escenario «Ambición integral» reduce bajo el condicional. Ámbar: el tramo condicional. Con los botones de riesgo, el rojo muestra cuánto se pierde.
+
+#### Qué muestra
+
+Emisiones del sector energía en kt CO₂e (Output.csv de cada escenario) de la NDC incondicional corregida, la NDC condicional corregida, la NDC financiada, el escenario «Ambición ampliada» y el escenario «Ambición integral» entre 2020 y 2035, con la ventana de transacciones 2031-2035 sombreada dentro de la Segunda NDC 2026-2035.
+
+#### Cómo leerla
+
+El área verde, entre el condicional y el C, es la reducción adicional a toda la NDC. El área ámbar, entre el incondicional y el condicional, es el tramo condicional. Los botones aplican la salida de la clase de Coca Codo, la salida de Coca Codo sola, el derrateo de Coca Codo, el año seco severo, un año seco cada tres, el año seco moderado, la salida de la clase de Coca Codo y el año seco severo, la importación cero desde Colombia, la situación actual anclada a 2026 con choque de demanda transitorio y la situación actual anclada a 2026 con demanda persistente sobre A, B y C; el área roja marca los años en que el escenario emite más que el condicional.
+
+#### Qué dice el modelo
+
+Con el sistema intacto, la reducción adicional a la NDC suma 10 952 kt en 2031-2035, de los cuales 2 473 kt corresponden al A. El tramo condicional suma 22 553 kt en 2031-2035. Bajo riesgo, la reducción adicional del C queda en 0 kt con la salida de la clase de Coca Codo, 0 kt con la salida de Coca Codo sola, 8 909 kt con el derrateo de Coca Codo, 0 kt con el año seco severo, 7 015 kt con un año seco cada tres, 6 183 kt con el año seco moderado, 0 kt con la salida de la clase de Coca Codo y el año seco severo, 10 328 kt con la importación cero desde Colombia, 6 663 kt con la situación actual anclada a 2026 con choque de demanda transitorio y 0 kt con la situación actual anclada a 2026 con demanda persistente.
+
+#### Para la decisión
+
+El área verde es lo único que el país podría transferir sin renunciar a ninguna meta. Bajo riesgo hidroeléctrico se reduce, y el 88 % de la generación renovable que la sostiene es eólica y solar. El ámbar solo se transfiere renunciando a la meta condicional e incluye las iniciativas Proyecto Hidroeléctrico Santiago y Proyecto hidroeléctrico Cardenillo, las condicionales de mayor reducción declarada, que figuran como «Sin adicionalidad».
+
+![Composición de la oferta y volumen transferible bajo riesgo](../../_static/graficas/g02_potencial.png)
+
+Composición de la oferta y volumen transferible bajo riesgo
+
+De 11 674 kt ofertables en 2031-2035, solo 385 kt tienen adicionalidad firme (Proyecto Geotérmico Chachimbiro); con la salida de la clase de Coca Codo y el año seco severo y la regla prudente caben 0 kt. Izquierda: la oferta por nivel de adicionalidad (kt CO2e); rayado: líneas que los compradores descartan. Fuera de la oferta quedan 17 983 kt sin adicionalidad (Proyecto Hidroeléctrico Santiago y Proyecto hidroeléctrico Cardenillo). Derecha: lo que cabe en el margen de la meta incondicional con el sistema intacto y bajo cada riesgo; la línea punteada es la oferta completa.
+
+#### Qué muestra
+
+A la izquierda, de qué se compone la oferta potencial de ITMO 2031-2035 por nivel de adicionalidad (kt CO₂e); a la derecha, cuánto de esa oferta cabe en el margen de la meta incondicional con el sistema intacto y bajo cada riesgo, según la regla para los sectores que el modelo no cubre.
+
+#### Cómo leerla
+
+Verde oscuro: Proyecto Geotérmico Chachimbiro, con adicionalidad firme y el potencial que declara el Plan de Implementación de la Segunda NDC. Verde claro: la capa del A calculada por el modelo, con generación nueva sobre todo eólica, geotermia y solar. Verde pálido: cinco líneas condicionadas con su potencial declarado. Ocre: la capa del B calculada por el modelo, fuera de la NDC, con generación nueva sobre todo eólica y solar. Ocre: la capa del C calculada por el modelo, fuera de la NDC, con generación nueva sobre todo solar y geotermia. El rayado marca las capas en las que la mayoría de las líneas tiene veredicto de compradores potenciales «Descartar». Los botones cambian la regla para los otros cuatro sectores.
+
+#### Qué dice el modelo
+
+Con el sistema intacto pueden transferirse los 11 674 kt CO₂e ofertables. Con la salida de la clase de Coca Codo y el año seco severo, en la regla prudente (los demás sectores cumplen solo su tramo incondicional), 0 kt. La adicionalidad firme suma 385 kt, el 3,3 % de la oferta.
+
+#### Para la decisión
+
+Para un comprador, la oferta realista es la de adicionalidad firme, Proyecto Geotérmico Chachimbiro, a la que pueden sumarse, si demuestran su adicionalidad, las líneas con veredicto «Condicionada»: una de las capas del modelo y seis fuera del modelo. De las 11 líneas de las capas del modelo, una tiene adicionalidad firme (Proyecto Geotérmico Chachimbiro), seis figuran como «Descartar», una como «Condicionada» y las tres del C no tienen veredicto. Fuera del modelo, las seis líneas figuran como «Condicionada» y entran con su potencial declarado. La eólica y la solar aportan el 88 % de la generación renovable que el C, último escalón de la escalera, agrega en 2031-2035 frente al condicional. El ICVCM no aprobó metodologías de renovables conectadas a red bajo sus principios de alta calidad.
+
+*Tabla. Oferta de 2031-2035 por caso (kt CO2-eq)*
+
+| nivel | rotulo | es_nivel_de_oferta | caso | lineas_en_reserva | kt_2031_2035 | 2031 | 2032 | 2033 | 2034 | 2035 | kt_en_reserva | supuesto | regla |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| central | caso central con K16 y la expansión a gas declarada | True | central_K16_con_gas | excluidas (EN32 fuera de la oferta; oferta vigente) | 11674.4 | 2657.7 | 2734.0 | 2553.1 | 2178.1 | 1551.6 | 925.0 | Base congelada del 13-10-2026 con K16 (piso de PPFOI 2026-2035 = 5,0567 PJ, mínimo observado 2015-2025) y la expansión a gas declarada (Anexo A del ajuste del PME, K15d-e); capas A, B y C frente a CONA6, A y B; líneas declaradas del Plan de Implementación. En CONA6 y CONA6G la carpeta A2 conserva el piso de PPFOI del Modelo CLG (9,3785 PJ): el valor que rige, K16, vive en la fila de Electrical (K16-PPFOI-CON). | caso central con K16 y la expansión a gas declarada |
+| con_pisos_CLG_12_10 | con pisos del Modelo CLG (corrida del 12-10) | True | pisos_CLG_12_10 | excluidas (EN32 fuera de la oferta; oferta vigente) | 9446.9 | 2426.2 | 2545.1 | 1921.9 | 1558.5 | 995.2 | 925.0 | Sensibilidad guardada del 12-10-2026: base sin K16, con el piso de despacho de PPFOI del Modelo CLG (9,3785 PJ hasta 2030 y 9,0 PJ en 2035, valor de 2022 congelado sin fuente) y la expansión a gas declarada (_stale_ECU_NDC_2026-10-11/resultados_con_pisos_CLG_2026-10-12). | con pisos del Modelo CLG (corrida del 12-10) |
+| sensibilidad_sin_gas_capa_1 | sensibilidad sin gas de la capa 1; no es un nivel de oferta | False | K16_sin_gas | excluidas (EN32 fuera de la oferta; oferta vigente) | 13840.8 | 2886.1 | 3470.2 | 3212.0 | 2584.0 | 1688.5 | 925.0 | La misma base con K16 sin la expansión a gas declarada (CONA6G: PPNGS en su piso CLG, G01); capas A-GAS, B-GAS y C-GAS frente a CONA6G, A-GAS y B-GAS; las mismas líneas declaradas. | sensibilidad sin gas de la capa 1; no es un nivel de oferta |
+| central | caso central con K16 y la expansión a gas declarada | True | central_K16_con_gas | incluidas (EN32; cifra anterior a la decisión del 2026-10-13) | 12599.4 | 2842.7 | 2919.0 | 2738.1 | 2363.1 | 1736.6 | 925.0 | Base congelada del 13-10-2026 con K16 (piso de PPFOI 2026-2035 = 5,0567 PJ, mínimo observado 2015-2025) y la expansión a gas declarada (Anexo A del ajuste del PME, K15d-e); capas A, B y C frente a CONA6, A y B; líneas declaradas del Plan de Implementación. En CONA6 y CONA6G la carpeta A2 conserva el piso de PPFOI del Modelo CLG (9,3785 PJ): el valor que rige, K16, vive en la fila de Electrical (K16-PPFOI-CON). | caso central con K16 y la expansión a gas declarada |
+| con_pisos_CLG_12_10 | con pisos del Modelo CLG (corrida del 12-10) | True | pisos_CLG_12_10 | incluidas (EN32; cifra anterior a la decisión del 2026-10-13) | 10371.9 | 2611.2 | 2730.1 | 2106.9 | 1743.5 | 1180.2 | 925.0 | Sensibilidad guardada del 12-10-2026: base sin K16, con el piso de despacho de PPFOI del Modelo CLG (9,3785 PJ hasta 2030 y 9,0 PJ en 2035, valor de 2022 congelado sin fuente) y la expansión a gas declarada (_stale_ECU_NDC_2026-10-11/resultados_con_pisos_CLG_2026-10-12). | con pisos del Modelo CLG (corrida del 12-10) |
+| sensibilidad_sin_gas_capa_1 | sensibilidad sin gas de la capa 1; no es un nivel de oferta | False | K16_sin_gas | incluidas (EN32; cifra anterior a la decisión del 2026-10-13) | 14765.8 | 3071.1 | 3655.2 | 3397.0 | 2769.0 | 1873.5 | 925.0 | La misma base con K16 sin la expansión a gas declarada (CONA6G: PPNGS en su piso CLG, G01); capas A-GAS, B-GAS y C-GAS frente a CONA6G, A-GAS y B-GAS; las mismas líneas declaradas. | sensibilidad sin gas de la capa 1; no es un nivel de oferta |
+
+*Tabla. Oferta por bloque de adicionalidad y caso (kt CO2-eq)*
+
+| caso | clave | bloque | kt_2031_2035 | 2031 | 2032 | 2033 | 2034 | 2035 |
+|---|---|---|---|---|---|---|---|---|
+| central_K16_con_gas | firme | Firme: Proyecto Geotérmico Chachimbiro (declarado, tramo condicional) | 384.8 |  |  |  |  |  |
+| central_K16_con_gas | capa:A | Por demostrar: proyectos de la NDC financiada (modelo) | 2473.1 |  |  |  |  |  |
+| central_K16_con_gas | declarado | Por demostrar: condicionadas con potencial declarado (declarado) | 337.2 |  |  |  |  |  |
+| central_K16_con_gas | capa:B | Por demostrar: paquete fuera de la NDC, B sobre A (modelo) | 6129.0 |  |  |  |  |  |
+| central_K16_con_gas | capa:C | Por demostrar: paquete fuera de la NDC, C sobre B (modelo) | 2350.3 |  |  |  |  |  |
+| central_K16_con_gas | total | Oferta total, sin las líneas en reserva | 11674.4 | 2657.7 | 2734.0 | 2553.1 | 2178.1 | 1551.6 |
+| central_K16_con_gas | en_reserva | En reserva, fuera de la oferta: EN32 | 925.0 | 185.0 | 185.0 | 185.0 | 185.0 | 185.0 |
+| central_K16_con_gas | total_con_reserva | Oferta con las líneas en reserva (anterior a la decisión del 2026-10-13) | 12599.4 | 2842.7 | 2919.0 | 2738.1 | 2363.1 | 1736.6 |
+| K16_sin_gas | firme | Firme: Proyecto Geotérmico Chachimbiro (declarado, tramo condicional) | 384.8 |  |  |  |  |  |
+| K16_sin_gas | capa:A | Por demostrar: proyectos de la NDC financiada (modelo) [sin gas: A-GAS sobre CONA6G] | 2735.5 |  |  |  |  |  |
+| K16_sin_gas | declarado | Por demostrar: condicionadas con potencial declarado (declarado) | 337.2 |  |  |  |  |  |
+| K16_sin_gas | capa:B | Por demostrar: paquete fuera de la NDC, B sobre A (modelo) [sin gas: B-GAS sobre A-GAS] | 8234.0 |  |  |  |  |  |
+| K16_sin_gas | capa:C | Por demostrar: paquete fuera de la NDC, C sobre B (modelo) [sin gas: C-GAS sobre B-GAS] | 2149.3 |  |  |  |  |  |
+| K16_sin_gas | total | Oferta total, sin las líneas en reserva | 13840.8 | 2886.1 | 3470.2 | 3212.0 | 2584.0 | 1688.5 |
+| K16_sin_gas | en_reserva | En reserva, fuera de la oferta: EN32 | 925.0 | 185.0 | 185.0 | 185.0 | 185.0 | 185.0 |
+| K16_sin_gas | total_con_reserva | Oferta con las líneas en reserva (anterior a la decisión del 2026-10-13) | 14765.8 | 3071.1 | 3655.2 | 3397.0 | 2769.0 | 1873.5 |
+| pisos_CLG_12_10 | firme | Firme: Proyecto Geotérmico Chachimbiro (declarado, tramo condicional) | 384.8 |  |  |  |  |  |
+| pisos_CLG_12_10 | capa:A | Por demostrar: proyectos de la NDC financiada (modelo) | 1905.5 |  |  |  |  |  |
+| pisos_CLG_12_10 | declarado | Por demostrar: condicionadas con potencial declarado (declarado) [sin EN32] | 337.2 |  |  |  |  |  |
+| pisos_CLG_12_10 | capa:B | Por demostrar: paquete fuera de la NDC, B sobre A (modelo) | 4169.8 |  |  |  |  |  |
+| pisos_CLG_12_10 | capa:C | Por demostrar: paquete fuera de la NDC, C sobre B (modelo) | 2649.7 |  |  |  |  |  |
+| pisos_CLG_12_10 | total | Oferta total, sin las líneas en reserva | 9446.9 | 2426.2 | 2545.1 | 1921.9 | 1558.5 | 995.2 |
+| pisos_CLG_12_10 | en_reserva | En reserva, fuera de la oferta: EN32 | 925.0 | 185.0 | 185.0 | 185.0 | 185.0 | 185.0 |
+| pisos_CLG_12_10 | total_con_reserva | Oferta con las líneas en reserva (anterior a la decisión del 2026-10-13) | 10371.9 | 2611.2 | 2730.1 | 2106.9 | 1743.5 | 1180.2 |
+
+*Tabla. Oferta potencial y volumen transferible, 2031-2035 (kt CO2-eq)*
+
+| estado | sufijo | escenario | regla | Firme: Proyecto Geotérmico Chachimbiro (declarado, tramo condicional) | Por demostrar: proyectos de la NDC financiada (modelo) | Por demostrar: condicionadas con potencial declarado (declarado) | Por demostrar: paquete fuera de la NDC, B sobre A (modelo) | Por demostrar: paquete fuera de la NDC, C sobre B (modelo) | Sin adicionalidad: Proyecto Hidroeléctrico Santiago y Proyecto hidroeléctrico Cardenillo (declarado) | En reserva, fuera de la oferta: Renovación y Descarbonización del Transporte Público y Comercial en el Ecuador (declarado) | oferta_total | transferible_sin_incumplir | headroom_acumulado_2031_2035 | proyeccion |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Intacto |  | C | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 52174.7 | CLG |
+| Intacto |  | C | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 33505.7 | CLG |
+| Salida de Coca Codo y Sopladora | -CCOFF | C-CCOFF | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 10938.8 | 25037.6 | CLG |
+| Salida de Coca Codo y Sopladora | -CCOFF | C-CCOFF | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 4889.2 | 6368.6 | CLG |
+| Salida de Coca Codo sola | -CCSOLO | C-CCSOLO | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 34555.6 | CLG |
+| Salida de Coca Codo sola | -CCSOLO | C-CCSOLO | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 7668.2 | 15886.5 | CLG |
+| Derrateo de Coca Codo | -CCDER | C-CCDER | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 50131.5 | CLG |
+| Derrateo de Coca Codo | -CCDER | C-CCDER | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 31462.6 | CLG |
+| Año seco severo | -ANOSECO | C-ANOSECO | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 33474.7 | CLG |
+| Año seco severo | -ANOSECO | C-ANOSECO | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 8023.3 | 14805.6 | CLG |
+| Un año seco cada tres | -ANOSEC3 | C-ANOSEC3 | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 45461.7 | CLG |
+| Un año seco cada tres | -ANOSEC3 | C-ANOSEC3 | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 10594.4 | 26792.7 | CLG |
+| Año seco moderado | -ANOSECM | C-ANOSECM | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 47405.1 | CLG |
+| Año seco moderado | -ANOSECM | C-ANOSECM | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 28736.1 | CLG |
+| Salida de Coca Codo y año seco severo | -CCOFFANOSECO | C-CCOFFANOSECO | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 3126.5 | 2477.5 | CLG |
+| Salida de Coca Codo y año seco severo | -CCOFFANOSECO | C-CCOFFANOSECO | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 0.0 | -16191.6 | CLG |
+| Sin importación desde Colombia | -IMP0 | C-IMP0 | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 51550.4 | CLG |
+| Sin importación desde Colombia | -IMP0 | C-IMP0 | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 32881.4 | CLG |
+| Situación actual 2026 con choque de demanda transitorio | -ACT | C-ACT | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 44371.4 | CLG |
+| Situación actual 2026 con choque de demanda transitorio | -ACT | C-ACT | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 10216.6 | 25702.2 | CLG |
+| Situación actual 2026 con demanda persistente | -ACTDEM | C-ACTDEM | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 10232.5 | 27843.0 | CLG |
+| Situación actual 2026 con demanda persistente | -ACTDEM | C-ACTDEM | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 6724.1 | 9173.9 | CLG |
+| Intacto |  | C | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 59259.7 | corregida |
+| Intacto |  | C | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 43322.1 | corregida |
+| Salida de Coca Codo y Sopladora | -CCOFF | C-CCOFF | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 32122.6 | corregida |
+| Salida de Coca Codo y Sopladora | -CCOFF | C-CCOFF | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 7619.6 | 16184.8 | corregida |
+| Salida de Coca Codo sola | -CCSOLO | C-CCSOLO | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 41640.5 | corregida |
+| Salida de Coca Codo sola | -CCSOLO | C-CCSOLO | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 10423.6 | 25702.8 | corregida |
+| Derrateo de Coca Codo | -CCDER | C-CCDER | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 57216.6 | corregida |
+| Derrateo de Coca Codo | -CCDER | C-CCDER | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 41278.9 | corregida |
+| Año seco severo | -ANOSECO | C-ANOSECO | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 40559.6 | corregida |
+| Año seco severo | -ANOSECO | C-ANOSECO | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 10992.6 | 24621.9 | corregida |
+| Un año seco cada tres | -ANOSEC3 | C-ANOSEC3 | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 52546.7 | corregida |
+| Un año seco cada tres | -ANOSEC3 | C-ANOSEC3 | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 36609.0 | corregida |
+| Año seco moderado | -ANOSECM | C-ANOSECM | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 54490.1 | corregida |
+| Año seco moderado | -ANOSECM | C-ANOSECM | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 38552.4 | corregida |
+| Salida de Coca Codo y año seco severo | -CCOFFANOSECO | C-CCOFFANOSECO | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 6833.3 | 9562.3 | corregida |
+| Salida de Coca Codo y año seco severo | -CCOFFANOSECO | C-CCOFFANOSECO | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 1551.6 | -6375.3 | corregida |
+| Sin importación desde Colombia | -IMP0 | C-IMP0 | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 58635.4 | corregida |
+| Sin importación desde Colombia | -IMP0 | C-IMP0 | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 42697.8 | corregida |
+| Situación actual 2026 con choque de demanda transitorio | -ACT | C-ACT | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 51456.3 | corregida |
+| Situación actual 2026 con choque de demanda transitorio | -ACT | C-ACT | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 35518.5 | corregida |
+| Situación actual 2026 con demanda persistente | -ACTDEM | C-ACTDEM | condicional | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 11674.4 | 34927.9 | corregida |
+| Situación actual 2026 con demanda persistente | -ACTDEM | C-ACTDEM | prudente | 384.8 | 2473.1 | 337.2 | 6129.0 | 2350.3 | 17982.9 | 925.0 | 11674.4 | 8613.5 | 18990.3 | corregida |
+
+*Tabla. Volúmenes por regla y escenario (kt CO2-eq)*
+
+| escenario | regla | referencia | 2031 | 2032 | 2033 | 2034 | 2035 | total_2031_2035 |
+|---|---|---|---|---|---|---|---|---|
+| CONA6 | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| CONA6 | con_tramo_condicional | INCA6 | 1506.3 | 3189.0 | 4599.3 | 5990.3 | 7268.2 | 22553.1 |
+| A | adicional_a_la_NDC | CONA6 | 837.6 | 579.4 | 438.0 | 346.1 | 272.0 | 2473.1 |
+| A | con_tramo_condicional | INCA6 | 2343.9 | 3768.4 | 5037.3 | 6336.4 | 7540.2 | 25026.3 |
+| A | atribuible_por_retiro | A-SIN | 1357.4 | 1284.8 | 1131.8 | 1137.2 | 1137.2 | 6048.4 |
+| A-CCOFF | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| A-CCOFF | con_tramo_condicional | INCA6 | 0.0 | 0.0 | 0.0 | 0.0 | 1183.6 | 1183.6 |
+| A-CCSOLO | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| A-CCSOLO | con_tramo_condicional | INCA6 | 0.0 | 0.0 | 195.3 | 1711.2 | 3161.8 | 5068.3 |
+| A-CCDER | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| A-CCDER | con_tramo_condicional | INCA6 | 1319.0 | 2872.0 | 4279.6 | 5578.7 | 6782.5 | 20831.7 |
+| A-ANOSECO | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| A-ANOSECO | con_tramo_condicional | INCA6 | 0.0 | 0.0 | 307.5 | 1055.4 | 1898.0 | 3260.9 |
+| A-ANOSEC3 | adicional_a_la_NDC | CONA6 | 864.5 | 0.0 | 453.0 | 361.1 | 0.0 | 1678.5 |
+| A-ANOSEC3 | con_tramo_condicional | INCA6 | 2370.8 | 0.0 | 5052.3 | 6351.4 | 1898.0 | 15672.4 |
+| A-ANOSECM | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| A-ANOSECM | con_tramo_condicional | INCA6 | 553.9 | 1982.9 | 3363.2 | 4716.2 | 5850.2 | 16466.4 |
+| A-CCOFFANOSECO | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| A-CCOFFANOSECO | con_tramo_condicional | INCA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| A-FOI | adicional_a_la_NDC | CONA6 | 868.5 | 740.1 | 765.9 | 674.0 | 599.9 | 3648.3 |
+| A-FOI | con_tramo_condicional | INCA6 | 2374.8 | 3929.1 | 5365.2 | 6664.3 | 7868.1 | 26201.4 |
+| A-FOI | frente_a_su_referencia | CONA6P | 868.5 | 715.2 | 542.7 | 346.1 | 272.0 | 2744.4 |
+| A-IMP0 | adicional_a_la_NDC | CONA6 | 484.4 | 308.3 | 166.9 | 75.0 | 0.9 | 1035.4 |
+| A-IMP0 | con_tramo_condicional | INCA6 | 1990.7 | 3497.3 | 4766.2 | 6065.3 | 7269.1 | 23588.6 |
+| A-IMP0 | frente_a_su_referencia | CONA6I | 862.1 | 668.5 | 438.0 | 346.1 | 272.0 | 2586.7 |
+| A-ACT | adicional_a_la_NDC | CONA6 | 504.3 | 0.0 | 181.8 | 90.0 | 0.0 | 776.1 |
+| A-ACT | con_tramo_condicional | INCA6 | 2010.6 | 0.0 | 4781.2 | 6080.3 | 1520.2 | 14392.2 |
+| A-ACTDEM | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| A-ACTDEM | con_tramo_condicional | INCA6 | 0.0 | 0.0 | 1209.0 | 2638.8 | 0.0 | 3847.8 |
+| A-GAS | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 55.4 | 204.6 | 260.0 |
+| A-GAS | con_tramo_condicional | INCA6 | 1451.4 | 3013.9 | 4529.8 | 6045.7 | 7472.8 | 22513.6 |
+| A-GAS | frente_a_su_referencia | CONA6G | 640.9 | 702.4 | 589.4 | 461.4 | 341.5 | 2735.5 |
+| A-SIN | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| A-SIN | con_tramo_condicional | INCA6 | 986.5 | 2483.6 | 3905.5 | 5199.2 | 6403.1 | 18977.9 |
+| B | adicional_a_la_NDC | CONA6 | 2431.5 | 2455.6 | 1900.9 | 1257.8 | 556.3 | 8602.2 |
+| B | con_tramo_condicional | INCA6 | 3937.8 | 5644.6 | 6500.2 | 7248.2 | 7824.6 | 31155.3 |
+| B-CCOFF | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| B-CCOFF | con_tramo_condicional | INCA6 | 0.0 | 0.0 | 1049.1 | 2780.8 | 4447.2 | 8277.1 |
+| B-CCSOLO | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| B-CCSOLO | con_tramo_condicional | INCA6 | 0.0 | 1295.5 | 3027.2 | 4726.5 | 6107.4 | 15156.6 |
+| B-CCDER | adicional_a_la_NDC | CONA6 | 1673.8 | 1697.8 | 1711.3 | 1257.8 | 556.3 | 6897.1 |
+| B-CCDER | con_tramo_condicional | INCA6 | 3180.1 | 4886.8 | 6310.7 | 7248.2 | 7824.6 | 29450.2 |
+| B-ANOSECO | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| B-ANOSECO | con_tramo_condicional | INCA6 | 17.7 | 1563.9 | 2784.9 | 4005.9 | 5137.2 | 13509.6 |
+| B-ANOSEC3 | adicional_a_la_NDC | CONA6 | 2446.5 | 0.0 | 1900.9 | 1257.8 | 0.0 | 5605.2 |
+| B-ANOSEC3 | con_tramo_condicional | INCA6 | 3952.8 | 1563.9 | 6500.2 | 7248.2 | 5137.2 | 24402.2 |
+| B-ANOSECM | adicional_a_la_NDC | CONA6 | 1120.3 | 1048.6 | 966.3 | 933.6 | 556.3 | 4625.1 |
+| B-ANOSECM | con_tramo_condicional | INCA6 | 2626.6 | 4237.6 | 5565.6 | 6923.9 | 7824.6 | 27178.2 |
+| B-CCOFFANOSECO | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| B-CCOFFANOSECO | con_tramo_condicional | INCA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| B-FOI | adicional_a_la_NDC | CONA6 | 2759.3 | 2783.4 | 2796.9 | 2733.0 | 2031.6 | 13104.3 |
+| B-FOI | con_tramo_condicional | INCA6 | 4265.6 | 5972.4 | 7396.2 | 8723.4 | 9299.8 | 35657.4 |
+| B-FOI | frente_a_su_referencia | CONA6P | 2759.3 | 2758.5 | 2573.7 | 2405.2 | 1703.7 | 12200.4 |
+| B-IMP0 | adicional_a_la_NDC | CONA6 | 2160.4 | 2184.4 | 1900.9 | 1257.8 | 556.3 | 8059.9 |
+| B-IMP0 | con_tramo_condicional | INCA6 | 3666.7 | 5373.4 | 6500.2 | 7248.2 | 7824.6 | 30613.1 |
+| B-IMP0 | frente_a_su_referencia | CONA6I | 2538.1 | 2544.6 | 2172.1 | 1528.9 | 827.5 | 9611.2 |
+| B-ACT | adicional_a_la_NDC | CONA6 | 2175.3 | 0.0 | 1900.9 | 1257.8 | 0.0 | 5334.1 |
+| B-ACT | con_tramo_condicional | INCA6 | 3681.6 | 1186.1 | 6500.2 | 7248.2 | 4777.0 | 23393.2 |
+| B-ACTDEM | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| B-ACTDEM | con_tramo_condicional | INCA6 | 414.5 | 0.0 | 4007.1 | 5414.5 | 744.1 | 10580.2 |
+| B-GAS | adicional_a_la_NDC | CONA6 | 2066.8 | 2412.6 | 1900.9 | 1257.8 | 556.3 | 8194.5 |
+| B-GAS | con_tramo_condicional | INCA6 | 3573.1 | 5601.6 | 6500.2 | 7248.2 | 7824.6 | 30747.6 |
+| B-GAS | frente_a_su_referencia | CONA6G | 2762.5 | 3290.1 | 2559.8 | 1663.8 | 693.3 | 10969.5 |
+| C | adicional_a_la_NDC | CONA6 | 2603.0 | 2663.4 | 2482.4 | 1915.0 | 1288.5 | 10952.4 |
+| C | con_tramo_condicional | INCA6 | 4109.3 | 5852.4 | 7081.8 | 7905.4 | 8556.8 | 33505.6 |
+| C-CCOFF | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| C-CCOFF | con_tramo_condicional | INCA6 | 0.0 | 0.0 | 1159.6 | 2917.2 | 5344.8 | 9421.7 |
+| C-CCSOLO | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| C-CCSOLO | con_tramo_condicional | INCA6 | 0.0 | 1385.5 | 3137.8 | 4887.2 | 6958.4 | 16368.8 |
+| C-CCDER | adicional_a_la_NDC | CONA6 | 1845.3 | 1905.6 | 1954.8 | 1915.0 | 1288.5 | 8909.3 |
+| C-CCDER | con_tramo_condicional | INCA6 | 3351.6 | 5094.7 | 6554.1 | 7905.4 | 8556.8 | 31462.5 |
+| C-ANOSECO | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| C-ANOSECO | con_tramo_condicional | INCA6 | 86.6 | 1654.0 | 2895.4 | 4142.4 | 6027.2 | 14805.5 |
+| C-ANOSEC3 | adicional_a_la_NDC | CONA6 | 2618.0 | 0.0 | 2482.4 | 1915.0 | 0.0 | 7015.5 |
+| C-ANOSEC3 | con_tramo_condicional | INCA6 | 4124.3 | 1654.0 | 7081.8 | 7905.4 | 6027.2 | 26792.6 |
+| C-ANOSECM | adicional_a_la_NDC | CONA6 | 1211.2 | 1256.4 | 1209.8 | 1217.0 | 1288.5 | 6182.9 |
+| C-ANOSECM | con_tramo_condicional | INCA6 | 2717.5 | 4445.4 | 5809.1 | 7207.3 | 8556.8 | 28736.1 |
+| C-CCOFFANOSECO | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| C-CCOFFANOSECO | con_tramo_condicional | INCA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| C-IMP0 | adicional_a_la_NDC | CONA6 | 2331.9 | 2392.3 | 2400.4 | 1915.0 | 1288.5 | 10328.2 |
+| C-IMP0 | con_tramo_condicional | INCA6 | 3838.2 | 5581.3 | 6999.7 | 7905.4 | 8556.8 | 32881.3 |
+| C-IMP0 | frente_a_su_referencia | CONA6I | 2709.7 | 2752.5 | 2671.5 | 2186.1 | 1559.7 | 11879.5 |
+| C-ACT | adicional_a_la_NDC | CONA6 | 2346.9 | 0.0 | 2401.1 | 1915.0 | 0.0 | 6663.1 |
+| C-ACT | con_tramo_condicional | INCA6 | 3853.2 | 1276.2 | 7000.4 | 7905.4 | 5667.0 | 25702.2 |
+| C-ACTDEM | adicional_a_la_NDC | CONA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| C-ACTDEM | con_tramo_condicional | INCA6 | 441.4 | 0.0 | 4087.6 | 5654.8 | 1575.7 | 11759.5 |
+| C-GAS | adicional_a_la_NDC | CONA6 | 2135.7 | 2522.1 | 2482.4 | 1915.0 | 1288.5 | 10343.7 |
+| C-GAS | con_tramo_condicional | INCA6 | 3642.0 | 5711.1 | 7081.8 | 7905.4 | 8556.8 | 32896.9 |
+| C-GAS | frente_a_su_referencia | CONA6G | 2831.4 | 3399.6 | 3141.3 | 2321.0 | 1425.5 | 13118.8 |
+| A-V7 | adicional_a_la_NDC | CONA6 | 684.4 | 457.2 | 314.2 | 220.6 | 179.7 | 1855.9 |
+| A-V7 | con_tramo_condicional | INCA6 | 2190.7 | 3646.2 | 4913.5 | 6210.9 | 7447.9 | 24409.1 |
+| B-V7 | adicional_a_la_NDC | CONA6 | 2235.4 | 2246.4 | 1900.9 | 1257.8 | 556.3 | 8196.9 |
+| B-V7 | con_tramo_condicional | INCA6 | 3741.7 | 5435.4 | 6500.2 | 7248.2 | 7824.6 | 30750.0 |
+| C-V7 | adicional_a_la_NDC | CONA6 | 2406.9 | 2454.2 | 2409.8 | 1915.0 | 1288.5 | 10474.5 |
+| C-V7 | con_tramo_condicional | INCA6 | 3913.2 | 5643.2 | 7009.1 | 7905.4 | 8556.8 | 33027.6 |
+
+*Tabla. Líneas de la NDC con su potencial declarado en la ventana (kt CO2-eq)*
+
+| codigo | linea | escenario_art6 | adicionalidad | kt_anio_declarado | anios_en_ventana | volumen_declarado_2031_2035 | volumen_modelo_2031_2035 | en_reserva | motivo_reserva |
+|---|---|---|---|---|---|---|---|---|---|
+| EN01 | Operación Comercial del Tranvía de Cuenca | fuera | No transferible | 15.0 | 5 | 75.0 |  | False |  |
+| EN02 | Diseño, Construcción e Implementación de la línea 2 del Tranvía de Cuenca | A (fuera del modelo) | Por demostrar | 8.0 | 5 | 40.0 |  | False |  |
+| EN03 | Modernización del Sistema de Transporte Público Metropolitano de Pasajeros de Quito a través de la Dotación de Trolebuses | fuera | No transferible | 4.97 | 5 | 24.8 |  | False |  |
+| EN04 | Proyecto Primera Línea del Metro de Quito | fuera | No transferible | 60.0 | 5 | 300.0 |  | False |  |
+| EN05 | Proyecto Extensión de la Primera Línea del Metro de Quito desde el Labrador hasta La Ofelia | A (fuera del modelo) | Por demostrar | 16.0 | 4 | 64.0 |  | False |  |
+| EN06 | Programa de Soluciones Energéticas Upstream | fuera | No transferible | 428.553 | 5 | 2142.8 |  | False |  |
+| EN07 | Preparación y Despacho de Gasolinas con Etanol | fuera | No transferible | 199.0616480576182 | 5 | 995.3 |  | False |  |
+| EN08 | Proyecto Geotérmico Chachimbiro | A | Firme | 192.39 | 2 | 384.8 |  | False |  |
+| EN10 | Proyecto Eólico Ducal Membrillo | A | Por demostrar | 195.0795 | 5 | 975.4 |  | False |  |
+| EN12 | Proyecto Eólico Pimo | A | Por demostrar | 406.8801 | 5 | 2034.4 |  | False |  |
+| EN13 | Central Hidroeléctrica Coca Codo Sinclair | fuera | No transferible | 3927.0 | 5 | 19635.0 |  | False |  |
+| EN14 | Central Hidroeléctrica Manduriacu | fuera | No transferible | 168.0 | 5 | 840.0 |  | False |  |
+| EN15 | Central Hidroeléctrica Mazar | fuera | No transferible | 255.0 | 5 | 1275.0 |  | False |  |
+| EN16 | Central Hidroeléctrica Minas San Francisco | fuera | No transferible | 529.0 | 5 | 2645.0 |  | False |  |
+| EN17 | Central Hidroeléctrica Sopladora | fuera | No transferible | 1150.0 | 5 | 5750.0 |  | False |  |
+| EN18 | Proyecto Hidroeléctrico Santiago | fuera | Sin adicionalidad | 7352.821400000001 | 2 | 14705.6 |  | False |  |
+| EN19 | Proyecto hidroeléctrico Cardenillo | fuera | Sin adicionalidad | 1638.627374 | 2 | 3277.3 |  | False |  |
+| EN20 | Proyecto Solar Flotante Mazar | A | Por demostrar | 180.8356 | 5 | 904.2 |  | False |  |
+| EN21 | Proyecto Hidroeléctrico Delsitanisagua | fuera | No transferible | 369.0 | 5 | 1845.0 |  | False |  |
+| EN22 | Proyecto Eólico Villonaco | fuera | No transferible | 37.0 | 5 | 185.0 |  | False |  |
+| EN23 | Complejo Hidroeléctrico Toachi Pilatón | fuera | No transferible | 537.0 | 5 | 2685.0 |  | False |  |
+| EN24 | Proyecto Hidroeléctrico Soldados Yanuncay | fuera | No transferible | 58.0 | 5 | 290.0 |  | False |  |
+| EN25 | Proyecto Fotovoltaico Huascachaca | A | Por demostrar | 16.0 | 5 | 80.0 |  | False |  |
+| EN26 | Sistema Híbrido Isabela (Fase II) | fuera | No transferible | 1.34 | 5 | 6.7 |  | False |  |
+| EN27 | Proyecto Conolophus | fuera | No transferible | 17.78 | 5 | 88.9 |  | False |  |
+| EN28 | Sistema Solar Fotovoltaico San Cristóbal (Fase II) | A (fuera del modelo) | Por demostrar | 3.57 | 5 | 17.8 |  | False |  |
+| EN29 | Isla Floreana 100% Renovable | A (fuera del modelo) | Por demostrar | 0.29 | 5 | 1.4 |  | False |  |
+| EN31 | Sistema Eléctrico de Monorriel Intracantonal para la Provincia Guayas | A (fuera del modelo) | Por demostrar | 42.78 | 5 | 213.9 |  | False |  |
+| EN32 | Renovación y Descarbonización del Transporte Público y Comercial en el Ecuador | A (fuera del modelo) | Por demostrar | 185.0 | 5 | 925.0 |  | True | adicionalidad regulatoria por demostrar (decisión del 13-10-2026) |
+| B-SOL | Portafolio solar CELEC EP y AFD (3 000 GWh/año) | B | Por demostrar |  | 0 |  |  | False |  |
+| B-EOL | Eólica del plan de expansión no listada en la NDC (585 MW) | B | Por demostrar |  | 0 |  |  | False |  |
+| B-BIO | Biomasa del portafolio ESIN-CELEC EP (39,3 MW, 192,8 GWh/año) | B | Por demostrar |  | 0 |  |  | False |  |
+| FOI | Sin pisos térmicos del Modelo CLG | sensibilidad | No es actividad |  | 0 |  |  | False |  |
+| C-EM | Electromovilidad del Plan de Acción del PLANMICC (vehículos eléctricos e híbridos privados, taxis y buses) | C | Por demostrar |  | 0 |  |  | False |  |
+| C-EI | Eficiencia energética industrial del Plan de Acción del PLANMICC (ISO 50001, ESCO) | C | Por demostrar |  | 0 |  |  | False |  |
+| C-GEO | Proyecto Geotérmico Binacional Tufiño-Chiles-Cerro Negro (138 MW) | C | Por demostrar |  | 0 |  |  | False |  |
+
+## Margen frente a la meta
+
+![Cascada del margen nacional en 2035](../../_static/graficas/g12_cascada_headroom.png)
+
+Cascada del margen nacional en 2035
+
+El margen del condicional en 2035 es el 8,2 % comprometido, 10 600 kt; con la salida de la clase de Coca Codo y el año seco severo, al C «Ambición integral» le quedan 3 121 kt. Margen de 2035 frente a la meta incondicional (kt CO2e), con las metas publicadas: 6,8 % y 8,2 % adicional sobre el tendencial.
+
+#### Qué muestra
+
+Descomposición del margen nacional de 2035 frente a la meta incondicional (kt CO₂e): de la reducción del condicional modelado al margen que la NDC compromete, y de ahí al margen del C con la salida de la clase de Coca Codo y el año seco severo. Combina la agregación nacional del Modelo CLG y las metas publicadas de la NDC con los resultados del modelo.
+
+#### Cómo leerla
+
+Barras azules: totales. Verdes: componentes que agregan margen. Rojas: componentes que lo restan. Se lee de izquierda a derecha.
+
+#### Qué dice el análisis
+
+El condicional modelado reduce 22 977 kt en 2035. Descontadas la meta incondicional (8 800 kt) y la reducción que la NDC no compromete (3 577 kt), el margen del condicional es de 10 600 kt, el 8,2 % adicional. Las capas A, B y C le suman 1 288 kt; la salida de la clase de Coca Codo resta 3 212 kt al margen del C; el año seco severo, 5 556 kt más.
+
+#### Para la decisión
+
+Con la salida de la clase de Coca Codo y el año seco severo, el margen del C en 2035 queda en 3 121 kt.
+
+*Tabla. Margen nacional por proyección, regla y escenario (kt CO2-eq)*
+
+| proyeccion | escenario | regla | referencia | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | acumulado_2031_2035 | nacional_2035 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| CLG | NDCINC | condicional | CONA6 | -2390.3 | -870.0 | 300.5 | 1569.5 | 2690.4 | 2493.3 | 1948.2 | 1682.0 | 1429.8 | 1299.5 | 8852.8 | 119683.2 |
+| CLG | NDCINC | prudente | INCA6 | -2389.8 | -1934.9 | -1950.3 | -1817.9 | -1855.3 | -1889.3 | -1929.5 | -1963.1 | -2002.1 | -2032.3 | -9816.3 | 123014.9 |
+| CLG | NDCCON | condicional | CONA6 | -2390.3 | -751.8 | 438.4 | 1719.1 | 2858.7 | 4067.2 | 5316.5 | 6764.6 | 8242.1 | 9746.9 | 34137.3 | 111235.8 |
+| CLG | NDCCON | prudente | INCA6 | -2389.8 | -1816.8 | -1812.4 | -1668.2 | -1687.0 | -315.4 | 1438.8 | 3119.4 | 4810.2 | 6415.1 | 15468.2 | 114567.6 |
+| CLG | INCA6 | condicional | CONA6 | -0.5 | 1064.9 | 2250.8 | 3387.4 | 4545.8 | 4382.6 | 3877.7 | 3645.1 | 3431.9 | 3331.8 | 18669.1 | 117650.9 |
+| CLG | INCA6 | prudente | INCA6 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 120982.6 |
+| CLG | CONA6 | condicional | CONA6 | 0.0 | 1177.8 | 2355.6 | 3533.3 | 4711.1 | 5888.9 | 7066.7 | 8244.4 | 9422.2 | 10600.0 | 41222.2 | 110382.6 |
+| CLG | CONA6 | prudente | INCA6 | 0.5 | 112.8 | 104.8 | 145.9 | 165.3 | 1506.3 | 3189.0 | 4599.3 | 5990.3 | 7268.2 | 22553.1 | 113714.4 |
+| CLG | CONA6G | condicional | CONA6 | -118.0 | 909.2 | 1515.9 | 3270.8 | 4603.0 | 5193.1 | 6189.1 | 7585.6 | 9016.3 | 10463.1 | 38447.2 | 110519.6 |
+| CLG | CONA6G | prudente | INCA6 | -117.5 | -155.8 | -734.8 | -116.6 | 57.2 | 810.5 | 2311.5 | 3940.4 | 5584.4 | 7131.3 | 19778.1 | 113851.4 |
+| CLG | CONA6P | condicional | CONA6 | 0.0 | 1177.8 | 2439.2 | 3533.3 | 4711.1 | 5888.9 | 7091.6 | 8467.6 | 9750.1 | 10927.9 | 42126.1 | 110054.8 |
+| CLG | CONA6P | prudente | INCA6 | 0.5 | 112.8 | 188.5 | 145.9 | 165.3 | 1506.3 | 3213.9 | 4822.5 | 6318.2 | 7596.1 | 23457.0 | 113386.6 |
+| CLG | CONA6I | condicional | CONA6 | -377.8 | 800.0 | 2061.5 | 3155.6 | 4333.4 | 5511.1 | 6706.5 | 7973.3 | 9151.1 | 10328.9 | 39670.9 | 110653.8 |
+| CLG | CONA6I | prudente | INCA6 | -377.2 | -264.9 | -189.3 | -231.8 | -212.4 | 1128.5 | 2828.8 | 4328.2 | 5719.2 | 6997.1 | 21001.9 | 113985.6 |
+| CLG | A | condicional | CONA6 | 268.0 | 1541.2 | 2757.3 | 4240.5 | 5674.5 | 6726.5 | 7646.1 | 8682.4 | 9768.3 | 10872.0 | 43695.3 | 110110.6 |
+| CLG | A | prudente | INCA6 | 268.6 | 476.3 | 506.5 | 853.1 | 1128.7 | 2343.9 | 3768.4 | 5037.3 | 6336.4 | 7540.2 | 25026.3 | 113442.4 |
+| CLG | A-CCOFF | condicional | CONA6 | 268.0 | 1541.2 | 2757.3 | -1743.6 | 164.8 | 755.0 | 1066.6 | 1862.2 | 3164.9 | 4515.4 | 11364.1 | 116467.3 |
+| CLG | A-CCOFF | prudente | INCA6 | 268.6 | 476.3 | 506.5 | -5131.0 | -4380.9 | -3627.6 | -2811.1 | -1782.9 | -267.0 | 1183.6 | -7305.0 | 119799.0 |
+| CLG | A-CCSOLO | condicional | CONA6 | 268.0 | 1541.2 | 2757.3 | 234.6 | 2143.0 | 2733.2 | 3044.8 | 3840.4 | 5143.1 | 6493.6 | 21255.0 | 114489.1 |
+| CLG | A-CCSOLO | prudente | INCA6 | 268.6 | 476.3 | 506.5 | -3152.8 | -2402.7 | -1649.4 | -832.9 | 195.3 | 1711.2 | 3161.8 | 2586.0 | 117820.9 |
+| CLG | A-CCDER | condicional | CONA6 | 268.0 | 485.5 | 1943.2 | 3379.7 | 4627.1 | 5701.6 | 6749.6 | 7924.7 | 9010.6 | 10114.3 | 39500.8 | 110868.4 |
+| CLG | A-CCDER | prudente | INCA6 | 268.6 | -579.5 | -307.5 | -7.7 | 81.3 | 1319.0 | 2872.0 | 4279.6 | 5578.7 | 6782.5 | 20831.7 | 114200.1 |
+| CLG | A-ANOSECO | condicional | CONA6 | -3711.9 | -2453.6 | -997.1 | 734.2 | 2642.6 | 3232.8 | 3544.4 | 3952.6 | 4487.3 | 5229.8 | 20446.9 | 115752.9 |
+| CLG | A-ANOSECO | prudente | INCA6 | -3711.3 | -3518.6 | -3247.9 | -2653.2 | -1903.1 | -1149.8 | -333.3 | 307.5 | 1055.4 | 1898.0 | 1777.8 | 119084.6 |
+| CLG | A-ANOSEC3 | condicional | CONA6 | -3711.9 | 1562.1 | 2772.3 | 734.2 | 6135.2 | 6753.3 | 3544.4 | 8697.4 | 9783.3 | 5229.8 | 34008.2 | 115752.9 |
+| CLG | A-ANOSEC3 | prudente | INCA6 | -3711.3 | 497.1 | 521.5 | -2653.2 | 1589.5 | 2370.8 | -333.3 | 5052.3 | 6351.4 | 1898.0 | 15339.1 | 119084.6 |
+| CLG | A-ANOSECM | condicional | CONA6 | -1410.4 | -159.1 | 1298.2 | 2734.4 | 4070.5 | 4936.5 | 5860.5 | 7008.3 | 8148.1 | 9182.0 | 35135.5 | 111800.6 |
+| CLG | A-ANOSECM | prudente | INCA6 | -1409.9 | -1224.1 | -952.6 | -653.0 | -475.3 | 553.9 | 1982.9 | 3363.2 | 4716.2 | 5850.2 | 16466.4 | 115132.4 |
+| CLG | A-CCOFFANOSECO | condicional | CONA6 | -3711.9 | -2453.6 | -997.1 | -5145.8 | -3237.4 | -2824.5 | -2532.6 | -2124.4 | -1589.7 | -1040.2 | -10111.4 | 122022.9 |
+| CLG | A-CCOFFANOSECO | prudente | INCA6 | -3711.3 | -3518.6 | -3247.9 | -8533.2 | -7783.1 | -7207.1 | -6410.3 | -5769.5 | -5021.6 | -4372.0 | -28780.5 | 125354.6 |
+| CLG | A-FOI | condicional | CONA6 | 268.0 | 1541.2 | 2999.0 | 4435.4 | 5682.8 | 6757.3 | 7806.8 | 9010.3 | 10096.2 | 11199.9 | 44870.5 | 109782.8 |
+| CLG | A-FOI | prudente | INCA6 | 268.6 | 476.3 | 748.2 | 1048.1 | 1137.0 | 2374.8 | 3929.1 | 5365.2 | 6664.3 | 7868.1 | 26201.4 | 113114.6 |
+| CLG | A-IMP0 | condicional | CONA6 | -109.7 | 1163.5 | 2486.2 | 3969.3 | 5305.1 | 6373.3 | 7374.9 | 8411.3 | 9497.2 | 10600.9 | 42257.7 | 110381.7 |
+| CLG | A-IMP0 | prudente | INCA6 | -109.2 | 98.5 | 235.4 | 582.0 | 759.3 | 1990.7 | 3497.3 | 4766.2 | 6065.3 | 7269.1 | 23588.6 | 113713.5 |
+| CLG | A-ACT | condicional | CONA6 | -1613.9 | 1163.5 | 2486.2 | 746.5 | 6349.0 | 6393.2 | 3359.7 | 8426.3 | 9512.2 | 4852.0 | 32543.3 | 116130.7 |
+| CLG | A-ACT | prudente | INCA6 | -1613.4 | 98.6 | 235.4 | -2640.9 | 1803.2 | 2010.6 | -518.0 | 4781.1 | 6080.3 | 1520.2 | 13874.2 | 119462.4 |
+| CLG | A-ACTDEM | condicional | CONA6 | -1613.9 | -2174.6 | -819.3 | -2780.5 | 2759.9 | 2675.5 | -454.0 | 4854.1 | 6070.7 | 959.9 | 14106.2 | 120022.8 |
+| CLG | A-ACTDEM | prudente | INCA6 | -1613.4 | -3239.6 | -3070.0 | -6167.9 | -1785.8 | -1707.1 | -4331.7 | 1209.0 | 2638.8 | -2371.9 | -4562.9 | 123354.5 |
+| CLG | A-GAS | condicional | CONA6 | 150.0 | 1272.6 | 2075.7 | 3512.1 | 4759.5 | 5834.0 | 6891.5 | 8175.0 | 9477.6 | 10804.6 | 41182.7 | 110178.1 |
+| CLG | A-GAS | prudente | INCA6 | 150.6 | 207.7 | -175.1 | 124.7 | 213.7 | 1451.4 | 3013.9 | 4529.8 | 6045.7 | 7472.8 | 22513.6 | 113509.9 |
+| CLG | A-SIN | condicional | CONA6 | -3.7 | 1070.9 | 2204.8 | 3220.0 | 4294.6 | 5369.1 | 6361.2 | 7550.6 | 8631.1 | 9734.8 | 37646.9 | 111247.8 |
+| CLG | A-SIN | prudente | INCA6 | -3.1 | 6.0 | -46.0 | -167.4 | -251.2 | 986.5 | 2483.6 | 3905.5 | 5199.2 | 6403.1 | 18977.9 | 114579.6 |
+| CLG | B | condicional | CONA6 | 268.0 | 1541.2 | 3112.2 | 5022.7 | 6772.3 | 8320.4 | 9522.2 | 10145.4 | 10680.1 | 11156.3 | 49824.4 | 109826.3 |
+| CLG | B | prudente | INCA6 | 268.6 | 476.3 | 861.4 | 1635.3 | 2226.5 | 3937.8 | 5644.6 | 6500.2 | 7248.1 | 7824.6 | 31155.3 | 113158.1 |
+| CLG | B-CCOFF | condicional | CONA6 | 268.0 | 1541.2 | 3112.2 | -754.7 | 1153.7 | 1738.7 | 3195.0 | 4694.2 | 6212.7 | 7779.0 | 23619.6 | 113203.7 |
+| CLG | B-CCOFF | prudente | INCA6 | 268.6 | 476.3 | 861.4 | -4142.1 | -3392.0 | -2643.9 | -682.7 | 1049.1 | 2780.8 | 4447.2 | 4950.5 | 116535.5 |
+| CLG | B-CCSOLO | condicional | CONA6 | 268.0 | 1541.2 | 3112.2 | 1223.5 | 3131.9 | 3716.9 | 5173.1 | 6672.4 | 8158.4 | 9439.2 | 33160.0 | 111543.4 |
+| CLG | B-CCSOLO | prudente | INCA6 | 268.6 | 476.3 | 861.4 | -2163.9 | -1413.8 | -665.7 | 1295.4 | 3027.2 | 4726.5 | 6107.4 | 14490.9 | 114875.2 |
+| CLG | B-CCDER | condicional | CONA6 | 268.0 | 485.5 | 2354.4 | 4268.9 | 6018.5 | 7562.6 | 8764.5 | 9955.8 | 10680.1 | 11156.3 | 48119.3 | 109826.3 |
+| CLG | B-CCDER | prudente | INCA6 | 268.6 | -579.5 | 103.6 | 881.6 | 1472.7 | 3180.1 | 4886.8 | 6310.6 | 7248.1 | 7824.6 | 29450.2 | 113158.1 |
+| CLG | B-ANOSECO | condicional | CONA6 | -3711.9 | -2453.6 | -502.6 | 1428.3 | 3170.0 | 4400.3 | 5441.5 | 6430.1 | 7437.8 | 8469.0 | 32178.7 | 112513.7 |
+| CLG | B-ANOSECO | prudente | INCA6 | -3711.3 | -3518.6 | -2753.4 | -1959.1 | -1375.7 | 17.7 | 1563.9 | 2784.9 | 4005.9 | 5137.2 | 13509.6 | 115845.5 |
+| CLG | B-ANOSEC3 | condicional | CONA6 | -3711.9 | 1562.1 | 3127.1 | 1428.3 | 6940.9 | 8335.3 | 5441.5 | 10145.4 | 10680.1 | 8469.0 | 43071.3 | 112513.7 |
+| CLG | B-ANOSEC3 | prudente | INCA6 | -3711.3 | 497.1 | 876.4 | -1959.1 | 2395.1 | 3952.8 | 1563.9 | 6500.2 | 7248.1 | 5137.2 | 24402.2 | 115845.5 |
+| CLG | B-ANOSECM | condicional | CONA6 | -1410.4 | -159.1 | 1792.6 | 3723.3 | 5465.1 | 7009.2 | 8115.2 | 9210.8 | 10355.8 | 11156.3 | 45847.3 | 109826.3 |
+| CLG | B-ANOSECM | prudente | INCA6 | -1409.9 | -1224.1 | -458.1 | 335.9 | 919.4 | 2626.6 | 4237.6 | 5565.6 | 6923.9 | 7824.6 | 27178.2 | 113158.1 |
+| CLG | B-CCOFFANOSECO | condicional | CONA6 | -3711.9 | -2453.6 | -502.6 | -4156.9 | -2248.5 | -1663.5 | -828.4 | 160.0 | 1167.8 | 2223.4 | 1059.3 | 118759.3 |
+| CLG | B-CCOFFANOSECO | prudente | INCA6 | -3711.3 | -3518.6 | -2753.4 | -7544.3 | -6794.2 | -6046.1 | -4706.1 | -3485.1 | -2264.1 | -1108.4 | -17609.8 | 122091.0 |
+| CLG | B-FOI | condicional | CONA6 | 268.0 | 1541.2 | 3418.7 | 5333.4 | 7082.9 | 8648.2 | 9850.1 | 11041.4 | 12155.3 | 12631.6 | 54326.5 | 108351.1 |
+| CLG | B-FOI | prudente | INCA6 | 268.6 | 476.3 | 1168.0 | 1946.0 | 2537.2 | 4265.6 | 5972.4 | 7396.2 | 8723.4 | 9299.8 | 35657.4 | 111682.9 |
+| CLG | B-IMP0 | condicional | CONA6 | -109.7 | 1163.5 | 2841.0 | 4753.0 | 6502.6 | 8049.3 | 9251.1 | 10145.4 | 10680.1 | 11156.3 | 49282.1 | 109826.3 |
+| CLG | B-IMP0 | prudente | INCA6 | -109.2 | 98.5 | 590.3 | 1365.6 | 1956.8 | 3666.7 | 5373.4 | 6500.2 | 7248.1 | 7824.6 | 30613.1 | 113158.1 |
+| CLG | B-ACT | condicional | CONA6 | -1613.9 | 1163.5 | 2841.1 | 1735.3 | 7428.4 | 8064.2 | 5063.8 | 10145.4 | 10680.1 | 8108.8 | 42062.3 | 112873.9 |
+| CLG | B-ACT | prudente | INCA6 | -1613.4 | 98.6 | 590.3 | -1652.1 | 2882.6 | 3681.6 | 1186.1 | 6500.2 | 7248.1 | 4777.0 | 23393.2 | 116205.7 |
+| CLG | B-ACTDEM | condicional | CONA6 | -1613.9 | -2174.6 | -324.8 | -1791.6 | 4243.2 | 4797.1 | 1250.2 | 7652.2 | 8846.4 | 4075.9 | 26621.8 | 116906.8 |
+| CLG | B-ACTDEM | prudente | INCA6 | -1613.4 | -3239.6 | -2575.5 | -5179.0 | -302.5 | 414.5 | -2627.5 | 4007.1 | 5414.5 | 744.1 | 7952.7 | 120238.5 |
+| CLG | B-GAS | condicional | CONA6 | 150.0 | 1272.6 | 2570.1 | 4501.0 | 6242.8 | 7955.7 | 9479.3 | 10145.4 | 10680.1 | 11156.3 | 49416.7 | 109826.3 |
+| CLG | B-GAS | prudente | INCA6 | 150.6 | 207.7 | 319.4 | 1113.6 | 1697.0 | 3573.1 | 5601.6 | 6500.2 | 7248.1 | 7824.6 | 30747.6 | 113158.1 |
+| CLG | C | condicional | CONA6 | 274.4 | 1555.9 | 3191.5 | 5116.3 | 6884.3 | 8491.9 | 9730.1 | 10726.9 | 11337.3 | 11888.5 | 52174.7 | 109094.1 |
+| CLG | C | prudente | INCA6 | 274.9 | 491.0 | 940.7 | 1728.9 | 2338.5 | 4109.3 | 5852.4 | 7081.8 | 7905.4 | 8556.8 | 33505.6 | 112425.9 |
+| CLG | C-CCOFF | condicional | CONA6 | 274.4 | 1555.9 | 3191.5 | -717.7 | 1263.9 | 1922.1 | 3285.1 | 4804.7 | 6349.1 | 8676.6 | 25037.7 | 112306.0 |
+| CLG | C-CCOFF | prudente | INCA6 | 274.9 | 491.0 | 940.7 | -4105.1 | -3281.8 | -2460.5 | -592.6 | 1159.6 | 2917.2 | 5344.9 | 6368.6 | 115637.8 |
+| CLG | C-CCSOLO | condicional | CONA6 | 274.4 | 1555.9 | 3191.5 | 1260.4 | 3242.0 | 3900.2 | 5263.2 | 6782.9 | 8319.1 | 10290.2 | 34555.5 | 110692.5 |
+| CLG | C-CCSOLO | prudente | INCA6 | 274.9 | 491.0 | 940.7 | -2127.0 | -1303.7 | -482.4 | 1385.5 | 3137.8 | 4887.2 | 6958.4 | 15886.4 | 114024.3 |
+| CLG | C-CCDER | condicional | CONA6 | 274.4 | 500.2 | 2433.8 | 4362.5 | 6130.5 | 7734.2 | 8972.3 | 10199.2 | 11337.3 | 11888.5 | 50131.6 | 109094.1 |
+| CLG | C-CCDER | prudente | INCA6 | 274.9 | -564.8 | 183.0 | 975.1 | 1584.8 | 3351.6 | 5094.7 | 6554.1 | 7905.4 | 8556.8 | 31462.5 | 112425.9 |
+| CLG | C-ANOSECO | condicional | CONA6 | -3705.5 | -2438.9 | -476.4 | 1465.2 | 3222.8 | 4469.2 | 5531.6 | 6540.6 | 7574.3 | 9359.0 | 33474.6 | 111623.7 |
+| CLG | C-ANOSECO | prudente | INCA6 | -3704.9 | -3503.9 | -2727.1 | -1922.2 | -1322.9 | 86.6 | 1654.0 | 2895.4 | 4142.4 | 6027.2 | 14805.5 | 114955.5 |
+| CLG | C-ANOSEC3 | condicional | CONA6 | -3705.5 | 1576.8 | 3206.5 | 1465.2 | 7080.2 | 8506.9 | 5531.6 | 10726.9 | 11337.3 | 9359.0 | 45461.6 | 111623.7 |
+| CLG | C-ANOSEC3 | prudente | INCA6 | -3704.9 | 511.8 | 955.7 | -1922.2 | 2534.4 | 4124.3 | 1654.0 | 7081.8 | 7905.4 | 6027.2 | 26792.6 | 114955.5 |
+| CLG | C-ANOSECM | condicional | CONA6 | -1404.0 | -144.4 | 1818.9 | 3760.3 | 5517.9 | 7100.1 | 8323.1 | 9454.2 | 10639.2 | 11888.5 | 47405.1 | 109094.1 |
+| CLG | C-ANOSECM | prudente | INCA6 | -1403.5 | -1209.4 | -431.9 | 372.9 | 972.1 | 2717.5 | 4445.4 | 5809.1 | 7207.3 | 8556.8 | 28736.1 | 112425.9 |
+| CLG | C-CCOFFANOSECO | condicional | CONA6 | -3705.5 | -2438.9 | -476.4 | -4120.0 | -2138.4 | -1480.2 | -738.3 | 270.6 | 1304.3 | 3121.1 | 2477.5 | 117861.6 |
+| CLG | C-CCOFFANOSECO | prudente | INCA6 | -3704.9 | -3503.9 | -2727.1 | -7507.4 | -6684.1 | -5862.8 | -4616.0 | -3374.5 | -2127.6 | -210.7 | -16191.6 | 121193.3 |
+| CLG | C-IMP0 | condicional | CONA6 | -103.4 | 1178.2 | 2920.4 | 4846.6 | 6614.6 | 8220.8 | 9458.9 | 10644.9 | 11337.3 | 11888.5 | 51550.4 | 109094.1 |
+| CLG | C-IMP0 | prudente | INCA6 | -102.8 | 113.2 | 669.6 | 1459.2 | 2068.8 | 3838.2 | 5581.3 | 6999.7 | 7905.4 | 8556.8 | 32881.3 | 112425.9 |
+| CLG | C-ACT | condicional | CONA6 | -1615.0 | 1178.2 | 2920.4 | 1772.3 | 7567.7 | 8235.8 | 5153.9 | 10645.6 | 11337.3 | 8998.8 | 44371.3 | 111983.9 |
+| CLG | C-ACT | prudente | INCA6 | -1614.4 | 113.3 | 669.6 | -1615.1 | 3021.9 | 3853.2 | 1276.2 | 7000.4 | 7905.4 | 5667.0 | 25702.2 | 115315.7 |
+| CLG | C-ACTDEM | condicional | CONA6 | -1615.0 | -2174.6 | -320.3 | -1783.5 | 4260.6 | 4824.0 | 1292.1 | 7732.7 | 9086.7 | 4907.5 | 27843.0 | 116075.2 |
+| CLG | C-ACTDEM | prudente | INCA6 | -1614.4 | -3239.6 | -2571.0 | -5170.9 | -285.2 | 441.4 | -2585.6 | 4087.6 | 5654.8 | 1575.7 | 9173.9 | 119406.9 |
+| CLG | C-GAS | condicional | CONA6 | 156.4 | 1287.3 | 2596.4 | 4537.9 | 6295.5 | 8024.5 | 9588.7 | 10726.9 | 11337.3 | 11888.5 | 51566.0 | 109094.1 |
+| CLG | C-GAS | prudente | INCA6 | 156.9 | 222.4 | 345.6 | 1150.6 | 1749.8 | 3642.0 | 5711.1 | 7081.8 | 7905.4 | 8556.8 | 32896.9 | 112425.9 |
+| CLG | A-V7 | condicional | CONA6 | 127.3 | 1394.2 | 2644.9 | 4123.9 | 5514.8 | 6573.2 | 7523.8 | 8558.6 | 9642.8 | 10779.6 | 43078.2 | 110203.0 |
+| CLG | A-V7 | prudente | INCA6 | 127.8 | 329.2 | 394.1 | 736.6 | 969.0 | 2190.7 | 3646.2 | 4913.5 | 6210.9 | 7447.9 | 24409.1 | 113534.8 |
+| CLG | B-V7 | condicional | CONA6 | 127.3 | 1394.2 | 2988.4 | 4879.0 | 6608.0 | 8124.2 | 9313.1 | 10145.4 | 10680.1 | 11156.3 | 49419.1 | 109826.3 |
+| CLG | B-V7 | prudente | INCA6 | 127.8 | 329.2 | 737.6 | 1491.6 | 2062.2 | 3741.7 | 5435.4 | 6500.2 | 7248.1 | 7824.6 | 30750.0 | 113158.1 |
+| CLG | C-V7 | condicional | CONA6 | 133.7 | 1408.9 | 3067.7 | 4972.6 | 6723.6 | 8295.8 | 9520.9 | 10654.2 | 11337.3 | 11888.5 | 51696.7 | 109094.1 |
+| CLG | C-V7 | prudente | INCA6 | 134.2 | 343.9 | 817.0 | 1585.2 | 2177.8 | 3913.2 | 5643.2 | 7009.1 | 7905.4 | 8556.8 | 33027.7 | 112425.9 |
+| corregida | NDCINC | condicional | NDCCON | 0.0 | 1059.6 | 2217.6 | 3383.7 | 4542.8 | 4314.9 | 3698.3 | 3161.9 | 2609.9 | 2152.6 | 15937.7 | 118830.0 |
+| corregida | NDCINC | prudente | NDCINC | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 120982.6 |
+| corregida | NDCCON | condicional | NDCCON | 0.0 | 1177.8 | 2355.6 | 3533.3 | 4711.1 | 5888.9 | 7066.7 | 8244.4 | 9422.2 | 10600.0 | 41222.2 | 110382.6 |
+| corregida | NDCCON | prudente | NDCINC | 0.0 | 118.2 | 137.9 | 149.6 | 168.3 | 1573.9 | 3368.3 | 5082.5 | 6812.3 | 8447.4 | 25284.5 | 112535.3 |
+| corregida | INCA6 | condicional | NDCCON | 2389.8 | 2994.5 | 4167.9 | 5201.6 | 6398.2 | 6204.3 | 5627.8 | 5125.0 | 4612.0 | 4184.9 | 25754.0 | 116797.7 |
+| corregida | INCA6 | prudente | NDCINC | 2389.8 | 1934.9 | 1950.3 | 1817.9 | 1855.3 | 1889.3 | 1929.5 | 1963.1 | 2002.1 | 2032.3 | 9816.3 | 118950.3 |
+| corregida | CONA6 | condicional | NDCCON | 2390.3 | 3107.4 | 4272.7 | 5347.5 | 6563.5 | 7710.6 | 8816.8 | 9724.3 | 10602.3 | 11453.1 | 48307.2 | 109529.5 |
+| corregida | CONA6 | prudente | NDCINC | 2390.3 | 2047.8 | 2055.1 | 1963.8 | 2020.7 | 3395.6 | 5118.5 | 6562.4 | 7992.4 | 9300.5 | 32369.5 | 111682.1 |
+| corregida | CONA6G | condicional | NDCCON | 2272.3 | 2838.8 | 3433.1 | 5085.0 | 6455.4 | 7014.8 | 7939.3 | 9065.4 | 10196.4 | 11316.2 | 45532.1 | 109666.4 |
+| corregida | CONA6G | prudente | NDCINC | 2272.3 | 1779.2 | 1215.4 | 1701.3 | 1912.6 | 2699.9 | 4241.0 | 5903.5 | 7586.5 | 9163.6 | 29594.4 | 111819.1 |
+| corregida | CONA6P | condicional | NDCCON | 2390.3 | 3107.4 | 4356.4 | 5347.5 | 6563.5 | 7710.6 | 8841.8 | 9947.5 | 10930.2 | 11781.0 | 49211.0 | 109201.7 |
+| corregida | CONA6P | prudente | NDCINC | 2390.3 | 2047.8 | 2138.8 | 1963.8 | 2020.7 | 3395.6 | 5143.4 | 6785.6 | 8320.3 | 9628.4 | 33273.3 | 111354.3 |
+| corregida | CONA6I | condicional | NDCCON | 2012.6 | 2729.6 | 3978.7 | 4969.8 | 6185.7 | 7332.8 | 8456.6 | 9453.2 | 10331.2 | 11182.0 | 46755.9 | 109800.6 |
+| corregida | CONA6I | prudente | NDCINC | 2012.6 | 1670.0 | 1761.0 | 1586.1 | 1642.9 | 3017.9 | 4758.3 | 6291.3 | 7721.3 | 9029.4 | 30818.2 | 111953.3 |
+| corregida | A | condicional | NDCCON | 2658.4 | 3470.8 | 4674.5 | 6054.7 | 7526.8 | 8548.1 | 9396.2 | 10162.3 | 10948.5 | 11725.2 | 50780.3 | 109257.5 |
+| corregida | A | prudente | NDCINC | 2658.4 | 2411.2 | 2456.8 | 2670.9 | 2984.0 | 4233.2 | 5697.9 | 7000.4 | 8338.5 | 9572.5 | 34842.6 | 111410.1 |
+| corregida | A-CCOFF | condicional | NDCCON | 2658.4 | 3470.8 | 4674.5 | 70.6 | 2017.2 | 2576.6 | 2816.7 | 3342.1 | 4345.0 | 5368.5 | 18449.0 | 115614.1 |
+| corregida | A-CCOFF | prudente | NDCINC | 2658.4 | 2411.2 | 2456.8 | -3313.2 | -2525.6 | -1738.3 | -881.6 | 180.2 | 1735.1 | 3215.9 | 2511.3 | 117766.7 |
+| corregida | A-CCSOLO | condicional | NDCCON | 2658.4 | 3470.8 | 4674.5 | 2048.8 | 3995.4 | 4554.8 | 4794.9 | 5320.3 | 6323.2 | 7346.7 | 28340.0 | 113635.9 |
+| corregida | A-CCSOLO | prudente | NDCINC | 2658.4 | 2411.2 | 2456.8 | -1335.0 | -547.4 | 239.9 | 1096.6 | 2158.4 | 3713.3 | 5194.1 | 12402.3 | 115788.6 |
+| corregida | A-CCDER | condicional | NDCCON | 2658.4 | 2415.1 | 3860.4 | 5193.9 | 6479.4 | 7523.3 | 8499.8 | 9404.6 | 10190.7 | 10967.4 | 46585.8 | 110015.2 |
+| corregida | A-CCDER | prudente | NDCINC | 2658.4 | 1355.4 | 1642.7 | 1810.2 | 1936.6 | 3208.3 | 4801.5 | 6242.7 | 7580.8 | 8814.8 | 30648.1 | 112167.8 |
+| corregida | A-ANOSECO | condicional | NDCCON | -1321.5 | -524.1 | 920.1 | 2548.4 | 4495.0 | 5054.4 | 5294.5 | 5432.5 | 5667.4 | 6082.9 | 27531.8 | 114899.7 |
+| corregida | A-ANOSECO | prudente | NDCINC | -1321.5 | -1583.7 | -1297.6 | -835.4 | -47.8 | 739.5 | 1596.2 | 2270.6 | 3057.5 | 3930.3 | 11594.1 | 117052.3 |
+| corregida | A-ANOSEC3 | condicional | NDCCON | -1321.5 | 3491.7 | 4689.4 | 2548.4 | 7987.6 | 8575.0 | 5294.5 | 10177.3 | 10963.4 | 6082.9 | 41093.2 | 114899.7 |
+| corregida | A-ANOSEC3 | prudente | NDCINC | -1321.5 | 2432.1 | 2471.8 | -835.4 | 3444.8 | 4260.1 | 1596.2 | 7015.4 | 8353.5 | 3930.3 | 25155.5 | 117052.3 |
+| corregida | A-ANOSECM | condicional | NDCCON | 979.9 | 1770.4 | 3215.4 | 4548.6 | 5922.9 | 6758.2 | 7610.7 | 8488.2 | 9328.2 | 10035.2 | 42220.4 | 110947.5 |
+| corregida | A-ANOSECM | prudente | NDCINC | 979.9 | 710.8 | 997.7 | 1164.9 | 1380.1 | 2443.2 | 3912.4 | 5326.3 | 6718.3 | 7882.5 | 26282.7 | 113100.1 |
+| corregida | A-CCOFFANOSECO | condicional | NDCCON | -1321.5 | -524.1 | 920.1 | -3331.6 | -1385.0 | -1002.9 | -782.5 | -644.5 | -409.6 | -187.1 | -3026.5 | 121169.7 |
+| corregida | A-CCOFFANOSECO | prudente | NDCINC | -1321.5 | -1583.7 | -1297.6 | -6715.4 | -5927.8 | -5317.8 | -4480.8 | -3806.4 | -3019.5 | -2339.7 | -18964.2 | 123322.3 |
+| corregida | A-FOI | condicional | NDCCON | 2658.4 | 3470.8 | 4916.1 | 6249.6 | 7535.2 | 8579.0 | 9556.9 | 10490.2 | 11276.3 | 12053.0 | 51955.4 | 108929.6 |
+| corregida | A-FOI | prudente | NDCINC | 2658.4 | 2411.2 | 2698.5 | 2865.9 | 2992.4 | 4264.1 | 5858.6 | 7328.3 | 8666.4 | 9900.4 | 36017.7 | 111082.3 |
+| corregida | A-IMP0 | condicional | NDCCON | 2280.6 | 3093.1 | 4403.3 | 5783.5 | 7157.4 | 8194.9 | 9125.1 | 9891.2 | 10677.3 | 11454.1 | 49342.6 | 109528.6 |
+| corregida | A-IMP0 | prudente | NDCINC | 2280.6 | 2033.4 | 2185.7 | 2399.8 | 2614.6 | 3880.0 | 5426.8 | 6729.3 | 8067.4 | 9301.4 | 33404.9 | 111681.2 |
+| corregida | A-ACT | condicional | NDCCON | 776.4 | 3093.1 | 4403.3 | 2560.7 | 8201.3 | 8214.8 | 5109.8 | 9906.2 | 10692.3 | 5705.1 | 39628.3 | 115277.5 |
+| corregida | A-ACT | prudente | NDCINC | 776.4 | 2033.5 | 2185.7 | -823.1 | 3658.5 | 3899.9 | 1411.5 | 6744.2 | 8082.4 | 3552.5 | 23690.5 | 117430.1 |
+| corregida | A-ACTDEM | condicional | NDCCON | 776.5 | -245.1 | 1097.9 | -966.3 | 4612.3 | 4497.1 | 1296.1 | 6334.0 | 7250.8 | 1813.0 | 21191.1 | 119169.6 |
+| corregida | A-ACTDEM | prudente | NDCINC | 776.5 | -1304.7 | -1119.8 | -4350.1 | 69.5 | 182.2 | -2402.2 | 3172.1 | 4640.9 | -339.6 | 5253.4 | 121322.2 |
+| corregida | A-GAS | condicional | NDCCON | 2540.4 | 3202.2 | 3992.8 | 5326.3 | 6611.8 | 7655.7 | 8641.7 | 9654.8 | 10657.8 | 11657.7 | 48267.6 | 109325.0 |
+| corregida | A-GAS | prudente | NDCINC | 2540.4 | 2142.6 | 1775.2 | 1942.6 | 2069.0 | 3340.7 | 4943.4 | 6492.9 | 8047.8 | 9505.1 | 32329.9 | 111477.6 |
+| corregida | A-SIN | condicional | NDCCON | 2386.7 | 3000.5 | 4121.9 | 5034.2 | 6146.9 | 7190.8 | 8111.4 | 9030.5 | 9811.3 | 10588.0 | 44731.9 | 110394.7 |
+| corregida | A-SIN | prudente | NDCINC | 2386.7 | 1940.9 | 1904.3 | 1650.5 | 1604.1 | 2875.8 | 4413.1 | 5868.6 | 7201.3 | 8435.4 | 28794.2 | 112547.3 |
+| corregida | B | condicional | NDCCON | 2658.4 | 3470.8 | 5029.3 | 6836.9 | 8624.7 | 10142.1 | 11272.4 | 11625.3 | 11860.2 | 12009.5 | 56909.3 | 108973.2 |
+| corregida | B | prudente | NDCINC | 2658.4 | 2411.2 | 2811.7 | 3453.2 | 4081.9 | 5827.1 | 7574.1 | 8463.4 | 9250.2 | 9856.9 | 40971.6 | 111125.8 |
+| corregida | B-CCOFF | condicional | NDCCON | 2658.4 | 3470.8 | 5029.3 | 1059.5 | 3006.1 | 3560.3 | 4945.1 | 6174.1 | 7392.8 | 8632.1 | 30704.5 | 112350.5 |
+| corregida | B-CCOFF | prudente | NDCINC | 2658.4 | 2411.2 | 2811.7 | -2324.3 | -1536.7 | -754.6 | 1246.8 | 3012.2 | 4782.9 | 6479.5 | 14766.8 | 114503.2 |
+| corregida | B-CCSOLO | condicional | NDCCON | 2658.4 | 3470.8 | 5029.3 | 3037.7 | 4984.3 | 5538.5 | 6923.3 | 8152.2 | 9338.5 | 10292.4 | 40245.0 | 110690.3 |
+| corregida | B-CCSOLO | prudente | NDCINC | 2658.4 | 2411.2 | 2811.7 | -346.1 | 441.5 | 1223.6 | 3224.9 | 4990.3 | 6728.6 | 8139.7 | 24307.2 | 112842.9 |
+| corregida | B-CCDER | condicional | NDCCON | 2658.4 | 2415.1 | 4271.6 | 6083.1 | 7870.9 | 9384.3 | 10514.6 | 11435.7 | 11860.2 | 12009.5 | 55204.3 | 108973.2 |
+| corregida | B-CCDER | prudente | NDCINC | 2658.4 | 1355.4 | 2053.9 | 2699.4 | 3328.1 | 5069.4 | 6816.3 | 8273.8 | 9250.2 | 9856.9 | 39266.5 | 111125.8 |
+| corregida | B-ANOSECO | condicional | NDCCON | -1321.5 | -524.1 | 1414.6 | 3242.5 | 5022.4 | 6222.0 | 7191.7 | 7909.9 | 8617.9 | 9322.1 | 39263.6 | 111660.5 |
+| corregida | B-ANOSECO | prudente | NDCINC | -1321.5 | -1583.7 | -803.1 | -141.3 | 479.6 | 1907.0 | 3493.4 | 4748.0 | 6008.0 | 7169.5 | 23325.9 | 113813.2 |
+| corregida | B-ANOSEC3 | condicional | NDCCON | -1321.5 | 3491.7 | 5044.3 | 3242.5 | 8793.3 | 10157.0 | 7191.7 | 11625.3 | 11860.2 | 9322.1 | 50156.3 | 111660.5 |
+| corregida | B-ANOSEC3 | prudente | NDCINC | -1321.5 | 2432.1 | 2826.6 | -141.3 | 4250.5 | 5842.1 | 3493.4 | 8463.4 | 9250.2 | 7169.5 | 34218.5 | 113813.2 |
+| corregida | B-ANOSECM | condicional | NDCCON | 979.9 | 1770.4 | 3709.8 | 5537.5 | 7317.5 | 8830.9 | 9865.4 | 10690.6 | 11535.9 | 12009.5 | 52932.3 | 108973.2 |
+| corregida | B-ANOSECM | prudente | NDCINC | 979.9 | 710.8 | 1492.1 | 2153.8 | 2774.7 | 4515.9 | 6167.1 | 7528.7 | 8926.0 | 9856.9 | 36994.6 | 111125.8 |
+| corregida | B-CCOFFANOSECO | condicional | NDCCON | -1321.5 | -524.1 | 1414.6 | -2342.7 | -396.1 | 158.1 | 921.7 | 1639.9 | 2347.9 | 3076.5 | 8144.2 | 117906.1 |
+| corregida | B-CCOFFANOSECO | prudente | NDCINC | -1321.5 | -1583.7 | -803.1 | -5726.5 | -4938.9 | -4156.8 | -2776.6 | -1522.0 | -262.0 | 923.9 | -7793.5 | 120058.7 |
+| corregida | B-FOI | condicional | NDCCON | 2658.4 | 3470.8 | 5335.9 | 7147.6 | 8935.3 | 10469.9 | 11600.2 | 12521.2 | 13335.4 | 13484.7 | 61411.4 | 107497.9 |
+| corregida | B-FOI | prudente | NDCINC | 2658.4 | 2411.2 | 3118.2 | 3763.8 | 4392.5 | 6155.0 | 7901.9 | 9359.3 | 10725.5 | 11332.1 | 45473.7 | 109650.6 |
+| corregida | B-IMP0 | condicional | NDCCON | 2280.6 | 3093.1 | 4758.2 | 6567.2 | 8355.0 | 9870.9 | 11001.3 | 11625.3 | 11860.2 | 12009.5 | 56367.1 | 108973.2 |
+| corregida | B-IMP0 | prudente | NDCINC | 2280.6 | 2033.4 | 2540.6 | 3183.5 | 3812.2 | 5556.0 | 7302.9 | 8463.4 | 9250.2 | 9856.9 | 40429.4 | 111125.8 |
+| corregida | B-ACT | condicional | NDCCON | 776.4 | 3093.1 | 4758.2 | 3549.5 | 9280.7 | 9885.9 | 6814.0 | 11625.3 | 11860.2 | 8961.9 | 49147.2 | 112020.7 |
+| corregida | B-ACT | prudente | NDCINC | 776.4 | 2033.5 | 2540.6 | 165.8 | 4737.9 | 5571.0 | 3115.6 | 8463.4 | 9250.2 | 6809.3 | 33209.5 | 114173.4 |
+| corregida | B-ACTDEM | condicional | NDCCON | 776.5 | -245.1 | 1592.4 | 22.6 | 6095.6 | 6618.8 | 3000.3 | 9132.1 | 10026.5 | 4929.0 | 33706.7 | 116053.6 |
+| corregida | B-ACTDEM | prudente | NDCINC | 776.5 | -1304.7 | -625.3 | -3361.2 | 1552.8 | 2303.9 | -698.0 | 5970.2 | 7416.6 | 2776.4 | 17769.0 | 118206.2 |
+| corregida | B-GAS | condicional | NDCCON | 2540.4 | 3202.2 | 4487.3 | 6315.2 | 8095.2 | 9777.3 | 11229.4 | 11625.3 | 11860.2 | 12009.5 | 56501.7 | 108973.2 |
+| corregida | B-GAS | prudente | NDCINC | 2540.4 | 2142.6 | 2269.6 | 2931.4 | 3552.4 | 5462.4 | 7531.1 | 8463.4 | 9250.2 | 9856.9 | 40563.9 | 111125.8 |
+| corregida | C | condicional | NDCCON | 2664.7 | 3485.5 | 5108.7 | 6930.5 | 8736.7 | 10313.6 | 11480.2 | 12206.8 | 12517.4 | 12741.7 | 59259.6 | 108241.0 |
+| corregida | C | prudente | NDCINC | 2664.7 | 2425.9 | 2891.0 | 3546.8 | 4193.9 | 5998.7 | 7781.9 | 9044.9 | 9907.5 | 10589.1 | 43321.9 | 110393.6 |
+| corregida | C-CCOFF | condicional | NDCCON | 2664.7 | 3485.5 | 5108.7 | 1096.5 | 3116.3 | 3743.7 | 5035.2 | 6284.6 | 7529.3 | 9529.8 | 32122.6 | 111452.9 |
+| corregida | C-CCOFF | prudente | NDCINC | 2664.7 | 2425.9 | 2891.0 | -2287.3 | -1426.5 | -571.2 | 1336.9 | 3122.7 | 4919.3 | 7377.1 | 16184.9 | 113605.5 |
+| corregida | C-CCSOLO | condicional | NDCCON | 2664.7 | 3485.5 | 5108.7 | 3074.6 | 5094.4 | 5721.8 | 7013.4 | 8262.8 | 9499.2 | 11143.3 | 41640.5 | 109839.3 |
+| corregida | C-CCSOLO | prudente | NDCINC | 2664.7 | 2425.9 | 2891.0 | -309.2 | 551.6 | 1406.9 | 3315.0 | 5100.9 | 6889.3 | 8990.7 | 25702.7 | 111992.0 |
+| corregida | C-CCDER | condicional | NDCCON | 2664.7 | 2429.8 | 4350.9 | 6176.7 | 7982.9 | 9555.9 | 10722.5 | 11679.1 | 12517.4 | 12741.7 | 57216.5 | 108241.0 |
+| corregida | C-CCDER | prudente | NDCINC | 2664.7 | 1370.2 | 2133.3 | 2793.0 | 3440.1 | 5240.9 | 7024.2 | 8517.2 | 9907.5 | 10589.1 | 41278.8 | 110393.6 |
+| corregida | C-ANOSECO | condicional | NDCCON | -1315.1 | -509.4 | 1440.8 | 3279.4 | 5075.2 | 6290.9 | 7281.8 | 8020.4 | 8754.4 | 10212.1 | 40559.6 | 110770.5 |
+| corregida | C-ANOSECO | prudente | NDCINC | -1315.1 | -1569.0 | -776.9 | -104.4 | 532.4 | 1975.9 | 3583.5 | 4858.5 | 6144.5 | 8059.5 | 24621.9 | 112923.2 |
+| corregida | C-ANOSEC3 | condicional | NDCCON | -1315.1 | 3506.4 | 5123.6 | 3279.4 | 8932.6 | 10328.6 | 7281.8 | 12206.8 | 12517.4 | 10212.1 | 52546.6 | 110770.5 |
+| corregida | C-ANOSEC3 | prudente | NDCINC | -1315.1 | 2446.8 | 2906.0 | -104.4 | 4389.7 | 6013.6 | 3583.5 | 9044.9 | 9907.5 | 8059.5 | 36608.9 | 112923.2 |
+| corregida | C-ANOSECM | condicional | NDCCON | 986.3 | 1785.2 | 3736.1 | 5574.5 | 7370.2 | 8921.8 | 10073.2 | 10934.1 | 11819.3 | 12741.7 | 54490.1 | 108241.0 |
+| corregida | C-ANOSECM | prudente | NDCINC | 986.3 | 725.6 | 1518.4 | 2190.7 | 2827.4 | 4606.8 | 6374.9 | 7772.2 | 9209.4 | 10589.1 | 38552.4 | 110393.6 |
+| corregida | C-CCOFFANOSECO | condicional | NDCCON | -1315.1 | -509.4 | 1440.8 | -2305.8 | -286.0 | 341.4 | 1011.8 | 1750.5 | 2484.4 | 3974.2 | 9562.4 | 117008.4 |
+| corregida | C-CCOFFANOSECO | prudente | NDCINC | -1315.1 | -1569.0 | -776.9 | -5689.6 | -4828.8 | -3973.5 | -2686.5 | -1411.4 | -125.5 | 1821.6 | -6375.3 | 119161.0 |
+| corregida | C-IMP0 | condicional | NDCCON | 2287.0 | 3107.8 | 4837.5 | 6660.8 | 8467.0 | 10042.5 | 11209.1 | 12124.7 | 12517.4 | 12741.7 | 58635.4 | 108241.0 |
+| corregida | C-IMP0 | prudente | NDCINC | 2287.0 | 2048.2 | 2619.9 | 3277.1 | 3924.2 | 5727.6 | 7510.8 | 8962.8 | 9907.5 | 10589.1 | 42697.6 | 110393.6 |
+| corregida | C-ACT | condicional | NDCCON | 775.4 | 3107.8 | 4837.5 | 3586.5 | 9420.0 | 10057.5 | 6904.0 | 12125.5 | 12517.4 | 9851.9 | 51456.2 | 111130.7 |
+| corregida | C-ACT | prudente | NDCINC | 775.4 | 2048.2 | 2619.9 | 202.7 | 4877.2 | 5742.5 | 3205.7 | 8963.5 | 9907.5 | 7699.3 | 35518.5 | 113283.4 |
+| corregida | C-ACTDEM | condicional | NDCCON | 775.4 | -245.1 | 1596.9 | 30.7 | 6112.9 | 6645.7 | 3042.2 | 9212.6 | 10266.8 | 5760.6 | 34927.9 | 115222.0 |
+| corregida | C-ACTDEM | prudente | NDCINC | 775.4 | -1304.7 | -620.8 | -3353.1 | 1570.1 | 2330.8 | -656.1 | 6050.7 | 7656.9 | 3608.0 | 18990.2 | 117374.6 |
+| corregida | C-GAS | condicional | NDCCON | 2546.7 | 3216.9 | 4513.5 | 6352.1 | 8147.9 | 9846.2 | 11338.9 | 12206.8 | 12517.4 | 12741.7 | 58650.9 | 108241.0 |
+| corregida | C-GAS | prudente | NDCINC | 2546.7 | 2157.3 | 2295.9 | 2968.4 | 3605.1 | 5531.3 | 7640.6 | 9044.9 | 9907.5 | 10589.1 | 42713.2 | 110393.6 |
+| corregida | A-V7 | condicional | NDCCON | 2517.7 | 3323.8 | 4562.1 | 5938.1 | 7367.2 | 8394.9 | 9274.0 | 10038.5 | 10823.0 | 11632.8 | 50163.1 | 109349.9 |
+| corregida | A-V7 | prudente | NDCINC | 2517.7 | 2264.2 | 2344.4 | 2554.4 | 2824.4 | 4080.0 | 5575.7 | 6876.6 | 8213.0 | 9480.2 | 34225.4 | 111502.5 |
+| corregida | B-V7 | condicional | NDCCON | 2517.7 | 3323.8 | 4905.5 | 6693.2 | 8460.4 | 9945.9 | 11063.2 | 11625.3 | 11860.2 | 12009.5 | 56504.0 | 108973.2 |
+| corregida | B-V7 | prudente | NDCINC | 2517.7 | 2264.2 | 2687.9 | 3309.5 | 3917.5 | 5631.0 | 7364.9 | 8463.4 | 9250.2 | 9856.9 | 40566.3 | 111125.8 |
+| corregida | C-V7 | condicional | NDCCON | 2524.0 | 3338.5 | 4984.9 | 6786.8 | 8576.0 | 10117.5 | 11271.0 | 12134.1 | 12517.4 | 12741.7 | 58781.7 | 108241.0 |
+| corregida | C-V7 | prudente | NDCINC | 2524.0 | 2278.9 | 2767.2 | 3403.1 | 4033.2 | 5802.5 | 7572.7 | 8972.2 | 9907.5 | 10589.1 | 42844.0 | 110393.6 |

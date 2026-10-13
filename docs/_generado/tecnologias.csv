@@ -1,0 +1,145 @@
+Código,Nombre,Grupo de la parametrización,Tipo de planta
+DIST_DSL,Primaria - Importación/Distribución - Diesel,Primaria,
+DIST_GSL,Primaria -  Importación/Distribución - Gasolina,Primaria,
+DIST_NGS,Primaria - Importación/Distribución - Gas Natural,Primaria,
+DIST_LPG,Primaria -  Importación/Distribución - GLP,Primaria,
+DIST_COK,Primaria -  Importación/Distribución - Coque,Primaria,
+DIST_KER,Primaria -  Importación/Distribución - Keroseno,Primaria,
+DIST_JET,Primaria -  Importación/Distribución - Jet,Primaria,
+DIST_FIR,Primaria - ETD - Leña,Primaria,
+DIST_CHA,Primaria - ETD - Carbon Vegetal,Primaria,
+DIST_BIM,Primaria - ETD - Biomasa,Primaria,
+DIST_BGS,Primaria - ETD - Biogas,Primaria,
+DIST_OPE,Primaria -  Importación/Distribución - OPE,Primaria,
+EXTT_CRU,Primaria Extracción/Transformation - Crudo,Primaria,
+DIST_COA,Primaria -  Importación/Distribución - Carbón,Primaria,
+DIST_FOI,Primaria -  Importación/Distribución - Búnker,Primaria,
+PPGEO,Primaria - Transformación - Geotérmica,Primaria,Geotermia
+PPWNDON,Primaria - Transformación - Eólica,Primaria,Eólica
+PPWNDONS,Primaria - Transformación - Eólica con Almacenamiento,Primaria,Eólica
+PPWNDOFF,Primaria - Transformación - Eólica Offshore,Primaria,Eólica
+PPPVT,Primaria - Transformación - Solar,Primaria,Solar
+PPPVTS,Primaria - Transformación - Solar con almacenamiento de batería,Primaria,Solar
+PPPVD,Primaria - Transformación - Solar Distribuida,Primaria,Solar
+PPPVDS,Primaria - Transformación - Solar Distribuida con almacenamiento de batería,Primaria,Solar
+ELE_TRANS,Secundaria - Transmisión de Potencia,Secundaria,
+ELE_DIST,Secundaria - Distribución de Potencia,Secundaria,
+HYD_G_PROD,Secundaria - Producción de Hidrógeno Verde,Secundaria,
+HYD_DIST,Secundaria - Distribución de Hidrógeno,Secundaria,
+STOELE,Secundaria - Transmisión de Potencia,Secundaria,
+PPBIM,Primaria - Transformación - Biomass,Secundaria,Biomasa y biogás
+PPBGS,Primaria - Transformación - Biogas,Secundaria,Biomasa y biogás
+PPNGS,Primaria - Transformación - Natural Gas,Secundaria,Gas natural
+PPDSL,Primaria - Transformación - Diesel,Secundaria,Fuel oil y diésel
+PPFOI,Primaria - Transformación - Búnker,Secundaria,Fuel oil y diésel
+REF_DSL,Secundaria Refinación Diesel,Secundaria,
+REF_GSL,Secundaria Refinación Gasolina,Secundaria,
+REF_LPG,Secundaria Refinación LPG,Secundaria,
+REF_FOI,Secundaria Refinación Fuel Oil,Secundaria,
+REF_JET,Primaria -  Importación/Distribución - Jet,Secundaria,
+REF_OPE,Primaria -  Importación/Distribución - OPE,Secundaria,
+T5DSLCOM,Demand Diesel for Commercial,Demanda,
+T5GSLCOM,Demand Gasoline for Commercial,,
+T5LPGCOM,Demand LPG for Commercial,Demanda,
+T5ELECOM,Demand Electric for Commercial,Demanda,
+T5FIRCOM,Demand Firewood for Commercial,,
+T5CHACOM,Demand Charcoal for Commercial,,
+T5OPECOM,Demand Other non-energy petroleum products for Commercial,,
+T5DSLRES,Demand Diesel for Residential,,
+T5GSLRES,Demand Gasoline for Residential,Demanda,
+T5LPGRES,Demand LPG for Residential,Demanda,
+T5ELERES,Demand Electric for Residential,Demanda,
+T5KERRES,Demand Kerosen for Residential,Demanda,
+T5FIRRES,Demand Firewood for Residential,Demanda,
+T5CHARES,Demand Charcoal for Residential,Demanda,
+T5OPERES,Demand Other non-energy petroleum products for Residential,Demanda,
+T5ELEPUB,Demand Electric for Public,Demanda,
+T5DSLIND,Demand Diesel for Industrial,Demanda,
+T5GSLIND,Demand Gasoline for Industrial,Demanda,
+T5NGSIND,Demand Natural Gas for Industrial,Demanda,
+T5ELEIND,Demand Electric for Industrial,Demanda,
+T5HYDIND,Demand Hydrogen for Industrial,Demanda,
+T5COKIND,Demand Coke for Industrial,,
+T5BIMIND,Demand Biomass for Industrial,Demanda,
+T5COAIND,Demand Carbón de coque  for Industrial,Demanda,
+T5FOIIND,Demand Fuel Oil for Industrial,Demanda,
+T5DSLCON,Demand Diesel for Construction,Demanda,
+T5ELECON,Demand Electric for Construction,Demanda,
+T5FOICON,Demand Fuel Oil for Construction,Demanda,
+T5DSLEXP,Demand Diesel for Exports,Demanda,
+T5JETEXP,Demand Jet Fuel and others for Exports,Demanda,
+T5FOIEXP,Demand Fuel Oil for Exports,Demanda,
+T5JETTAE,Demand Jet Fuel and others for Transport - Aero,Demanda,
+T5DSLTMA,Demand Diesel for Transport - Maritime,Demanda,
+T5NGSTMA,Demand Natural Gas for Transport - Maritime,Demanda,
+T5LPGTMA,Demand LPG for Transport - Maritime,Demanda,
+T5ELETMA,Demand Electric for Transport - Maritime,Demanda,
+T5FOITMA,Demand Fuel Oil for Transport - Maritime,Demanda,
+T5DSLTRO,Demand Diesel for Transport - Road,Demanda,
+T5GSLTRO,Demand Gasoline for Transport - Road,Demanda,
+T5NGSTRO,Demand Natural Gas for Transport - Road,Demanda,
+T5LPGTRO,Demand LPG for Transport - Road,Demanda,
+T5ELETRO,Demand Electric for Transport - Road,Demanda,
+T5BGSTRO,Demand Biofuel/Biogas for Transport - Road,Demanda,
+T5FOITRO,Demand Fuel Oil for Transport - Road,Demanda,
+T4ELE_HEA,Distribute Electric for Heavy Freight,Distribución para transporte,
+TRXTRAIELE,Floating technology Electric,Vehículos,
+Techs_Rail,Floating technology,Grupos de vehículos,
+TRANE6NOMOT,Tecnología habilitadora de reducción de no-motorizado,Otras,
+PROCRU,Production - Crude,Secundaria,
+PPCRU,Power Plant Crude,Secundaria,"Crudo, GLP e importación"
+PPRNGS,Isolated Power Plant Refinery Natural Gas,Secundaria,Gas natural
+PPRDSL,Isolated Power Plant Refinery Diesel,Secundaria,Fuel oil y diésel
+IMPELE, Import/Distribution - Electricity,Primaria,"Crudo, GLP e importación"
+T5FOICOM,Demand Fuel Oil for Commercial,Demanda,
+T5NGSRES,Demand Gas Natural for Residential,Demanda,
+T5LPGIND,Demand LPG for Industrial,Demanda,
+T5FIRIND,Demand Firewood for Industrial,Demanda,
+T5GSLCON,Demand Gasoline for Construcción y otros,Demanda,
+T5LPGCON,Demand Firewood for Construcción y otros,Demanda,
+T5OPECON,Demand Other non-energy petroleum products for Construcción y otros,Demanda,
+PPWNDD,Primary - Transformation - Distributed Wind,Primaria,Eólica
+PPHD,Primary - Transformation - Hidroeléctrica distribuida,Primaria,Hidroeléctrica
+PRONGS,Production - Natural_Gas,Secundaria,
+EXTT_NGS,Reserves - Natural Gas,Primaria,
+ADD_GRE,Primary - Import/Distribution - Gas Refineria,Primaria,
+T5CRUEXP,Demand Crude for Exports,Demanda,
+T5INDCOK,Demand Fuel Oil for Transport - Road,Demanda,
+T5VEGWAS,Demand Fuel Oil for Transport - Road,Demanda,
+T5TRNFOI,Demand Fuel Oil for Transport - Road,Demanda,
+T5COMGSL,Demand Commercial - Gasoline,Demanda,
+T5TAEGSL,Demand Aero Transport - Gasoline,Demanda,
+T5TMAGSL,Demand Maritime Transport - Gasoline,Demanda,
+T5TCADSL,Demand Heavy Duty Transport - Diesel,Demanda,
+T5TCAGSL,Demand Heavy Duty Transport - Gasoline,Demanda,
+T5ALLTRNDSL,,Demanda,
+T5ALLTRNELE,,Demanda,
+T5ALLTRNFOI,,Demanda,
+T5ALLTRNLPG,,Demanda,
+T5ALLTRNGSL,,Demanda,
+T5ALLTRNJET,,Demanda,
+T5CONKER,Demand Kerosene for Construction,Demanda,
+T5AGRDSL,Demand Diesel for Agriculture ,Demanda,
+T5AGRLPG,Demand LPG for Agriculture ,Demanda,
+T5AGRGSL,Demand Gasoline for Agriculture ,Demanda,
+T5AGROTP,Demand Other non-energy petroleum products for Agriculture ,Demanda,
+PPDFOI,Distributed Power Plant Fuel Oil,Secundaria,Fuel oil y diésel
+PPDDSL,Distributed Power Plant  Diesel,Secundaria,Fuel oil y diésel
+PPILPG,Isolated Power Plant LPG,Secundaria,"Crudo, GLP e importación"
+PPIBIM,Isolated Power Plant Biomass/Residue,Secundaria,Biomasa y biogás
+PPIHD,Primary - Transformation - Isolated Hidroeléctrica,Primaria,Hidroeléctrica
+PPHDAMAB,Primary - Transformation - Hydro Dam Amazon Big (+ 450 MW),Primaria,Hidroeléctrica
+PPHDAMAM,Primary - Transformation - Hydro Dam Amazon Medium (< 450 MW),Primaria,Hidroeléctrica
+PPHDAMAS,Primary - Transformation - Hydro Dam Amazon Small (<50 MW),Primaria,Hidroeléctrica
+PPHDAMPM,Primary - Transformation - Hydro Dam Pacific Medium (< 450 MW),Primaria,Hidroeléctrica
+PPHDAMPS,Primary - Transformation - Hydro Dam Pacific Small (<50 MW),Primaria,Hidroeléctrica
+PPHRORAB,Primary - Transformation - Hydro ROR Amazon Big (+ 450 MW),Primaria,Hidroeléctrica
+PPHRORAM,Primary - Transformation - Hydro ROR Amazon Medium (< 450 MW),Primaria,Hidroeléctrica
+PPHRORAS,Primary - Transformation - Hydro ROR Amazon Small (<50 MW),Primaria,Hidroeléctrica
+PPHRORPM,Primary - Transformation - Hydro ROR Pacific Medium (< 450 MW),Primaria,Hidroeléctrica
+PPHRORPS,Primary - Transformation - Hydro ROR Pacific Small (<50 MW),Primaria,Hidroeléctrica
+DIST_CRU,Primary Import - Crude,Primaria,
+DIST_RDF,Primary - Import/Distribution - Desechos municipales no biomasa,Primaria,
+DIST_OID,Primary - Import/Distribution - Óleos de desecho,Primaria,
+T5RDFIND,Demand Desechos municipales no biomasa for Industrial,Demanda,
+T5OIDIND,Demand Óleos de desecho for Industrial,Demanda,

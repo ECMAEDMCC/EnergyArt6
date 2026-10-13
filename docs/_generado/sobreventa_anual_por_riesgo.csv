@@ -1,0 +1,441 @@
+﻿proyeccion,regla,estado,sufijo,escenario,anio,margen_kt,autorizado_kt,margen_tras_transferir_kt,sobreventa_kt,incumplimiento_sin_transferir_kt
+CLG,condicional,Intacto,,C,2026,274.4,0.0,274.4,0.0,0.0
+CLG,condicional,Intacto,,C,2027,1555.9,0.0,1555.9,0.0,0.0
+CLG,condicional,Intacto,,C,2028,3191.5,0.0,3191.5,0.0,0.0
+CLG,condicional,Intacto,,C,2029,5116.3,0.0,5116.3,0.0,0.0
+CLG,condicional,Intacto,,C,2030,6884.3,0.0,6884.3,0.0,0.0
+CLG,condicional,Intacto,,C,2031,8491.9,2657.7,5834.2,0.0,0.0
+CLG,condicional,Intacto,,C,2032,9730.1,2734.0,6996.1,0.0,0.0
+CLG,condicional,Intacto,,C,2033,10726.9,2553.1,8173.8,0.0,0.0
+CLG,condicional,Intacto,,C,2034,11337.3,2178.1,9159.2,0.0,0.0
+CLG,condicional,Intacto,,C,2035,11888.5,1551.6,10336.9,0.0,0.0
+CLG,prudente,Intacto,,C,2026,274.9,0.0,274.9,0.0,0.0
+CLG,prudente,Intacto,,C,2027,491.0,0.0,491.0,0.0,0.0
+CLG,prudente,Intacto,,C,2028,940.7,0.0,940.7,0.0,0.0
+CLG,prudente,Intacto,,C,2029,1728.9,0.0,1728.9,0.0,0.0
+CLG,prudente,Intacto,,C,2030,2338.5,0.0,2338.5,0.0,0.0
+CLG,prudente,Intacto,,C,2031,4109.3,2657.7,1451.6,0.0,0.0
+CLG,prudente,Intacto,,C,2032,5852.4,2734.0,3118.4,0.0,0.0
+CLG,prudente,Intacto,,C,2033,7081.8,2553.1,4528.7,0.0,0.0
+CLG,prudente,Intacto,,C,2034,7905.4,2178.1,5727.3,0.0,0.0
+CLG,prudente,Intacto,,C,2035,8556.8,1551.6,7005.2,0.0,0.0
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2026,274.4,0.0,274.4,0.0,0.0
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2027,1555.9,0.0,1555.9,0.0,0.0
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2028,3191.5,0.0,3191.5,0.0,0.0
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2029,-717.7,0.0,-717.7,0.0,717.7
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2030,1263.9,0.0,1263.9,0.0,0.0
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2031,1922.1,2657.7,-735.6,735.6,0.0
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2032,3285.1,2734.0,551.1,0.0,0.0
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2033,4804.7,2553.1,2251.6,0.0,0.0
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2034,6349.1,2178.1,4171.0,0.0,0.0
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2035,8676.6,1551.6,7125.0,0.0,0.0
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2026,274.9,0.0,274.9,0.0,0.0
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2027,491.0,0.0,491.0,0.0,0.0
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2028,940.7,0.0,940.7,0.0,0.0
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2029,-4105.1,0.0,-4105.1,0.0,4105.1
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2030,-3281.8,0.0,-3281.8,0.0,3281.8
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2031,-2460.5,2657.7,-5118.2,2657.7,2460.5
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2032,-592.6,2734.0,-3326.6,2734.0,592.6
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2033,1159.6,2553.1,-1393.5,1393.5,0.0
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2034,2917.2,2178.1,739.1,0.0,0.0
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2035,5344.9,1551.6,3793.3,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2026,274.4,0.0,274.4,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2027,1555.9,0.0,1555.9,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2028,3191.5,0.0,3191.5,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2029,1260.4,0.0,1260.4,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2030,3242.0,0.0,3242.0,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2031,3900.2,2657.7,1242.5,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2032,5263.2,2734.0,2529.2,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2033,6782.9,2553.1,4229.8,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2034,8319.1,2178.1,6141.0,0.0,0.0
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2035,10290.2,1551.6,8738.6,0.0,0.0
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2026,274.9,0.0,274.9,0.0,0.0
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2027,491.0,0.0,491.0,0.0,0.0
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2028,940.7,0.0,940.7,0.0,0.0
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2029,-2127.0,0.0,-2127.0,0.0,2127.0
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2030,-1303.7,0.0,-1303.7,0.0,1303.7
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2031,-482.4,2657.7,-3140.1,2657.7,482.4
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2032,1385.5,2734.0,-1348.5,1348.5,0.0
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2033,3137.8,2553.1,584.7,0.0,0.0
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2034,4887.2,2178.1,2709.1,0.0,0.0
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2035,6958.4,1551.6,5406.8,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2026,274.4,0.0,274.4,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2027,500.2,0.0,500.2,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2028,2433.8,0.0,2433.8,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2029,4362.5,0.0,4362.5,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2030,6130.5,0.0,6130.5,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2031,7734.2,2657.7,5076.5,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2032,8972.3,2734.0,6238.3,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2033,10199.2,2553.1,7646.1,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2034,11337.3,2178.1,9159.2,0.0,0.0
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2035,11888.5,1551.6,10336.9,0.0,0.0
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2026,274.9,0.0,274.9,0.0,0.0
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2027,-564.8,0.0,-564.8,0.0,564.8
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2028,183.0,0.0,183.0,0.0,0.0
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2029,975.1,0.0,975.1,0.0,0.0
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2030,1584.8,0.0,1584.8,0.0,0.0
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2031,3351.6,2657.7,693.9,0.0,0.0
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2032,5094.7,2734.0,2360.7,0.0,0.0
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2033,6554.1,2553.1,4001.0,0.0,0.0
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2034,7905.4,2178.1,5727.3,0.0,0.0
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2035,8556.8,1551.6,7005.2,0.0,0.0
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2026,-3705.5,0.0,-3705.5,0.0,3705.5
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2027,-2438.9,0.0,-2438.9,0.0,2438.9
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2028,-476.4,0.0,-476.4,0.0,476.4
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2029,1465.2,0.0,1465.2,0.0,0.0
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2030,3222.8,0.0,3222.8,0.0,0.0
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2031,4469.2,2657.7,1811.5,0.0,0.0
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2032,5531.6,2734.0,2797.6,0.0,0.0
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2033,6540.6,2553.1,3987.5,0.0,0.0
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2034,7574.3,2178.1,5396.2,0.0,0.0
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2035,9359.0,1551.6,7807.4,0.0,0.0
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2026,-3704.9,0.0,-3704.9,0.0,3704.9
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2027,-3503.9,0.0,-3503.9,0.0,3503.9
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2028,-2727.1,0.0,-2727.1,0.0,2727.1
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2029,-1922.2,0.0,-1922.2,0.0,1922.2
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2030,-1322.9,0.0,-1322.9,0.0,1322.9
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2031,86.6,2657.7,-2571.1,2571.1,0.0
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2032,1654.0,2734.0,-1080.0,1080.0,0.0
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2033,2895.4,2553.1,342.3,0.0,0.0
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2034,4142.4,2178.1,1964.3,0.0,0.0
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2035,6027.2,1551.6,4475.6,0.0,0.0
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2026,-3705.5,0.0,-3705.5,0.0,3705.5
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2027,1576.8,0.0,1576.8,0.0,0.0
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2028,3206.5,0.0,3206.5,0.0,0.0
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2029,1465.2,0.0,1465.2,0.0,0.0
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2030,7080.2,0.0,7080.2,0.0,0.0
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2031,8506.9,2657.7,5849.2,0.0,0.0
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2032,5531.6,2734.0,2797.6,0.0,0.0
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2033,10726.9,2553.1,8173.8,0.0,0.0
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2034,11337.3,2178.1,9159.2,0.0,0.0
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2035,9359.0,1551.6,7807.4,0.0,0.0
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2026,-3704.9,0.0,-3704.9,0.0,3704.9
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2027,511.8,0.0,511.8,0.0,0.0
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2028,955.7,0.0,955.7,0.0,0.0
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2029,-1922.2,0.0,-1922.2,0.0,1922.2
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2030,2534.4,0.0,2534.4,0.0,0.0
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2031,4124.3,2657.7,1466.6,0.0,0.0
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2032,1654.0,2734.0,-1080.0,1080.0,0.0
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2033,7081.8,2553.1,4528.7,0.0,0.0
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2034,7905.4,2178.1,5727.3,0.0,0.0
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2035,6027.2,1551.6,4475.6,0.0,0.0
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2026,-1404.0,0.0,-1404.0,0.0,1404.0
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2027,-144.4,0.0,-144.4,0.0,144.4
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2028,1818.9,0.0,1818.9,0.0,0.0
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2029,3760.3,0.0,3760.3,0.0,0.0
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2030,5517.9,0.0,5517.9,0.0,0.0
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2031,7100.1,2657.7,4442.4,0.0,0.0
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2032,8323.1,2734.0,5589.1,0.0,0.0
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2033,9454.2,2553.1,6901.1,0.0,0.0
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2034,10639.2,2178.1,8461.1,0.0,0.0
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2035,11888.5,1551.6,10336.9,0.0,0.0
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2026,-1403.5,0.0,-1403.5,0.0,1403.5
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2027,-1209.4,0.0,-1209.4,0.0,1209.4
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2028,-431.9,0.0,-431.9,0.0,431.9
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2029,372.9,0.0,372.9,0.0,0.0
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2030,972.1,0.0,972.1,0.0,0.0
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2031,2717.5,2657.7,59.8,0.0,0.0
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2032,4445.4,2734.0,1711.4,0.0,0.0
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2033,5809.1,2553.1,3256.0,0.0,0.0
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2034,7207.3,2178.1,5029.2,0.0,0.0
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2035,8556.8,1551.6,7005.2,0.0,0.0
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2026,-3705.5,0.0,-3705.5,0.0,3705.5
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2027,-2438.9,0.0,-2438.9,0.0,2438.9
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2028,-476.4,0.0,-476.4,0.0,476.4
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2029,-4120.0,0.0,-4120.0,0.0,4120.0
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2030,-2138.4,0.0,-2138.4,0.0,2138.4
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2031,-1480.2,2657.7,-4137.9,2657.7,1480.2
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2032,-738.3,2734.0,-3472.3,2734.0,738.3
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2033,270.6,2553.1,-2282.5,2282.5,0.0
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2034,1304.3,2178.1,-873.8,873.8,0.0
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2035,3121.1,1551.6,1569.5,0.0,0.0
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2026,-3704.9,0.0,-3704.9,0.0,3704.9
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2027,-3503.9,0.0,-3503.9,0.0,3503.9
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2028,-2727.1,0.0,-2727.1,0.0,2727.1
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2029,-7507.4,0.0,-7507.4,0.0,7507.4
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2030,-6684.1,0.0,-6684.1,0.0,6684.1
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2031,-5862.8,2657.7,-8520.5,2657.7,5862.8
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2032,-4616.0,2734.0,-7350.0,2734.0,4616.0
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2033,-3374.5,2553.1,-5927.6,2553.1,3374.5
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2034,-2127.6,2178.1,-4305.7,2178.1,2127.6
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2035,-210.7,1551.6,-1762.3,1551.6,210.7
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2026,-103.4,0.0,-103.4,0.0,103.4
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2027,1178.2,0.0,1178.2,0.0,0.0
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2028,2920.4,0.0,2920.4,0.0,0.0
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2029,4846.6,0.0,4846.6,0.0,0.0
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2030,6614.6,0.0,6614.6,0.0,0.0
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2031,8220.8,2657.7,5563.1,0.0,0.0
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2032,9458.9,2734.0,6724.9,0.0,0.0
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2033,10644.9,2553.1,8091.8,0.0,0.0
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2034,11337.3,2178.1,9159.2,0.0,0.0
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2035,11888.5,1551.6,10336.9,0.0,0.0
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2026,-102.8,0.0,-102.8,0.0,102.8
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2027,113.2,0.0,113.2,0.0,0.0
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2028,669.6,0.0,669.6,0.0,0.0
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2029,1459.2,0.0,1459.2,0.0,0.0
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2030,2068.8,0.0,2068.8,0.0,0.0
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2031,3838.2,2657.7,1180.5,0.0,0.0
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2032,5581.3,2734.0,2847.3,0.0,0.0
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2033,6999.7,2553.1,4446.6,0.0,0.0
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2034,7905.4,2178.1,5727.3,0.0,0.0
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2035,8556.8,1551.6,7005.2,0.0,0.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2026,-1615.0,0.0,-1615.0,0.0,1615.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2027,1178.2,0.0,1178.2,0.0,0.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2028,2920.4,0.0,2920.4,0.0,0.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2029,1772.3,0.0,1772.3,0.0,0.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2030,7567.7,0.0,7567.7,0.0,0.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2031,8235.8,2657.7,5578.1,0.0,0.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2032,5153.9,2734.0,2419.9,0.0,0.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2033,10645.6,2553.1,8092.5,0.0,0.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2034,11337.3,2178.1,9159.2,0.0,0.0
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2035,8998.8,1551.6,7447.2,0.0,0.0
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2026,-1614.4,0.0,-1614.4,0.0,1614.4
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2027,113.3,0.0,113.3,0.0,0.0
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2028,669.6,0.0,669.6,0.0,0.0
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2029,-1615.1,0.0,-1615.1,0.0,1615.1
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2030,3021.9,0.0,3021.9,0.0,0.0
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2031,3853.2,2657.7,1195.5,0.0,0.0
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2032,1276.2,2734.0,-1457.8,1457.8,0.0
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2033,7000.4,2553.1,4447.3,0.0,0.0
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2034,7905.4,2178.1,5727.3,0.0,0.0
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2035,5667.0,1551.6,4115.4,0.0,0.0
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2026,-1615.0,0.0,-1615.0,0.0,1615.0
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2027,-2174.6,0.0,-2174.6,0.0,2174.6
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2028,-320.3,0.0,-320.3,0.0,320.3
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2029,-1783.5,0.0,-1783.5,0.0,1783.5
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2030,4260.6,0.0,4260.6,0.0,0.0
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2031,4824.0,2657.7,2166.3,0.0,0.0
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2032,1292.1,2734.0,-1441.9,1441.9,0.0
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2033,7732.7,2553.1,5179.6,0.0,0.0
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2034,9086.7,2178.1,6908.6,0.0,0.0
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2035,4907.5,1551.6,3355.9,0.0,0.0
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2026,-1614.4,0.0,-1614.4,0.0,1614.4
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2027,-3239.6,0.0,-3239.6,0.0,3239.6
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2028,-2571.0,0.0,-2571.0,0.0,2571.0
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2029,-5170.9,0.0,-5170.9,0.0,5170.9
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2030,-285.2,0.0,-285.2,0.0,285.2
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2031,441.4,2657.7,-2216.3,2216.3,0.0
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2032,-2585.6,2734.0,-5319.6,2734.0,2585.6
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2033,4087.6,2553.1,1534.5,0.0,0.0
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2034,5654.8,2178.1,3476.7,0.0,0.0
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2035,1575.7,1551.6,24.1,0.0,0.0
+corregida,condicional,Intacto,,C,2026,2664.7,0.0,2664.7,0.0,0.0
+corregida,condicional,Intacto,,C,2027,3485.5,0.0,3485.5,0.0,0.0
+corregida,condicional,Intacto,,C,2028,5108.7,0.0,5108.7,0.0,0.0
+corregida,condicional,Intacto,,C,2029,6930.5,0.0,6930.5,0.0,0.0
+corregida,condicional,Intacto,,C,2030,8736.7,0.0,8736.7,0.0,0.0
+corregida,condicional,Intacto,,C,2031,10313.6,2657.7,7655.9,0.0,0.0
+corregida,condicional,Intacto,,C,2032,11480.2,2734.0,8746.2,0.0,0.0
+corregida,condicional,Intacto,,C,2033,12206.8,2553.1,9653.7,0.0,0.0
+corregida,condicional,Intacto,,C,2034,12517.4,2178.1,10339.3,0.0,0.0
+corregida,condicional,Intacto,,C,2035,12741.7,1551.6,11190.1,0.0,0.0
+corregida,prudente,Intacto,,C,2026,2664.7,0.0,2664.7,0.0,0.0
+corregida,prudente,Intacto,,C,2027,2425.9,0.0,2425.9,0.0,0.0
+corregida,prudente,Intacto,,C,2028,2891.0,0.0,2891.0,0.0,0.0
+corregida,prudente,Intacto,,C,2029,3546.8,0.0,3546.8,0.0,0.0
+corregida,prudente,Intacto,,C,2030,4193.9,0.0,4193.9,0.0,0.0
+corregida,prudente,Intacto,,C,2031,5998.7,2657.7,3341.0,0.0,0.0
+corregida,prudente,Intacto,,C,2032,7781.9,2734.0,5047.9,0.0,0.0
+corregida,prudente,Intacto,,C,2033,9044.9,2553.1,6491.8,0.0,0.0
+corregida,prudente,Intacto,,C,2034,9907.5,2178.1,7729.4,0.0,0.0
+corregida,prudente,Intacto,,C,2035,10589.1,1551.6,9037.5,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2026,2664.7,0.0,2664.7,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2027,3485.5,0.0,3485.5,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2028,5108.7,0.0,5108.7,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2029,1096.5,0.0,1096.5,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2030,3116.3,0.0,3116.3,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2031,3743.7,2657.7,1086.0,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2032,5035.2,2734.0,2301.2,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2033,6284.6,2553.1,3731.5,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2034,7529.3,2178.1,5351.2,0.0,0.0
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2035,9529.8,1551.6,7978.2,0.0,0.0
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2026,2664.7,0.0,2664.7,0.0,0.0
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2027,2425.9,0.0,2425.9,0.0,0.0
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2028,2891.0,0.0,2891.0,0.0,0.0
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2029,-2287.3,0.0,-2287.3,0.0,2287.3
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2030,-1426.5,0.0,-1426.5,0.0,1426.5
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2031,-571.2,2657.7,-3228.9,2657.7,571.2
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2032,1336.9,2734.0,-1397.1,1397.1,0.0
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2033,3122.7,2553.1,569.6,0.0,0.0
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2034,4919.3,2178.1,2741.2,0.0,0.0
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2035,7377.1,1551.6,5825.5,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2026,2664.7,0.0,2664.7,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2027,3485.5,0.0,3485.5,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2028,5108.7,0.0,5108.7,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2029,3074.6,0.0,3074.6,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2030,5094.4,0.0,5094.4,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2031,5721.8,2657.7,3064.1,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2032,7013.4,2734.0,4279.4,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2033,8262.8,2553.1,5709.7,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2034,9499.2,2178.1,7321.1,0.0,0.0
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2035,11143.3,1551.6,9591.7,0.0,0.0
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2026,2664.7,0.0,2664.7,0.0,0.0
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2027,2425.9,0.0,2425.9,0.0,0.0
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2028,2891.0,0.0,2891.0,0.0,0.0
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2029,-309.2,0.0,-309.2,0.0,309.2
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2030,551.6,0.0,551.6,0.0,0.0
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2031,1406.9,2657.7,-1250.8,1250.8,0.0
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2032,3315.0,2734.0,581.0,0.0,0.0
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2033,5100.9,2553.1,2547.8,0.0,0.0
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2034,6889.3,2178.1,4711.2,0.0,0.0
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2035,8990.7,1551.6,7439.1,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2026,2664.7,0.0,2664.7,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2027,2429.8,0.0,2429.8,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2028,4350.9,0.0,4350.9,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2029,6176.7,0.0,6176.7,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2030,7982.9,0.0,7982.9,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2031,9555.9,2657.7,6898.2,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2032,10722.5,2734.0,7988.5,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2033,11679.1,2553.1,9126.0,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2034,12517.4,2178.1,10339.3,0.0,0.0
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,2035,12741.7,1551.6,11190.1,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2026,2664.7,0.0,2664.7,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2027,1370.2,0.0,1370.2,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2028,2133.3,0.0,2133.3,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2029,2793.0,0.0,2793.0,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2030,3440.1,0.0,3440.1,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2031,5240.9,2657.7,2583.2,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2032,7024.2,2734.0,4290.2,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2033,8517.2,2553.1,5964.1,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2034,9907.5,2178.1,7729.4,0.0,0.0
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2035,10589.1,1551.6,9037.5,0.0,0.0
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2026,-1315.1,0.0,-1315.1,0.0,1315.1
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2027,-509.4,0.0,-509.4,0.0,509.4
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2028,1440.8,0.0,1440.8,0.0,0.0
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2029,3279.4,0.0,3279.4,0.0,0.0
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2030,5075.2,0.0,5075.2,0.0,0.0
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2031,6290.9,2657.7,3633.2,0.0,0.0
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2032,7281.8,2734.0,4547.8,0.0,0.0
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2033,8020.4,2553.1,5467.3,0.0,0.0
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2034,8754.4,2178.1,6576.3,0.0,0.0
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2035,10212.1,1551.6,8660.5,0.0,0.0
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2026,-1315.1,0.0,-1315.1,0.0,1315.1
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2027,-1569.0,0.0,-1569.0,0.0,1569.0
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2028,-776.9,0.0,-776.9,0.0,776.9
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2029,-104.4,0.0,-104.4,0.0,104.4
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2030,532.4,0.0,532.4,0.0,0.0
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2031,1975.9,2657.7,-681.8,681.8,0.0
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2032,3583.5,2734.0,849.5,0.0,0.0
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2033,4858.5,2553.1,2305.4,0.0,0.0
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2034,6144.5,2178.1,3966.4,0.0,0.0
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2035,8059.5,1551.6,6507.9,0.0,0.0
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2026,-1315.1,0.0,-1315.1,0.0,1315.1
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2027,3506.4,0.0,3506.4,0.0,0.0
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2028,5123.6,0.0,5123.6,0.0,0.0
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2029,3279.4,0.0,3279.4,0.0,0.0
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2030,8932.6,0.0,8932.6,0.0,0.0
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2031,10328.6,2657.7,7670.9,0.0,0.0
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2032,7281.8,2734.0,4547.8,0.0,0.0
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2033,12206.8,2553.1,9653.7,0.0,0.0
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2034,12517.4,2178.1,10339.3,0.0,0.0
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2035,10212.1,1551.6,8660.5,0.0,0.0
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2026,-1315.1,0.0,-1315.1,0.0,1315.1
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2027,2446.8,0.0,2446.8,0.0,0.0
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2028,2906.0,0.0,2906.0,0.0,0.0
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2029,-104.4,0.0,-104.4,0.0,104.4
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2030,4389.7,0.0,4389.7,0.0,0.0
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2031,6013.6,2657.7,3355.9,0.0,0.0
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2032,3583.5,2734.0,849.5,0.0,0.0
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2033,9044.9,2553.1,6491.8,0.0,0.0
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2034,9907.5,2178.1,7729.4,0.0,0.0
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2035,8059.5,1551.6,6507.9,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2026,986.3,0.0,986.3,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2027,1785.2,0.0,1785.2,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2028,3736.1,0.0,3736.1,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2029,5574.5,0.0,5574.5,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2030,7370.2,0.0,7370.2,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2031,8921.8,2657.7,6264.1,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2032,10073.2,2734.0,7339.2,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2033,10934.1,2553.1,8381.0,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2034,11819.3,2178.1,9641.2,0.0,0.0
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2035,12741.7,1551.6,11190.1,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2026,986.3,0.0,986.3,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2027,725.6,0.0,725.6,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2028,1518.4,0.0,1518.4,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2029,2190.7,0.0,2190.7,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2030,2827.4,0.0,2827.4,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2031,4606.8,2657.7,1949.1,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2032,6374.9,2734.0,3640.9,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2033,7772.2,2553.1,5219.1,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2034,9209.4,2178.1,7031.3,0.0,0.0
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2035,10589.1,1551.6,9037.5,0.0,0.0
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2026,-1315.1,0.0,-1315.1,0.0,1315.1
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2027,-509.4,0.0,-509.4,0.0,509.4
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2028,1440.8,0.0,1440.8,0.0,0.0
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2029,-2305.8,0.0,-2305.8,0.0,2305.8
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2030,-286.0,0.0,-286.0,0.0,286.0
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2031,341.4,2657.7,-2316.3,2316.3,0.0
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2032,1011.8,2734.0,-1722.2,1722.2,0.0
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2033,1750.5,2553.1,-802.6,802.6,0.0
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2034,2484.4,2178.1,306.3,0.0,0.0
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2035,3974.2,1551.6,2422.6,0.0,0.0
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2026,-1315.1,0.0,-1315.1,0.0,1315.1
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2027,-1569.0,0.0,-1569.0,0.0,1569.0
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2028,-776.9,0.0,-776.9,0.0,776.9
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2029,-5689.6,0.0,-5689.6,0.0,5689.6
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2030,-4828.8,0.0,-4828.8,0.0,4828.8
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2031,-3973.5,2657.7,-6631.2,2657.7,3973.5
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2032,-2686.5,2734.0,-5420.5,2734.0,2686.5
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2033,-1411.4,2553.1,-3964.5,2553.1,1411.4
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2034,-125.5,2178.1,-2303.6,2178.1,125.5
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2035,1821.6,1551.6,270.0,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2026,2287.0,0.0,2287.0,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2027,3107.8,0.0,3107.8,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2028,4837.5,0.0,4837.5,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2029,6660.8,0.0,6660.8,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2030,8467.0,0.0,8467.0,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2031,10042.5,2657.7,7384.8,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2032,11209.1,2734.0,8475.1,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2033,12124.7,2553.1,9571.6,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2034,12517.4,2178.1,10339.3,0.0,0.0
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2035,12741.7,1551.6,11190.1,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2026,2287.0,0.0,2287.0,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2027,2048.2,0.0,2048.2,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2028,2619.9,0.0,2619.9,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2029,3277.1,0.0,3277.1,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2030,3924.2,0.0,3924.2,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2031,5727.6,2657.7,3069.9,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2032,7510.8,2734.0,4776.8,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2033,8962.8,2553.1,6409.7,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2034,9907.5,2178.1,7729.4,0.0,0.0
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2035,10589.1,1551.6,9037.5,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2026,775.4,0.0,775.4,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2027,3107.8,0.0,3107.8,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2028,4837.5,0.0,4837.5,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2029,3586.5,0.0,3586.5,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2030,9420.0,0.0,9420.0,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2031,10057.5,2657.7,7399.8,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2032,6904.0,2734.0,4170.0,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2033,12125.5,2553.1,9572.4,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2034,12517.4,2178.1,10339.3,0.0,0.0
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2035,9851.9,1551.6,8300.3,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2026,775.4,0.0,775.4,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2027,2048.2,0.0,2048.2,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2028,2619.9,0.0,2619.9,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2029,202.7,0.0,202.7,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2030,4877.2,0.0,4877.2,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2031,5742.5,2657.7,3084.8,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2032,3205.7,2734.0,471.7,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2033,8963.5,2553.1,6410.4,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2034,9907.5,2178.1,7729.4,0.0,0.0
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2035,7699.3,1551.6,6147.7,0.0,0.0
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2026,775.4,0.0,775.4,0.0,0.0
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2027,-245.1,0.0,-245.1,0.0,245.1
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2028,1596.9,0.0,1596.9,0.0,0.0
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2029,30.7,0.0,30.7,0.0,0.0
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2030,6112.9,0.0,6112.9,0.0,0.0
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2031,6645.7,2657.7,3988.0,0.0,0.0
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2032,3042.2,2734.0,308.2,0.0,0.0
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2033,9212.6,2553.1,6659.5,0.0,0.0
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2034,10266.8,2178.1,8088.7,0.0,0.0
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2035,5760.6,1551.6,4209.0,0.0,0.0
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2026,775.4,0.0,775.4,0.0,0.0
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2027,-1304.7,0.0,-1304.7,0.0,1304.7
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2028,-620.8,0.0,-620.8,0.0,620.8
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2029,-3353.1,0.0,-3353.1,0.0,3353.1
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2030,1570.1,0.0,1570.1,0.0,0.0
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2031,2330.8,2657.7,-326.9,326.9,0.0
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2032,-656.1,2734.0,-3390.1,2734.0,656.1
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2033,6050.7,2553.1,3497.6,0.0,0.0
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2034,7656.9,2178.1,5478.8,0.0,0.0
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2035,3608.0,1551.6,2056.4,0.0,0.0

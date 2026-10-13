@@ -1,0 +1,4 @@
+Resultados del Artículo 6 con los pisos de despacho del Modelo Climate Lead Group (CLG) en PPFOI 2026-2035 (9,3785 PJ hasta 2030 y 9,0 PJ en 2035), tal como quedaron el 12-10-2026 (B1 del paso 10, 19:37-20:02; B3 final 23:26-23:28) en ECU_NDC, rama art6-escenarios, antes de la corrección K16 del 13-10-2026.
+Desde el 13-10-2026 son la sensibilidad «con los pisos del Modelo CLG» y se citan por este manifiesto (MANIFIESTO_md5.csv: ruta relativa a ECU_NDC/Energy, bytes y md5 de cada archivo).
+Copiado el 13-10-2026 08:23 por respaldo_paso0.py; 411 archivos; el origen no se tocó.
+En este repositorio, B2_Output_Art6/resultados_art6.json no trae la entrada de una línea que el análisis deja fuera del portafolio y que no aporta volumen en 2031-2035. Por eso su md5 (eb95454d6bc989d9e96c0cbe9f07fa88, 359706 bytes) difiere del que registra MANIFIESTO_md5.csv (653b89e3c5e3182d210bb08d4b03719d, 360017 bytes). Las cifras de la sensibilidad no cambian.

@@ -1,0 +1,45 @@
+﻿estado,sufijo,escenario,regla,autorizado_2031_2035,sobreventa_2031_2035,incumplimiento_sin_transferir_2031_2035,proyeccion
+Intacto,,C,condicional,11674.4,0.0,0.0,CLG
+Intacto,,C,prudente,11674.4,0.0,0.0,CLG
+Salida de Coca Codo y Sopladora,-CCOFF,C-CCOFF,condicional,11674.4,735.6,0.0,CLG
+Salida de Coca Codo y Sopladora,-CCOFF,C-CCOFF,prudente,11674.4,6785.2,3053.1,CLG
+Salida de Coca Codo sola,-CCSOLO,C-CCSOLO,condicional,11674.4,0.0,0.0,CLG
+Salida de Coca Codo sola,-CCSOLO,C-CCSOLO,prudente,11674.4,4006.2,482.4,CLG
+Derrateo de Coca Codo,-CCDER,C-CCDER,condicional,11674.4,0.0,0.0,CLG
+Derrateo de Coca Codo,-CCDER,C-CCDER,prudente,11674.4,0.0,0.0,CLG
+Año seco severo,-ANOSECO,C-ANOSECO,condicional,11674.4,0.0,0.0,CLG
+Año seco severo,-ANOSECO,C-ANOSECO,prudente,11674.4,3651.1,0.0,CLG
+Un año seco cada tres,-ANOSEC3,C-ANOSEC3,condicional,11674.4,0.0,0.0,CLG
+Un año seco cada tres,-ANOSEC3,C-ANOSEC3,prudente,11674.4,1080.0,0.0,CLG
+Año seco moderado,-ANOSECM,C-ANOSECM,condicional,11674.4,0.0,0.0,CLG
+Año seco moderado,-ANOSECM,C-ANOSECM,prudente,11674.4,0.0,0.0,CLG
+Salida de Coca Codo y año seco severo,-CCOFFANOSECO,C-CCOFFANOSECO,condicional,11674.4,8548.0,2218.5,CLG
+Salida de Coca Codo y año seco severo,-CCOFFANOSECO,C-CCOFFANOSECO,prudente,11674.4,11674.4,16191.6,CLG
+Sin importación desde Colombia,-IMP0,C-IMP0,condicional,11674.4,0.0,0.0,CLG
+Sin importación desde Colombia,-IMP0,C-IMP0,prudente,11674.4,0.0,0.0,CLG
+Situación actual 2026 con choque de demanda transitorio,-ACT,C-ACT,condicional,11674.4,0.0,0.0,CLG
+Situación actual 2026 con choque de demanda transitorio,-ACT,C-ACT,prudente,11674.4,1457.8,0.0,CLG
+Situación actual 2026 con demanda persistente,-ACTDEM,C-ACTDEM,condicional,11674.4,1441.9,0.0,CLG
+Situación actual 2026 con demanda persistente,-ACTDEM,C-ACTDEM,prudente,11674.4,4950.3,2585.6,CLG
+Intacto,,C,condicional,11674.4,0.0,0.0,corregida
+Intacto,,C,prudente,11674.4,0.0,0.0,corregida
+Salida de Coca Codo y Sopladora,-CCOFF,C-CCOFF,condicional,11674.4,0.0,0.0,corregida
+Salida de Coca Codo y Sopladora,-CCOFF,C-CCOFF,prudente,11674.4,4054.8,571.2,corregida
+Salida de Coca Codo sola,-CCSOLO,C-CCSOLO,condicional,11674.4,0.0,0.0,corregida
+Salida de Coca Codo sola,-CCSOLO,C-CCSOLO,prudente,11674.4,1250.8,0.0,corregida
+Derrateo de Coca Codo,-CCDER,C-CCDER,condicional,11674.4,0.0,0.0,corregida
+Derrateo de Coca Codo,-CCDER,C-CCDER,prudente,11674.4,0.0,0.0,corregida
+Año seco severo,-ANOSECO,C-ANOSECO,condicional,11674.4,0.0,0.0,corregida
+Año seco severo,-ANOSECO,C-ANOSECO,prudente,11674.4,681.8,0.0,corregida
+Un año seco cada tres,-ANOSEC3,C-ANOSEC3,condicional,11674.4,0.0,0.0,corregida
+Un año seco cada tres,-ANOSEC3,C-ANOSEC3,prudente,11674.4,0.0,0.0,corregida
+Año seco moderado,-ANOSECM,C-ANOSECM,condicional,11674.4,0.0,0.0,corregida
+Año seco moderado,-ANOSECM,C-ANOSECM,prudente,11674.4,0.0,0.0,corregida
+Salida de Coca Codo y año seco severo,-CCOFFANOSECO,C-CCOFFANOSECO,condicional,11674.4,4841.1,0.0,corregida
+Salida de Coca Codo y año seco severo,-CCOFFANOSECO,C-CCOFFANOSECO,prudente,11674.4,10122.9,8196.9,corregida
+Sin importación desde Colombia,-IMP0,C-IMP0,condicional,11674.4,0.0,0.0,corregida
+Sin importación desde Colombia,-IMP0,C-IMP0,prudente,11674.4,0.0,0.0,corregida
+Situación actual 2026 con choque de demanda transitorio,-ACT,C-ACT,condicional,11674.4,0.0,0.0,corregida
+Situación actual 2026 con choque de demanda transitorio,-ACT,C-ACT,prudente,11674.4,0.0,0.0,corregida
+Situación actual 2026 con demanda persistente,-ACTDEM,C-ACTDEM,condicional,11674.4,0.0,0.0,corregida
+Situación actual 2026 con demanda persistente,-ACTDEM,C-ACTDEM,prudente,11674.4,3060.9,656.1,corregida

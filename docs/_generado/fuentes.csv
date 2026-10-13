@@ -1,0 +1,25 @@
+Fuente,Uso,Ubicación
+"Segunda NDC del Ecuador (2025), sección 4.2.4",metas de mitigación,documento oficial
+"Plan de Implementación de la Segunda NDC, iniciativas de energía",códigos EN y potencial,Energy/Insumos_Art6/INICIATIVAS_ENERGIA.xlsx
+Cadena A1-A2-B1 del modelo OSeMOSYS de la Segunda NDC,"todos los escenarios (Modelo CLG, referencias corregidas, A, B, C, estados y puentes)",Energy/B1_Scenario_Config.xlsx
+"ECU_NDC, PowerBI, Emisiones Totales (agregación de cinco sectores)",margen nacional,ECU_NDC/PowerBI/Nacionales/Emisiones Totales.xlsx
+"CELEC EP y AFD-TRACTEBEL (2024), Estudio de potencial solar fotovoltaico",palanca B1,
+"Plan Maestro de Electricidad, Plan de Expansión de la Generación 2023-2032",palanca B3,
+"CENACE (2025), Informe Anual 2024",choque de año seco,
+"ARCONEL, estadísticas del sector eléctrico 2024-2025",factores de planta observados,
+"Heredia Salgado (2026), Informe técnico-metodológico para la construcción de escenarios exploratorios en el sector energía, V1",metodología del margen y de los riesgos,informe técnico
+Malla espacial CLEWs (geo_recurso) y FAOSTAT 2021-2023,"palanca B5: residuo agrícola libre de caña, palma y arroz",
+"Entrevistas a compradores potenciales, primera ronda (2026)",veredicto por línea (geotermia: núcleo; eólica y solar a red: descartar),
+"Climate Lead Group (2025), P3 Informe de modelamiento de la Segunda NDC, Tabla 6, p. 19 (677 MW solares y 247,5 MW eólicos)",capacidades por central y año del condicional modelado,informe de modelamiento del Climate Lead Group (PDF)
+"Plan de Expansión de la Generación 2023-2032, Tabla 4-4 (Chachimbiro 50 MW en 2029) y Tabla 4-7 (585 MW eólicos)",fecha de Chachimbiro y eólica fuera de la NDC,"Plan de Expansión de la Generación 2023-2032, capítulo 4 (PDF)"
+"Inventario Nacional de GEI (serie oficial AR5, módulo inventario_gei, 17-09-2026)",línea observada del sector energía y del total nacional; base del balance de emisiones del ajuste correspondiente,Energy\Insumos_Art6\INGEI_largo.csv
+"MAE (2026), Plan de Acción del PLANMICC, Fase I 2025-2035 (versión corregida), Tablas 29, 35 y 36",electromovilidad y eficiencia industrial del Escenario C,documento institucional
+"Modelo OSeMOSYS del Plan de Acción del PLANMICC, Modelo Energía Plan de Acción.xlsx, hoja Demandas_PJ","reducción industrial reproducida (2,45 % en 2035)",repositorio oficial del Plan de Acción
+"Ley Orgánica de Competitividad Energética (vigente desde el 11-01-2024), reforma a la Ley Orgánica de Eficiencia Energética",obligación de transporte público eléctrico desde 2030,Registro Oficial 475
+"Primicias (2025), Proyecto geotérmico en Carchi proyecta entregar 138 MW; ThinkGeoEnergy (2025)",capacidad de Tufiño-Chiles-Cerro Negro,prensa especializada
+"CENACE (2025), Informe Anual 2024",derrateo del 20 % y salida desde 2029,estadística oficial
+"CENACE (2026), Informe Anual 2025, Parte 1, figuras 1.4 y 1.5, p. 31-32",participación de Coca Codo en la energía de PPHRORAB (CCSOLO y CCDER),Energy/Art6_calibracion/parametros_hidro_por_clase.csv
+"ESIN-CELEC EP (2020), portafolio de biomasa (39,3 MW, factor de planta 0,56)","palancas B6, B9 y B10",nota técnica de biomasa del equipo consultor
+"Base corregida congelada CONA6, INCA6, CONA6G e INCA6G con K16 y RE01 (13-10-2026)",base de todas las palancas,Energy/Art6_calibracion; tests/base_congelada.json
+"CENACE: Informes Ejecutivos de Gestión de agosto y diciembre de 2025 y agosto de 2026 (secciones 1, 2 y 4), indicadores.xlsx (hoja datos), Informe Anual 2025 Parte 1 (figura 1.4 y p. 36) e Información Operativa al 10-10-2026 (SCADA preliminar); XM, Exportaciones kWh 2026. Leídos por Art6_calibracion/situacion_act_2026.py en act_2026_observado.csv; razones por clase en parametros_hidro_por_clase.csv","estado ACT y ACT-DEM anclado a 2026: demanda, hidrología por clase, Coca Codo e importación",Energy/Art6_calibracion/act_2026_observado.csv (situacion_act_2026.py) y parametros_hidro_por_clase.csv (agregar_por_clase.py)
+Resultados del 12-10-2026 con los pisos del Modelo CLG (sensibilidad),nivel robusto y potencial de la oferta 2031-2035,Energy/Art6_calibracion/sensibilidad_pisos_CLG_2026-10-12 (MANIFIESTO_md5.csv)

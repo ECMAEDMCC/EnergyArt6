@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "${env:USERPROFILE}\\miniconda3\\envs\\osemosys\\python.exe",
+    "python.analysis.extraPaths": ["Energy/Art6_motor", "Energy/Executables"],
+    "python.terminal.executeInFileDir": true,
+    "jupyter.notebookFileRoot": "${fileDirname}",
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
+}

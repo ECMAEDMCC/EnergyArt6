@@ -1,0 +1,265 @@
+﻿subconjunto,estado,sufijo,escenario,estado_de_referencia,anio,oferta_kt,margen_kt,autorizable_kt,reserva_kt,reserva_pct
+toda_con_EN32,Intacto,,C,False,2031,2842.7,4109.3,2842.7,0.0,0.0
+toda_con_EN32,Intacto,,C,False,2032,2919.0,5852.4,2919.0,0.0,0.0
+toda_con_EN32,Intacto,,C,False,2033,2738.1,7081.8,2738.1,0.0,0.0
+toda_con_EN32,Intacto,,C,False,2034,2363.1,7905.4,2363.1,0.0,0.0
+toda_con_EN32,Intacto,,C,False,2035,1736.6,8556.8,1736.6,0.0,0.0
+toda_con_EN32,Intacto,,C,False,2031-2035,12599.4,33505.7,12599.4,0.0,0.0
+toda_con_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,2842.7,-2460.5,0.0,2842.7,100.0
+toda_con_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,2919.0,-592.6,0.0,2919.0,100.0
+toda_con_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,2738.1,1159.6,1159.6,1578.5,57.6
+toda_con_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,2363.1,2917.2,2363.1,0.0,0.0
+toda_con_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,1736.6,5344.9,1736.6,0.0,0.0
+toda_con_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031-2035,12599.4,6368.6,5259.2,7340.2,58.3
+toda_con_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,2842.7,-482.4,0.0,2842.7,100.0
+toda_con_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,2919.0,1385.5,1385.5,1533.5,52.5
+toda_con_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,2738.1,3137.8,2738.1,0.0,0.0
+toda_con_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,2363.1,4887.2,2363.1,0.0,0.0
+toda_con_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,1736.6,6958.4,1736.6,0.0,0.0
+toda_con_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031-2035,12599.4,15886.5,8223.2,4376.2,34.7
+toda_con_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,2842.7,3351.6,2842.7,0.0,0.0
+toda_con_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,2919.0,5094.7,2919.0,0.0,0.0
+toda_con_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,2738.1,6554.1,2738.1,0.0,0.0
+toda_con_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,2363.1,7905.4,2363.1,0.0,0.0
+toda_con_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,1736.6,8556.8,1736.6,0.0,0.0
+toda_con_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031-2035,12599.4,31462.6,12599.4,0.0,0.0
+toda_con_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2031,2842.7,86.6,86.6,2756.1,97.0
+toda_con_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2032,2919.0,1654.0,1654.0,1265.0,43.3
+toda_con_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2033,2738.1,2895.4,2738.1,0.0,0.0
+toda_con_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2034,2363.1,4142.4,2363.1,0.0,0.0
+toda_con_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2035,1736.6,6027.2,1736.6,0.0,0.0
+toda_con_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2031-2035,12599.4,14805.6,8578.3,4021.1,31.9
+toda_con_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,2842.7,4124.3,2842.7,0.0,0.0
+toda_con_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,2919.0,1654.0,1654.0,1265.0,43.3
+toda_con_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,2738.1,7081.8,2738.1,0.0,0.0
+toda_con_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,2363.1,7905.4,2363.1,0.0,0.0
+toda_con_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,1736.6,6027.2,1736.6,0.0,0.0
+toda_con_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031-2035,12599.4,26792.7,11334.4,1265.0,10.0
+toda_con_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,2842.7,2717.5,2717.5,125.2,4.4
+toda_con_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,2919.0,4445.4,2919.0,0.0,0.0
+toda_con_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,2738.1,5809.1,2738.1,0.0,0.0
+toda_con_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,2363.1,7207.3,2363.1,0.0,0.0
+toda_con_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,1736.6,8556.8,1736.6,0.0,0.0
+toda_con_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2031-2035,12599.4,28736.1,12474.2,125.2,1.0
+toda_con_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,2842.7,-5862.8,0.0,2842.7,100.0
+toda_con_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,2919.0,-4616.0,0.0,2919.0,100.0
+toda_con_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,2738.1,-3374.5,0.0,2738.1,100.0
+toda_con_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,2363.1,-2127.6,0.0,2363.1,100.0
+toda_con_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,1736.6,-210.7,0.0,1736.6,100.0
+toda_con_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031-2035,12599.4,-16191.6,0.0,12599.4,100.0
+toda_con_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,2842.7,3838.2,2842.7,0.0,0.0
+toda_con_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,2919.0,5581.3,2919.0,0.0,0.0
+toda_con_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,2738.1,6999.7,2738.1,0.0,0.0
+toda_con_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,2363.1,7905.4,2363.1,0.0,0.0
+toda_con_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,1736.6,8556.8,1736.6,0.0,0.0
+toda_con_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2031-2035,12599.4,32881.4,12599.4,0.0,0.0
+toda_con_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,2842.7,3853.2,2842.7,0.0,0.0
+toda_con_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,2919.0,1276.2,1276.2,1642.8,56.3
+toda_con_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,2738.1,7000.4,2738.1,0.0,0.0
+toda_con_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,2363.1,7905.4,2363.1,0.0,0.0
+toda_con_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,1736.6,5667.0,1736.6,0.0,0.0
+toda_con_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031-2035,12599.4,25702.2,10956.6,1642.8,13.0
+toda_con_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,2842.7,441.4,441.4,2401.3,84.5
+toda_con_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,2919.0,-2585.6,0.0,2919.0,100.0
+toda_con_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,2738.1,4087.6,2738.1,0.0,0.0
+toda_con_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,2363.1,5654.8,2363.1,0.0,0.0
+toda_con_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,1736.6,1575.7,1575.7,160.9,9.3
+toda_con_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031-2035,12599.4,9173.9,7118.2,5481.2,43.5
+sin_EN32,Intacto,,C,False,2031,2657.7,4109.3,2657.7,0.0,0.0
+sin_EN32,Intacto,,C,False,2032,2734.0,5852.4,2734.0,0.0,0.0
+sin_EN32,Intacto,,C,False,2033,2553.1,7081.8,2553.1,0.0,0.0
+sin_EN32,Intacto,,C,False,2034,2178.1,7905.4,2178.1,0.0,0.0
+sin_EN32,Intacto,,C,False,2035,1551.6,8556.8,1551.6,0.0,0.0
+sin_EN32,Intacto,,C,False,2031-2035,11674.4,33505.7,11674.4,0.0,0.0
+sin_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,2657.7,-2460.5,0.0,2657.7,100.0
+sin_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,2734.0,-592.6,0.0,2734.0,100.0
+sin_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,2553.1,1159.6,1159.6,1393.5,54.6
+sin_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,2178.1,2917.2,2178.1,0.0,0.0
+sin_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,1551.6,5344.9,1551.6,0.0,0.0
+sin_EN32,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031-2035,11674.4,6368.6,4889.2,6785.2,58.1
+sin_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,2657.7,-482.4,0.0,2657.7,100.0
+sin_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,2734.0,1385.5,1385.5,1348.5,49.3
+sin_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,2553.1,3137.8,2553.1,0.0,0.0
+sin_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,2178.1,4887.2,2178.1,0.0,0.0
+sin_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,1551.6,6958.4,1551.6,0.0,0.0
+sin_EN32,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031-2035,11674.4,15886.5,7668.2,4006.2,34.3
+sin_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,2657.7,3351.6,2657.7,0.0,0.0
+sin_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,2734.0,5094.7,2734.0,0.0,0.0
+sin_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,2553.1,6554.1,2553.1,0.0,0.0
+sin_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,2178.1,7905.4,2178.1,0.0,0.0
+sin_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,1551.6,8556.8,1551.6,0.0,0.0
+sin_EN32,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031-2035,11674.4,31462.6,11674.4,0.0,0.0
+sin_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2031,2657.7,86.6,86.6,2571.1,96.7
+sin_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2032,2734.0,1654.0,1654.0,1080.0,39.5
+sin_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2033,2553.1,2895.4,2553.1,0.0,0.0
+sin_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2034,2178.1,4142.4,2178.1,0.0,0.0
+sin_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2035,1551.6,6027.2,1551.6,0.0,0.0
+sin_EN32,Año seco severo,ANOSECO,C-ANOSECO,False,2031-2035,11674.4,14805.6,8023.3,3651.1,31.3
+sin_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,2657.7,4124.3,2657.7,0.0,0.0
+sin_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,2734.0,1654.0,1654.0,1080.0,39.5
+sin_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,2553.1,7081.8,2553.1,0.0,0.0
+sin_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,2178.1,7905.4,2178.1,0.0,0.0
+sin_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,1551.6,6027.2,1551.6,0.0,0.0
+sin_EN32,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031-2035,11674.4,26792.7,10594.4,1080.0,9.3
+sin_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,2657.7,2717.5,2657.7,0.0,0.0
+sin_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,2734.0,4445.4,2734.0,0.0,0.0
+sin_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,2553.1,5809.1,2553.1,0.0,0.0
+sin_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,2178.1,7207.3,2178.1,0.0,0.0
+sin_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,1551.6,8556.8,1551.6,0.0,0.0
+sin_EN32,Año seco moderado,ANOSECM,C-ANOSECM,False,2031-2035,11674.4,28736.1,11674.4,0.0,0.0
+sin_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,2657.7,-5862.8,0.0,2657.7,100.0
+sin_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,2734.0,-4616.0,0.0,2734.0,100.0
+sin_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,2553.1,-3374.5,0.0,2553.1,100.0
+sin_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,2178.1,-2127.6,0.0,2178.1,100.0
+sin_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,1551.6,-210.7,0.0,1551.6,100.0
+sin_EN32,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031-2035,11674.4,-16191.6,0.0,11674.4,100.0
+sin_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,2657.7,3838.2,2657.7,0.0,0.0
+sin_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,2734.0,5581.3,2734.0,0.0,0.0
+sin_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,2553.1,6999.7,2553.1,0.0,0.0
+sin_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,2178.1,7905.4,2178.1,0.0,0.0
+sin_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,1551.6,8556.8,1551.6,0.0,0.0
+sin_EN32,Sin importación desde Colombia,IMP0,C-IMP0,False,2031-2035,11674.4,32881.4,11674.4,0.0,0.0
+sin_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,2657.7,3853.2,2657.7,0.0,0.0
+sin_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,2734.0,1276.2,1276.2,1457.8,53.3
+sin_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,2553.1,7000.4,2553.1,0.0,0.0
+sin_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,2178.1,7905.4,2178.1,0.0,0.0
+sin_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,1551.6,5667.0,1551.6,0.0,0.0
+sin_EN32,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031-2035,11674.4,25702.2,10216.6,1457.8,12.5
+sin_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,2657.7,441.4,441.4,2216.3,83.4
+sin_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,2734.0,-2585.6,0.0,2734.0,100.0
+sin_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,2553.1,4087.6,2553.1,0.0,0.0
+sin_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,2178.1,5654.8,2178.1,0.0,0.0
+sin_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,1551.6,1575.7,1551.6,0.0,0.0
+sin_EN32,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031-2035,11674.4,9173.9,6724.1,4950.3,42.4
+lista_blanca,Intacto,,C,False,2031,226.2,4109.3,226.2,0.0,0.0
+lista_blanca,Intacto,,C,False,2032,278.5,5852.4,278.5,0.0,0.0
+lista_blanca,Intacto,,C,False,2033,652.1,7081.8,652.1,0.0,0.0
+lista_blanca,Intacto,,C,False,2034,920.2,7905.4,920.2,0.0,0.0
+lista_blanca,Intacto,,C,False,2035,995.2,8556.8,995.2,0.0,0.0
+lista_blanca,Intacto,,C,False,2031-2035,3072.3,33505.7,3072.3,0.0,0.0
+lista_blanca,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,226.2,-2460.5,0.0,226.2,100.0
+lista_blanca,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,278.5,-592.6,0.0,278.5,100.0
+lista_blanca,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,652.1,1159.6,652.1,0.0,0.0
+lista_blanca,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,920.2,2917.2,920.2,0.0,0.0
+lista_blanca,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,995.2,5344.9,995.2,0.0,0.0
+lista_blanca,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031-2035,3072.3,6368.6,2567.6,504.7,16.4
+lista_blanca,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,226.2,-482.4,0.0,226.2,100.0
+lista_blanca,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,278.5,1385.5,278.5,0.0,0.0
+lista_blanca,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,652.1,3137.8,652.1,0.0,0.0
+lista_blanca,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,920.2,4887.2,920.2,0.0,0.0
+lista_blanca,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,995.2,6958.4,995.2,0.0,0.0
+lista_blanca,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031-2035,3072.3,15886.5,2846.1,226.2,7.4
+lista_blanca,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,226.2,3351.6,226.2,0.0,0.0
+lista_blanca,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,278.5,5094.7,278.5,0.0,0.0
+lista_blanca,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,652.1,6554.1,652.1,0.0,0.0
+lista_blanca,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,920.2,7905.4,920.2,0.0,0.0
+lista_blanca,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,995.2,8556.8,995.2,0.0,0.0
+lista_blanca,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031-2035,3072.3,31462.6,3072.3,0.0,0.0
+lista_blanca,Año seco severo,ANOSECO,C-ANOSECO,False,2031,226.2,86.6,86.6,139.6,61.7
+lista_blanca,Año seco severo,ANOSECO,C-ANOSECO,False,2032,278.5,1654.0,278.5,0.0,0.0
+lista_blanca,Año seco severo,ANOSECO,C-ANOSECO,False,2033,652.1,2895.4,652.1,0.0,0.0
+lista_blanca,Año seco severo,ANOSECO,C-ANOSECO,False,2034,920.2,4142.4,920.2,0.0,0.0
+lista_blanca,Año seco severo,ANOSECO,C-ANOSECO,False,2035,995.2,6027.2,995.2,0.0,0.0
+lista_blanca,Año seco severo,ANOSECO,C-ANOSECO,False,2031-2035,3072.3,14805.6,2932.7,139.6,4.5
+lista_blanca,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,226.2,4124.3,226.2,0.0,0.0
+lista_blanca,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,278.5,1654.0,278.5,0.0,0.0
+lista_blanca,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,652.1,7081.8,652.1,0.0,0.0
+lista_blanca,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,920.2,7905.4,920.2,0.0,0.0
+lista_blanca,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,995.2,6027.2,995.2,0.0,0.0
+lista_blanca,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031-2035,3072.3,26792.7,3072.3,0.0,0.0
+lista_blanca,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,226.2,2717.5,226.2,0.0,0.0
+lista_blanca,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,278.5,4445.4,278.5,0.0,0.0
+lista_blanca,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,652.1,5809.1,652.1,0.0,0.0
+lista_blanca,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,920.2,7207.3,920.2,0.0,0.0
+lista_blanca,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,995.2,8556.8,995.2,0.0,0.0
+lista_blanca,Año seco moderado,ANOSECM,C-ANOSECM,False,2031-2035,3072.3,28736.1,3072.3,0.0,0.0
+lista_blanca,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,226.2,-5862.8,0.0,226.2,100.0
+lista_blanca,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,278.5,-4616.0,0.0,278.5,100.0
+lista_blanca,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,652.1,-3374.5,0.0,652.1,100.0
+lista_blanca,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,920.2,-2127.6,0.0,920.2,100.0
+lista_blanca,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,995.2,-210.7,0.0,995.2,100.0
+lista_blanca,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031-2035,3072.3,-16191.6,0.0,3072.3,100.0
+lista_blanca,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,226.2,3838.2,226.2,0.0,0.0
+lista_blanca,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,278.5,5581.3,278.5,0.0,0.0
+lista_blanca,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,652.1,6999.7,652.1,0.0,0.0
+lista_blanca,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,920.2,7905.4,920.2,0.0,0.0
+lista_blanca,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,995.2,8556.8,995.2,0.0,0.0
+lista_blanca,Sin importación desde Colombia,IMP0,C-IMP0,False,2031-2035,3072.3,32881.4,3072.3,0.0,0.0
+lista_blanca,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,226.2,3853.2,226.2,0.0,0.0
+lista_blanca,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,278.5,1276.2,278.5,0.0,0.0
+lista_blanca,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,652.1,7000.4,652.1,0.0,0.0
+lista_blanca,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,920.2,7905.4,920.2,0.0,0.0
+lista_blanca,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,995.2,5667.0,995.2,0.0,0.0
+lista_blanca,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031-2035,3072.3,25702.2,3072.3,0.0,0.0
+lista_blanca,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,226.2,441.4,226.2,0.0,0.0
+lista_blanca,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,278.5,-2585.6,0.0,278.5,100.0
+lista_blanca,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,652.1,4087.6,652.1,0.0,0.0
+lista_blanca,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,920.2,5654.8,920.2,0.0,0.0
+lista_blanca,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,995.2,1575.7,995.2,0.0,0.0
+lista_blanca,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031-2035,3072.3,9173.9,2793.8,278.5,9.1
+solo_firme,Intacto,,C,False,2031,0.0,4109.3,0.0,0.0,
+solo_firme,Intacto,,C,False,2032,0.0,5852.4,0.0,0.0,
+solo_firme,Intacto,,C,False,2033,0.0,7081.8,0.0,0.0,
+solo_firme,Intacto,,C,False,2034,192.4,7905.4,192.4,0.0,0.0
+solo_firme,Intacto,,C,False,2035,192.4,8556.8,192.4,0.0,0.0
+solo_firme,Intacto,,C,False,2031-2035,384.8,33505.7,384.8,0.0,0.0
+solo_firme,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031,0.0,-2460.5,0.0,0.0,
+solo_firme,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2032,0.0,-592.6,0.0,0.0,
+solo_firme,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2033,0.0,1159.6,0.0,0.0,
+solo_firme,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2034,192.4,2917.2,192.4,0.0,0.0
+solo_firme,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2035,192.4,5344.9,192.4,0.0,0.0
+solo_firme,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,False,2031-2035,384.8,6368.6,384.8,0.0,0.0
+solo_firme,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031,0.0,-482.4,0.0,0.0,
+solo_firme,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2032,0.0,1385.5,0.0,0.0,
+solo_firme,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2033,0.0,3137.8,0.0,0.0,
+solo_firme,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2034,192.4,4887.2,192.4,0.0,0.0
+solo_firme,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2035,192.4,6958.4,192.4,0.0,0.0
+solo_firme,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,True,2031-2035,384.8,15886.5,384.8,0.0,0.0
+solo_firme,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031,0.0,3351.6,0.0,0.0,
+solo_firme,Derrateo de Coca Codo,CCDER,C-CCDER,False,2032,0.0,5094.7,0.0,0.0,
+solo_firme,Derrateo de Coca Codo,CCDER,C-CCDER,False,2033,0.0,6554.1,0.0,0.0,
+solo_firme,Derrateo de Coca Codo,CCDER,C-CCDER,False,2034,192.4,7905.4,192.4,0.0,0.0
+solo_firme,Derrateo de Coca Codo,CCDER,C-CCDER,False,2035,192.4,8556.8,192.4,0.0,0.0
+solo_firme,Derrateo de Coca Codo,CCDER,C-CCDER,False,2031-2035,384.8,31462.6,384.8,0.0,0.0
+solo_firme,Año seco severo,ANOSECO,C-ANOSECO,False,2031,0.0,86.6,0.0,0.0,
+solo_firme,Año seco severo,ANOSECO,C-ANOSECO,False,2032,0.0,1654.0,0.0,0.0,
+solo_firme,Año seco severo,ANOSECO,C-ANOSECO,False,2033,0.0,2895.4,0.0,0.0,
+solo_firme,Año seco severo,ANOSECO,C-ANOSECO,False,2034,192.4,4142.4,192.4,0.0,0.0
+solo_firme,Año seco severo,ANOSECO,C-ANOSECO,False,2035,192.4,6027.2,192.4,0.0,0.0
+solo_firme,Año seco severo,ANOSECO,C-ANOSECO,False,2031-2035,384.8,14805.6,384.8,0.0,0.0
+solo_firme,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031,0.0,4124.3,0.0,0.0,
+solo_firme,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2032,0.0,1654.0,0.0,0.0,
+solo_firme,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2033,0.0,7081.8,0.0,0.0,
+solo_firme,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2034,192.4,7905.4,192.4,0.0,0.0
+solo_firme,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2035,192.4,6027.2,192.4,0.0,0.0
+solo_firme,Un año seco cada tres,ANOSEC3,C-ANOSEC3,False,2031-2035,384.8,26792.7,384.8,0.0,0.0
+solo_firme,Año seco moderado,ANOSECM,C-ANOSECM,False,2031,0.0,2717.5,0.0,0.0,
+solo_firme,Año seco moderado,ANOSECM,C-ANOSECM,False,2032,0.0,4445.4,0.0,0.0,
+solo_firme,Año seco moderado,ANOSECM,C-ANOSECM,False,2033,0.0,5809.1,0.0,0.0,
+solo_firme,Año seco moderado,ANOSECM,C-ANOSECM,False,2034,192.4,7207.3,192.4,0.0,0.0
+solo_firme,Año seco moderado,ANOSECM,C-ANOSECM,False,2035,192.4,8556.8,192.4,0.0,0.0
+solo_firme,Año seco moderado,ANOSECM,C-ANOSECM,False,2031-2035,384.8,28736.1,384.8,0.0,0.0
+solo_firme,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031,0.0,-5862.8,0.0,0.0,
+solo_firme,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2032,0.0,-4616.0,0.0,0.0,
+solo_firme,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2033,0.0,-3374.5,0.0,0.0,
+solo_firme,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2034,192.4,-2127.6,0.0,192.4,100.0
+solo_firme,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2035,192.4,-210.7,0.0,192.4,100.0
+solo_firme,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,False,2031-2035,384.8,-16191.6,0.0,384.8,100.0
+solo_firme,Sin importación desde Colombia,IMP0,C-IMP0,False,2031,0.0,3838.2,0.0,0.0,
+solo_firme,Sin importación desde Colombia,IMP0,C-IMP0,False,2032,0.0,5581.3,0.0,0.0,
+solo_firme,Sin importación desde Colombia,IMP0,C-IMP0,False,2033,0.0,6999.7,0.0,0.0,
+solo_firme,Sin importación desde Colombia,IMP0,C-IMP0,False,2034,192.4,7905.4,192.4,0.0,0.0
+solo_firme,Sin importación desde Colombia,IMP0,C-IMP0,False,2035,192.4,8556.8,192.4,0.0,0.0
+solo_firme,Sin importación desde Colombia,IMP0,C-IMP0,False,2031-2035,384.8,32881.4,384.8,0.0,0.0
+solo_firme,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031,0.0,3853.2,0.0,0.0,
+solo_firme,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2032,0.0,1276.2,0.0,0.0,
+solo_firme,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2033,0.0,7000.4,0.0,0.0,
+solo_firme,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2034,192.4,7905.4,192.4,0.0,0.0
+solo_firme,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2035,192.4,5667.0,192.4,0.0,0.0
+solo_firme,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,True,2031-2035,384.8,25702.2,384.8,0.0,0.0
+solo_firme,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031,0.0,441.4,0.0,0.0,
+solo_firme,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2032,0.0,-2585.6,0.0,0.0,
+solo_firme,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2033,0.0,4087.6,0.0,0.0,
+solo_firme,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2034,192.4,5654.8,192.4,0.0,0.0
+solo_firme,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2035,192.4,1575.7,192.4,0.0,0.0
+solo_firme,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,True,2031-2035,384.8,9173.9,384.8,0.0,0.0

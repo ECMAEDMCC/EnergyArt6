@@ -1,0 +1,55 @@
+Escenarios de Artículo 6 del sector energía del Ecuador
+Derechos de autor 2026, Consultor para el PNUD (Proyecto 00110180 del PNUD Ecuador, Climate Promise)
+Derechos de autor 2025, Climate Lead Group (modelo base)
+
+Este repositorio es una obra derivada del modelo OSeMOSYS de energía de la Segunda NDC del Ecuador, desarrollado por
+Climate Lead Group y publicado en https://github.com/clg-admin/ECU_NDC (rama main, commit f19d6b1) bajo la licencia
+Apache 2.0. El texto de la licencia está en LICENSE y rige también para las modificaciones.
+
+Modelo base (Climate Lead Group, 2025)
+--------------------------------------
+Se conservan sin cambios los scripts de la cadena del modelo (A1_Model_Structure_Energy.py, A2_Compiler.py,
+B1_Base_Scenarios_Adj_Parallel.py, B2_Results_Creator_f0.py y Executables/local_dataset_creator_0.py), la formulación
+OSeMOSYS (OSeMOSYS_Model.txt), los insumos de A1 y A2 y los parámetros de los cuatro escenarios del Modelo Climate
+Lead Group: BAU, BAU1NDC, NDCINC y NDCCON. La prueba tests/no_regresion.py comprueba en cada corrida que esos cuatro
+escenarios dan los mismos datafiles y resultados que la rama main del repositorio original. Los archivos
+Emisiones Totales.xlsx, ECUOutput_Energy.csv y Energy.xlsx de Energy/Insumos_Art6 son copias sin cambios de
+PowerBI/Nacionales, PowerBI/Energy y Data del repositorio original. Se omite Energy/setup_utils.py del
+repositorio original, que ninguna parte de la cadena usa.
+
+Cambios del Consultor para el PNUD (2026)
+-----------------------------------------
+1. Calibración propia de la base. Las correcciones K01 a K16, G01 y RE01 (Energy/Art6_calibracion/correcciones_K.csv,
+   con su fuente en cada fila) llevan la historia 2010-2025 de la generación eléctrica a lo observado (Balance
+   Energético Nacional 2025, CENACE, ARCONEL) y fijan los supuestos térmicos de 2026-2035. Se aplican a cuatro
+   referencias nuevas, INCA6, CONA6, INCA6G y CONA6G, con carpetas propias en Energy/A2_Output_Params y filas propias
+   en Energy/B1_Scenario_Config.xlsx. Los escenarios del Modelo Climate Lead Group no cambian.
+2. Escenarios del Artículo 6. Los escenarios A, B y C, sus estados de riesgo (CCOFF, CCSOLO, CCDER, ANOSECO, ANOSEC3,
+   ANOSECM, CCOFFANOSECO, FOI, IMP0, ACT y ACTDEM, con el respaldo de emergencia RESP), la familia GAS, el
+   contrafactual A-SIN, las referencias de estado CONA6P y CONA6I y los puentes A-V7, B-V7 y C-V7 son escenarios
+   basados en CONA6 o CONA6G, definidos con filas en las hojas Scenarios, Electrical, SmartGrid y Efficiency de
+   Energy/B1_Scenario_Config.xlsx. Los escribe Energy/Art6_calibracion/generar_escenarios_art6.py.
+3. Un solo libro de configuración. Las hojas documentales Art6_* (escenarios, palancas, riesgos, metas, precios,
+   adicionalidad, fuentes y registro de cambios) van al final de Energy/B1_Scenario_Config.xlsx. Las 927 fórmulas
+   del libro original se fijaron a su valor en caché, que es el que lee B1; los valores que lee B1 no cambian.
+4. Etapa B3 de Artículo 6. Energy/B3_Etapa_Art6.py y el motor Energy/Art6_motor verifican cada escenario frente a su
+   base, calculan capas, oferta, margen frente a la meta de la Segunda NDC, sobreventa, reserva por año, respaldo e
+   ingresos, y producen tablas, gráficas, el tablero, el cuaderno Energy/B3_Visualizador_Art6.ipynb y la
+   documentación.
+5. Pruebas. Energy/tests: validación del libro, no regresión de los escenarios del Modelo Climate Lead Group, base
+   congelada de las referencias corregidas y diferencias explicadas entre cada referencia y su escenario de origen.
+6. Herramientas de corrida. ejecutar_modelo.bat, los scripts de corrida de Energy/Art6_motor
+   (correr_con_registro.py, seleccionar_escenarios.py y cifras_principales.py), environment.yml y requirements.txt.
+7. Documentación en docs/ (Sphinx con el tema de Read the Docs, publicada en GitHub Pages, y versión en
+   Markdown para GitHub).
+8. Datos de la capa CENTRALES de ARCONEL (uso autorizado). El repositorio no lleva filas por central: el modelo lee
+   los parámetros agregados por clase de Energy/Art6_calibracion/parametros_hidro_por_clase.csv.
+
+Componentes de terceros
+-----------------------
+- GLPK 4.65 (Energy/glpk): binarios para Windows de GLPK, GNU General Public License v3 (texto en Energy/glpk/COPYING),
+  sin modificaciones. Código fuente: https://ftp.gnu.org/gnu/glpk/glpk-4.65.tar.gz.
+- Fira Sans (Energy/Art6_motor/fuentes): SIL Open Font License 1.1 (Energy/Art6_motor/fuentes/OFL.txt).
+- plotly.js, incluido en el tablero HTML que genera el motor: licencia MIT.
+- Datos públicos de CENACE, ARCONEL, el Ministerio de Ambiente y Energía (Balance Energético Nacional) y XM; cada
+  cifra conserva su fuente en el archivo que la usa.

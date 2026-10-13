@@ -1,0 +1,45 @@
+﻿proyeccion,regla,estado,sufijo,escenario,primer_anio_margen_negativo,primer_anio_margen_negativo_tras_transferir,autorizado_2031_2035,sobreventa_2031_2035,incumplimiento_sin_transferir_2031_2035,margen_2035
+CLG,condicional,Intacto,,C,,,11674.4,0.0,0.0,11888.5
+CLG,prudente,Intacto,,C,,,11674.4,0.0,0.0,8556.8
+CLG,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2029,2031,11674.4,735.6,0.0,8676.6
+CLG,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2029,2031,11674.4,6785.2,3053.1,5344.9
+CLG,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,,,11674.4,0.0,0.0,10290.2
+CLG,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2029,2031,11674.4,4006.2,482.4,6958.4
+CLG,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,,,11674.4,0.0,0.0,11888.5
+CLG,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,2027,,11674.4,0.0,0.0,8556.8
+CLG,condicional,Año seco severo,ANOSECO,C-ANOSECO,2026,,11674.4,0.0,0.0,9359.0
+CLG,prudente,Año seco severo,ANOSECO,C-ANOSECO,2026,2031,11674.4,3651.1,0.0,6027.2
+CLG,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2026,,11674.4,0.0,0.0,9359.0
+CLG,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2026,2032,11674.4,1080.0,0.0,6027.2
+CLG,condicional,Año seco moderado,ANOSECM,C-ANOSECM,2026,,11674.4,0.0,0.0,11888.5
+CLG,prudente,Año seco moderado,ANOSECM,C-ANOSECM,2026,,11674.4,0.0,0.0,8556.8
+CLG,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2026,2031,11674.4,8548.0,2218.5,3121.1
+CLG,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2026,2031,11674.4,11674.4,16191.6,-210.7
+CLG,condicional,Sin importación desde Colombia,IMP0,C-IMP0,2026,,11674.4,0.0,0.0,11888.5
+CLG,prudente,Sin importación desde Colombia,IMP0,C-IMP0,2026,,11674.4,0.0,0.0,8556.8
+CLG,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2026,,11674.4,0.0,0.0,8998.8
+CLG,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,2026,2032,11674.4,1457.8,0.0,5667.0
+CLG,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2026,2032,11674.4,1441.9,0.0,4907.5
+CLG,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2026,2031,11674.4,4950.3,2585.6,1575.7
+corregida,condicional,Intacto,,C,,,11674.4,0.0,0.0,12741.7
+corregida,prudente,Intacto,,C,,,11674.4,0.0,0.0,10589.1
+corregida,condicional,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,,,11674.4,0.0,0.0,9529.8
+corregida,prudente,Salida de Coca Codo y Sopladora,CCOFF,C-CCOFF,2029,2031,11674.4,4054.8,571.2,7377.1
+corregida,condicional,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,,,11674.4,0.0,0.0,11143.3
+corregida,prudente,Salida de Coca Codo sola,CCSOLO,C-CCSOLO,2029,2031,11674.4,1250.8,0.0,8990.7
+corregida,condicional,Derrateo de Coca Codo,CCDER,C-CCDER,,,11674.4,0.0,0.0,12741.7
+corregida,prudente,Derrateo de Coca Codo,CCDER,C-CCDER,,,11674.4,0.0,0.0,10589.1
+corregida,condicional,Año seco severo,ANOSECO,C-ANOSECO,2026,,11674.4,0.0,0.0,10212.1
+corregida,prudente,Año seco severo,ANOSECO,C-ANOSECO,2026,2031,11674.4,681.8,0.0,8059.5
+corregida,condicional,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2026,,11674.4,0.0,0.0,10212.1
+corregida,prudente,Un año seco cada tres,ANOSEC3,C-ANOSEC3,2026,,11674.4,0.0,0.0,8059.5
+corregida,condicional,Año seco moderado,ANOSECM,C-ANOSECM,,,11674.4,0.0,0.0,12741.7
+corregida,prudente,Año seco moderado,ANOSECM,C-ANOSECM,,,11674.4,0.0,0.0,10589.1
+corregida,condicional,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2026,2031,11674.4,4841.1,0.0,3974.2
+corregida,prudente,Salida de Coca Codo y año seco severo,CCOFFANOSECO,C-CCOFFANOSECO,2026,2031,11674.4,10122.9,8196.9,1821.6
+corregida,condicional,Sin importación desde Colombia,IMP0,C-IMP0,,,11674.4,0.0,0.0,12741.7
+corregida,prudente,Sin importación desde Colombia,IMP0,C-IMP0,,,11674.4,0.0,0.0,10589.1
+corregida,condicional,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,,,11674.4,0.0,0.0,9851.9
+corregida,prudente,Situación actual 2026 con choque de demanda transitorio,ACT,C-ACT,,,11674.4,0.0,0.0,7699.3
+corregida,condicional,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2027,,11674.4,0.0,0.0,5760.6
+corregida,prudente,Situación actual 2026 con demanda persistente,ACTDEM,C-ACTDEM,2027,2031,11674.4,3060.9,656.1,3608.0

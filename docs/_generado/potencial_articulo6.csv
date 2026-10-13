@@ -1,0 +1,45 @@
+﻿estado,sufijo,escenario,regla,"Firme: Proyecto Geotérmico Chachimbiro (declarado, tramo condicional)",Por demostrar: proyectos de la NDC financiada (modelo),Por demostrar: condicionadas con potencial declarado (declarado),"Por demostrar: paquete fuera de la NDC, B sobre A (modelo)","Por demostrar: paquete fuera de la NDC, C sobre B (modelo)",Sin adicionalidad: Proyecto Hidroeléctrico Santiago y Proyecto hidroeléctrico Cardenillo (declarado),"En reserva, fuera de la oferta: Renovación y Descarbonización del Transporte Público y Comercial en el Ecuador (declarado)",oferta_total,transferible_sin_incumplir,headroom_acumulado_2031_2035,proyeccion
+Intacto,,C,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,52174.7,CLG
+Intacto,,C,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,33505.7,CLG
+Salida de Coca Codo y Sopladora,-CCOFF,C-CCOFF,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,10938.8,25037.6,CLG
+Salida de Coca Codo y Sopladora,-CCOFF,C-CCOFF,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,4889.2,6368.6,CLG
+Salida de Coca Codo sola,-CCSOLO,C-CCSOLO,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,34555.6,CLG
+Salida de Coca Codo sola,-CCSOLO,C-CCSOLO,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,7668.2,15886.5,CLG
+Derrateo de Coca Codo,-CCDER,C-CCDER,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,50131.5,CLG
+Derrateo de Coca Codo,-CCDER,C-CCDER,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,31462.6,CLG
+Año seco severo,-ANOSECO,C-ANOSECO,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,33474.7,CLG
+Año seco severo,-ANOSECO,C-ANOSECO,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,8023.3,14805.6,CLG
+Un año seco cada tres,-ANOSEC3,C-ANOSEC3,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,45461.7,CLG
+Un año seco cada tres,-ANOSEC3,C-ANOSEC3,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,10594.4,26792.7,CLG
+Año seco moderado,-ANOSECM,C-ANOSECM,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,47405.1,CLG
+Año seco moderado,-ANOSECM,C-ANOSECM,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,28736.1,CLG
+Salida de Coca Codo y año seco severo,-CCOFFANOSECO,C-CCOFFANOSECO,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,3126.5,2477.5,CLG
+Salida de Coca Codo y año seco severo,-CCOFFANOSECO,C-CCOFFANOSECO,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,0.0,-16191.6,CLG
+Sin importación desde Colombia,-IMP0,C-IMP0,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,51550.4,CLG
+Sin importación desde Colombia,-IMP0,C-IMP0,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,32881.4,CLG
+Situación actual 2026 con choque de demanda transitorio,-ACT,C-ACT,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,44371.4,CLG
+Situación actual 2026 con choque de demanda transitorio,-ACT,C-ACT,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,10216.6,25702.2,CLG
+Situación actual 2026 con demanda persistente,-ACTDEM,C-ACTDEM,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,10232.5,27843.0,CLG
+Situación actual 2026 con demanda persistente,-ACTDEM,C-ACTDEM,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,6724.1,9173.9,CLG
+Intacto,,C,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,59259.7,corregida
+Intacto,,C,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,43322.1,corregida
+Salida de Coca Codo y Sopladora,-CCOFF,C-CCOFF,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,32122.6,corregida
+Salida de Coca Codo y Sopladora,-CCOFF,C-CCOFF,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,7619.6,16184.8,corregida
+Salida de Coca Codo sola,-CCSOLO,C-CCSOLO,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,41640.5,corregida
+Salida de Coca Codo sola,-CCSOLO,C-CCSOLO,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,10423.6,25702.8,corregida
+Derrateo de Coca Codo,-CCDER,C-CCDER,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,57216.6,corregida
+Derrateo de Coca Codo,-CCDER,C-CCDER,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,41278.9,corregida
+Año seco severo,-ANOSECO,C-ANOSECO,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,40559.6,corregida
+Año seco severo,-ANOSECO,C-ANOSECO,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,10992.6,24621.9,corregida
+Un año seco cada tres,-ANOSEC3,C-ANOSEC3,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,52546.7,corregida
+Un año seco cada tres,-ANOSEC3,C-ANOSEC3,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,36609.0,corregida
+Año seco moderado,-ANOSECM,C-ANOSECM,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,54490.1,corregida
+Año seco moderado,-ANOSECM,C-ANOSECM,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,38552.4,corregida
+Salida de Coca Codo y año seco severo,-CCOFFANOSECO,C-CCOFFANOSECO,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,6833.3,9562.3,corregida
+Salida de Coca Codo y año seco severo,-CCOFFANOSECO,C-CCOFFANOSECO,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,1551.6,-6375.3,corregida
+Sin importación desde Colombia,-IMP0,C-IMP0,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,58635.4,corregida
+Sin importación desde Colombia,-IMP0,C-IMP0,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,42697.8,corregida
+Situación actual 2026 con choque de demanda transitorio,-ACT,C-ACT,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,51456.3,corregida
+Situación actual 2026 con choque de demanda transitorio,-ACT,C-ACT,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,35518.5,corregida
+Situación actual 2026 con demanda persistente,-ACTDEM,C-ACTDEM,condicional,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,11674.4,34927.9,corregida
+Situación actual 2026 con demanda persistente,-ACTDEM,C-ACTDEM,prudente,384.8,2473.1,337.2,6129.0,2350.3,17982.9,925.0,11674.4,8613.5,18990.3,corregida

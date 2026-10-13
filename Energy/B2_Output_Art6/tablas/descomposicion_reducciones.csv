@@ -1,0 +1,17 @@
+﻿componente,referencia,escenario,2031,2032,2033,2034,2035,total_2031_2035
+"Corrección de la base, condicional (NDCCON del Modelo CLG menos CONA6)",NDCCON,CONA6,1821.7,1750.2,1479.9,1180.1,853.1,7085.0
+"Corrección de la base, incondicional (NDCINC del Modelo CLG menos INCA6)",NDCINC,INCA6,1889.3,1929.5,1963.1,2002.1,2032.3,9816.3
+Tramo condicional de la base corregida (INCA6 menos CONA6),INCA6,CONA6,1506.3,3189.0,4599.3,5990.3,7268.2,22553.1
+Tramo condicional del Modelo CLG (NDCINC menos NDCCON),NDCINC,NDCCON,1573.9,3368.3,5082.5,6812.3,8447.4,25284.5
+Proyectos de la NDC financiada (sobre el condicional),CONA6,A,837.6,579.4,438.0,346.1,272.0,2473.1
+Paquete fuera de la NDC (B sobre A),A,B,1593.9,1876.2,1462.9,911.7,284.3,6129.0
+Paquete fuera de la NDC (C sobre B),B,C,171.6,207.8,581.5,657.2,732.2,2350.3
+Efecto de la referencia del estado FOI (CONA6 menos CONA6P),CONA6,CONA6P,0.0,24.9,223.2,327.8,327.8,903.8
+Efecto de la referencia del estado IMP0 (CONA6 menos CONA6I),CONA6,CONA6I,-377.8,-360.2,-271.1,-271.1,-271.1,-1551.3
+Efecto de la referencia del estado GAS (CONA6 menos CONA6G),CONA6,CONA6G,-695.8,-877.5,-658.9,-405.9,-136.9,-2775.0
+Sin pisos térmicos en el A (riesgo de operación),A,A-FOI,30.9,160.7,327.9,327.8,327.8,1175.1
+Sin pisos térmicos en el B (riesgo de operación),B,B-FOI,327.8,327.8,896.0,1475.2,1475.2,4502.1
+Sin la expansión a gas declarada en el A (sensibilidad de la base),A,A-GAS,-892.5,-754.5,-507.5,-290.7,-67.5,-2512.7
+Sin la expansión a gas declarada en el B (sensibilidad de la base),B,B-GAS,-364.7,-43.0,0.0,0.0,0.0,-407.7
+Sin la expansión a gas declarada en el C (sensibilidad de la base),C,C-GAS,-467.4,-141.3,0.0,0.0,0.0,-608.7
+Sin sus proyectos en el A (contrafactual),A,A-SIN,-1357.4,-1284.8,-1131.8,-1137.2,-1137.2,-6048.4

@@ -1,0 +1,912 @@
+OK     B1 generó NDCINC
+OK     B1 generó NDCCON
+OK     B1 generó INCA6
+OK     B1 generó CONA6
+OK     B1 generó CONA6G
+OK     B1 generó CONA6P
+OK     B1 generó CONA6I
+OK     B1 generó A
+OK     B1 generó A-CCOFF
+OK     B1 generó A-CCSOLO
+OK     B1 generó A-CCDER
+OK     B1 generó A-ANOSECO
+OK     B1 generó A-ANOSEC3
+OK     B1 generó A-ANOSECM
+OK     B1 generó A-CCOFFANOSECO
+OK     B1 generó A-FOI
+OK     B1 generó A-IMP0
+OK     B1 generó A-ACT
+OK     B1 generó A-ACTDEM
+OK     B1 generó A-GAS
+OK     B1 generó A-SIN
+OK     B1 generó B
+OK     B1 generó B-CCOFF
+OK     B1 generó B-CCSOLO
+OK     B1 generó B-CCDER
+OK     B1 generó B-ANOSECO
+OK     B1 generó B-ANOSEC3
+OK     B1 generó B-ANOSECM
+OK     B1 generó B-CCOFFANOSECO
+OK     B1 generó B-FOI
+OK     B1 generó B-IMP0
+OK     B1 generó B-ACT
+OK     B1 generó B-ACTDEM
+OK     B1 generó B-GAS
+OK     B1 generó C
+OK     B1 generó C-CCOFF
+OK     B1 generó C-CCSOLO
+OK     B1 generó C-CCDER
+OK     B1 generó C-ANOSECO
+OK     B1 generó C-ANOSEC3
+OK     B1 generó C-ANOSECM
+OK     B1 generó C-CCOFFANOSECO
+OK     B1 generó C-IMP0
+OK     B1 generó C-ACT
+OK     B1 generó C-ACTDEM
+OK     B1 generó C-GAS
+OK     B1 generó A-V7
+OK     B1 generó B-V7
+OK     B1 generó C-V7
+OK     CONA6P: trae las 3 palancas de su composición (FOI)
+ERROR  CONA6P: Electrical copia las 13 filas de CONA6 que sus palancas no reemplazan
+OK     CONA6P: SmartGrid copia las 4 filas de CONA6
+OK     CONA6P: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     CONA6P: el datafile difiere de CONA6 en 3 filas, todas de sus palancas
+OK     CONA6P: historia 2010-2025 igual a CONA6
+OK     CONA6P: pisos de actividad bajo sus techos
+OK     CONA6I: trae las 2 palancas de su composición (IMP0)
+ERROR  CONA6I: Electrical copia las 14 filas de CONA6 que sus palancas no reemplazan
+OK     CONA6I: SmartGrid copia las 4 filas de CONA6
+OK     CONA6I: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     CONA6I: el datafile difiere de CONA6 en 2 filas, todas de sus palancas
+OK     CONA6I: historia 2010-2025 igual a CONA6
+OK     CONA6I: pisos de actividad bajo sus techos
+OK     A: trae las 6 palancas de su composición (A)
+ERROR  A: Electrical copia las 9 filas de CONA6 que sus palancas no reemplazan
+OK     A: SmartGrid copia las 4 filas de CONA6
+OK     A: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A: el datafile difiere de CONA6 en 6 filas, todas de sus palancas
+OK     A: historia 2010-2025 igual a CONA6
+OK     A: pisos de actividad bajo sus techos
+OK     A-CCOFF: trae las 13 palancas de su composición (A,CCOFF,RESP)
+ERROR  A-CCOFF: Electrical copia las 9 filas de CONA6 que sus palancas no reemplazan
+OK     A-CCOFF: SmartGrid copia las 4 filas de CONA6
+OK     A-CCOFF: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-CCOFF: el datafile difiere de CONA6 en 13 filas, todas de sus palancas
+OK     A-CCOFF: historia 2010-2025 igual a CONA6
+OK     A-CCOFF: pisos de actividad bajo sus techos
+OK     A-CCSOLO: trae las 13 palancas de su composición (A,CCSOLO,RESP)
+ERROR  A-CCSOLO: Electrical copia las 9 filas de CONA6 que sus palancas no reemplazan
+OK     A-CCSOLO: SmartGrid copia las 4 filas de CONA6
+OK     A-CCSOLO: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-CCSOLO: el datafile difiere de CONA6 en 13 filas, todas de sus palancas
+OK     A-CCSOLO: historia 2010-2025 igual a CONA6
+OK     A-CCSOLO: pisos de actividad bajo sus techos
+OK     A-CCDER: trae las 13 palancas de su composición (A,CCDER,RESP)
+ERROR  A-CCDER: Electrical copia las 9 filas de CONA6 que sus palancas no reemplazan
+OK     A-CCDER: SmartGrid copia las 4 filas de CONA6
+OK     A-CCDER: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-CCDER: el datafile difiere de CONA6 en 13 filas, todas de sus palancas
+OK     A-CCDER: historia 2010-2025 igual a CONA6
+OK     A-CCDER: pisos de actividad bajo sus techos
+OK     A-ANOSECO: trae las 43 palancas de su composición (A,ANOSECO,RESP)
+ERROR  A-ANOSECO: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     A-ANOSECO: SmartGrid copia las 4 filas de CONA6
+OK     A-ANOSECO: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-ANOSECO: el datafile difiere de CONA6 en 43 filas, todas de sus palancas
+OK     A-ANOSECO: historia 2010-2025 igual a CONA6
+OK     A-ANOSECO: pisos de actividad bajo sus techos
+OK     A-ANOSEC3: trae las 43 palancas de su composición (A,ANOSEC3,RESP)
+ERROR  A-ANOSEC3: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     A-ANOSEC3: SmartGrid copia las 4 filas de CONA6
+OK     A-ANOSEC3: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-ANOSEC3: el datafile difiere de CONA6 en 43 filas, todas de sus palancas
+OK     A-ANOSEC3: historia 2010-2025 igual a CONA6
+OK     A-ANOSEC3: pisos de actividad bajo sus techos
+OK     A-ANOSECM: trae las 43 palancas de su composición (A,ANOSECM,RESP)
+ERROR  A-ANOSECM: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     A-ANOSECM: SmartGrid copia las 4 filas de CONA6
+OK     A-ANOSECM: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-ANOSECM: el datafile difiere de CONA6 en 43 filas, todas de sus palancas
+OK     A-ANOSECM: historia 2010-2025 igual a CONA6
+OK     A-ANOSECM: pisos de actividad bajo sus techos
+OK     A-CCOFFANOSECO: trae las 43 palancas de su composición (A,ANOSECO,CCOFF_ANOSECO,RESP)
+ERROR  A-CCOFFANOSECO: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     A-CCOFFANOSECO: SmartGrid copia las 4 filas de CONA6
+OK     A-CCOFFANOSECO: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-CCOFFANOSECO: el datafile difiere de CONA6 en 43 filas, todas de sus palancas
+OK     A-CCOFFANOSECO: historia 2010-2025 igual a CONA6
+OK     A-CCOFFANOSECO: pisos de actividad bajo sus techos
+OK     A-FOI: trae las 9 palancas de su composición (A,FOI)
+ERROR  A-FOI: Electrical copia las 8 filas de CONA6 que sus palancas no reemplazan
+OK     A-FOI: SmartGrid copia las 4 filas de CONA6
+OK     A-FOI: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-FOI: el datafile difiere de CONA6 en 9 filas, todas de sus palancas
+OK     A-FOI: historia 2010-2025 igual a CONA6
+OK     A-FOI: pisos de actividad bajo sus techos
+OK     A-IMP0: trae las 12 palancas de su composición (A,IMP0,RESP)
+ERROR  A-IMP0: Electrical copia las 9 filas de CONA6 que sus palancas no reemplazan
+OK     A-IMP0: SmartGrid copia las 4 filas de CONA6
+OK     A-IMP0: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-IMP0: el datafile difiere de CONA6 en 12 filas, todas de sus palancas
+OK     A-IMP0: historia 2010-2025 igual a CONA6
+OK     A-IMP0: pisos de actividad bajo sus techos
+OK     A-ACT: trae las 51 palancas de su composición (A,ACTH,IMPACT,DEMACT,RESP)
+ERROR  A-ACT: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     A-ACT: SmartGrid copia las 4 filas de CONA6
+OK     A-ACT: Efficiency copia las 2 filas de CONA6 que sus palancas no reemplazan
+OK     A-ACT: el datafile difiere de CONA6 en 50 filas, todas de sus palancas
+OK     A-ACT: historia 2010-2025 igual a CONA6 salvo 4 filas permitidas (máx. 4.91408e-05)
+OK     A-ACT: pisos de actividad bajo sus techos
+OK     A-ACTDEM: trae las 51 palancas de su composición (A,ACTH,IMPACT,DEMACTDEM,RESP)
+ERROR  A-ACTDEM: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     A-ACTDEM: SmartGrid copia las 4 filas de CONA6
+OK     A-ACTDEM: Efficiency copia las 2 filas de CONA6 que sus palancas no reemplazan
+OK     A-ACTDEM: el datafile difiere de CONA6 en 50 filas, todas de sus palancas
+OK     A-ACTDEM: historia 2010-2025 igual a CONA6 salvo 4 filas permitidas (máx. 4.91408e-05)
+OK     A-ACTDEM: pisos de actividad bajo sus techos
+OK     A-GAS: trae las 6 palancas de su composición (A)
+ERROR  A-GAS: Electrical copia las 9 filas de CONA6G que sus palancas no reemplazan
+OK     A-GAS: SmartGrid copia las 4 filas de CONA6G
+OK     A-GAS: Efficiency copia las 3 filas de CONA6G que sus palancas no reemplazan
+OK     A-GAS: el datafile difiere de CONA6G en 6 filas, todas de sus palancas
+OK     A-GAS: historia 2010-2025 igual a CONA6G
+OK     A-GAS: pisos de actividad bajo sus techos
+OK     A-SIN: trae las 8 palancas de su composición (SIN)
+ERROR  A-SIN: Electrical copia las 6 filas de CONA6 que sus palancas no reemplazan
+OK     A-SIN: SmartGrid copia las 4 filas de CONA6
+OK     A-SIN: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-SIN: el datafile difiere de CONA6 en 8 filas, todas de sus palancas
+OK     A-SIN: historia 2010-2025 igual a CONA6 salvo 1 filas permitidas (máx. 0.067)
+OK     A-SIN: pisos de actividad bajo sus techos
+OK     B: trae las 11 palancas de su composición (A,B)
+ERROR  B: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     B: SmartGrid copia las 4 filas de CONA6
+OK     B: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B: el datafile difiere de CONA6 en 11 filas, todas de sus palancas
+OK     B: historia 2010-2025 igual a CONA6
+OK     B: pisos de actividad bajo sus techos
+OK     B-CCOFF: trae las 18 palancas de su composición (A,B,CCOFF,RESP)
+ERROR  B-CCOFF: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     B-CCOFF: SmartGrid copia las 4 filas de CONA6
+OK     B-CCOFF: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-CCOFF: el datafile difiere de CONA6 en 18 filas, todas de sus palancas
+OK     B-CCOFF: historia 2010-2025 igual a CONA6
+OK     B-CCOFF: pisos de actividad bajo sus techos
+OK     B-CCSOLO: trae las 18 palancas de su composición (A,B,CCSOLO,RESP)
+ERROR  B-CCSOLO: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     B-CCSOLO: SmartGrid copia las 4 filas de CONA6
+OK     B-CCSOLO: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-CCSOLO: el datafile difiere de CONA6 en 18 filas, todas de sus palancas
+OK     B-CCSOLO: historia 2010-2025 igual a CONA6
+OK     B-CCSOLO: pisos de actividad bajo sus techos
+OK     B-CCDER: trae las 18 palancas de su composición (A,B,CCDER,RESP)
+ERROR  B-CCDER: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     B-CCDER: SmartGrid copia las 4 filas de CONA6
+OK     B-CCDER: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-CCDER: el datafile difiere de CONA6 en 18 filas, todas de sus palancas
+OK     B-CCDER: historia 2010-2025 igual a CONA6
+OK     B-CCDER: pisos de actividad bajo sus techos
+OK     B-ANOSECO: trae las 48 palancas de su composición (A,B,ANOSECO,RESP)
+ERROR  B-ANOSECO: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     B-ANOSECO: SmartGrid copia las 4 filas de CONA6
+OK     B-ANOSECO: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-ANOSECO: el datafile difiere de CONA6 en 48 filas, todas de sus palancas
+OK     B-ANOSECO: historia 2010-2025 igual a CONA6
+OK     B-ANOSECO: pisos de actividad bajo sus techos
+OK     B-ANOSEC3: trae las 48 palancas de su composición (A,B,ANOSEC3,RESP)
+ERROR  B-ANOSEC3: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     B-ANOSEC3: SmartGrid copia las 4 filas de CONA6
+OK     B-ANOSEC3: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-ANOSEC3: el datafile difiere de CONA6 en 48 filas, todas de sus palancas
+OK     B-ANOSEC3: historia 2010-2025 igual a CONA6
+OK     B-ANOSEC3: pisos de actividad bajo sus techos
+OK     B-ANOSECM: trae las 48 palancas de su composición (A,B,ANOSECM,RESP)
+ERROR  B-ANOSECM: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     B-ANOSECM: SmartGrid copia las 4 filas de CONA6
+OK     B-ANOSECM: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-ANOSECM: el datafile difiere de CONA6 en 48 filas, todas de sus palancas
+OK     B-ANOSECM: historia 2010-2025 igual a CONA6
+OK     B-ANOSECM: pisos de actividad bajo sus techos
+OK     B-CCOFFANOSECO: trae las 48 palancas de su composición (A,B,ANOSECO,CCOFF_ANOSECO,RESP)
+ERROR  B-CCOFFANOSECO: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     B-CCOFFANOSECO: SmartGrid copia las 4 filas de CONA6
+OK     B-CCOFFANOSECO: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-CCOFFANOSECO: el datafile difiere de CONA6 en 48 filas, todas de sus palancas
+OK     B-CCOFFANOSECO: historia 2010-2025 igual a CONA6
+OK     B-CCOFFANOSECO: pisos de actividad bajo sus techos
+OK     B-FOI: trae las 14 palancas de su composición (A,B,FOI)
+ERROR  B-FOI: Electrical copia las 6 filas de CONA6 que sus palancas no reemplazan
+OK     B-FOI: SmartGrid copia las 4 filas de CONA6
+OK     B-FOI: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-FOI: el datafile difiere de CONA6 en 14 filas, todas de sus palancas
+OK     B-FOI: historia 2010-2025 igual a CONA6
+OK     B-FOI: pisos de actividad bajo sus techos
+OK     B-IMP0: trae las 17 palancas de su composición (A,B,IMP0,RESP)
+ERROR  B-IMP0: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     B-IMP0: SmartGrid copia las 4 filas de CONA6
+OK     B-IMP0: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-IMP0: el datafile difiere de CONA6 en 17 filas, todas de sus palancas
+OK     B-IMP0: historia 2010-2025 igual a CONA6
+OK     B-IMP0: pisos de actividad bajo sus techos
+OK     B-ACT: trae las 56 palancas de su composición (A,B,ACTH,IMPACT,DEMACT,RESP)
+ERROR  B-ACT: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     B-ACT: SmartGrid copia las 4 filas de CONA6
+OK     B-ACT: Efficiency copia las 2 filas de CONA6 que sus palancas no reemplazan
+OK     B-ACT: el datafile difiere de CONA6 en 55 filas, todas de sus palancas
+OK     B-ACT: historia 2010-2025 igual a CONA6 salvo 4 filas permitidas (máx. 4.91408e-05)
+OK     B-ACT: pisos de actividad bajo sus techos
+OK     B-ACTDEM: trae las 56 palancas de su composición (A,B,ACTH,IMPACT,DEMACTDEM,RESP)
+ERROR  B-ACTDEM: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     B-ACTDEM: SmartGrid copia las 4 filas de CONA6
+OK     B-ACTDEM: Efficiency copia las 2 filas de CONA6 que sus palancas no reemplazan
+OK     B-ACTDEM: el datafile difiere de CONA6 en 55 filas, todas de sus palancas
+OK     B-ACTDEM: historia 2010-2025 igual a CONA6 salvo 4 filas permitidas (máx. 4.91408e-05)
+OK     B-ACTDEM: pisos de actividad bajo sus techos
+OK     B-GAS: trae las 11 palancas de su composición (A,B)
+ERROR  B-GAS: Electrical copia las 7 filas de CONA6G que sus palancas no reemplazan
+OK     B-GAS: SmartGrid copia las 4 filas de CONA6G
+OK     B-GAS: Efficiency copia las 3 filas de CONA6G que sus palancas no reemplazan
+OK     B-GAS: el datafile difiere de CONA6G en 11 filas, todas de sus palancas
+OK     B-GAS: historia 2010-2025 igual a CONA6G
+OK     B-GAS: pisos de actividad bajo sus techos
+OK     C: trae las 26 palancas de su composición (A,B,C)
+ERROR  C: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     C: SmartGrid copia las 4 filas de CONA6
+OK     C: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C: el datafile difiere de CONA6 en 26 filas, todas de sus palancas
+OK     C: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C: pisos de actividad bajo sus techos
+OK     C-CCOFF: trae las 33 palancas de su composición (A,B,C,CCOFF,RESP)
+ERROR  C-CCOFF: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     C-CCOFF: SmartGrid copia las 4 filas de CONA6
+OK     C-CCOFF: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-CCOFF: el datafile difiere de CONA6 en 33 filas, todas de sus palancas
+OK     C-CCOFF: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C-CCOFF: pisos de actividad bajo sus techos
+OK     C-CCSOLO: trae las 33 palancas de su composición (A,B,C,CCSOLO,RESP)
+ERROR  C-CCSOLO: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     C-CCSOLO: SmartGrid copia las 4 filas de CONA6
+OK     C-CCSOLO: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-CCSOLO: el datafile difiere de CONA6 en 33 filas, todas de sus palancas
+OK     C-CCSOLO: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C-CCSOLO: pisos de actividad bajo sus techos
+OK     C-CCDER: trae las 33 palancas de su composición (A,B,C,CCDER,RESP)
+ERROR  C-CCDER: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     C-CCDER: SmartGrid copia las 4 filas de CONA6
+OK     C-CCDER: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-CCDER: el datafile difiere de CONA6 en 33 filas, todas de sus palancas
+OK     C-CCDER: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C-CCDER: pisos de actividad bajo sus techos
+OK     C-ANOSECO: trae las 63 palancas de su composición (A,B,C,ANOSECO,RESP)
+ERROR  C-ANOSECO: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     C-ANOSECO: SmartGrid copia las 4 filas de CONA6
+OK     C-ANOSECO: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-ANOSECO: el datafile difiere de CONA6 en 63 filas, todas de sus palancas
+OK     C-ANOSECO: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C-ANOSECO: pisos de actividad bajo sus techos
+OK     C-ANOSEC3: trae las 63 palancas de su composición (A,B,C,ANOSEC3,RESP)
+ERROR  C-ANOSEC3: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     C-ANOSEC3: SmartGrid copia las 4 filas de CONA6
+OK     C-ANOSEC3: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-ANOSEC3: el datafile difiere de CONA6 en 63 filas, todas de sus palancas
+OK     C-ANOSEC3: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C-ANOSEC3: pisos de actividad bajo sus techos
+OK     C-ANOSECM: trae las 63 palancas de su composición (A,B,C,ANOSECM,RESP)
+ERROR  C-ANOSECM: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     C-ANOSECM: SmartGrid copia las 4 filas de CONA6
+OK     C-ANOSECM: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-ANOSECM: el datafile difiere de CONA6 en 63 filas, todas de sus palancas
+OK     C-ANOSECM: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C-ANOSECM: pisos de actividad bajo sus techos
+OK     C-CCOFFANOSECO: trae las 63 palancas de su composición (A,B,C,ANOSECO,CCOFF_ANOSECO,RESP)
+ERROR  C-CCOFFANOSECO: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     C-CCOFFANOSECO: SmartGrid copia las 4 filas de CONA6
+OK     C-CCOFFANOSECO: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-CCOFFANOSECO: el datafile difiere de CONA6 en 63 filas, todas de sus palancas
+OK     C-CCOFFANOSECO: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C-CCOFFANOSECO: pisos de actividad bajo sus techos
+OK     C-IMP0: trae las 32 palancas de su composición (A,B,C,IMP0,RESP)
+ERROR  C-IMP0: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     C-IMP0: SmartGrid copia las 4 filas de CONA6
+OK     C-IMP0: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-IMP0: el datafile difiere de CONA6 en 32 filas, todas de sus palancas
+OK     C-IMP0: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C-IMP0: pisos de actividad bajo sus techos
+OK     C-ACT: trae las 69 palancas de su composición (A,B,C,ACTH,IMPACT,DEMACT_C,RESP)
+ERROR  C-ACT: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     C-ACT: SmartGrid copia las 4 filas de CONA6
+OK     C-ACT: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-ACT: el datafile difiere de CONA6 en 68 filas, todas de sus palancas
+OK     C-ACT: historia 2010-2025 igual a CONA6 salvo 15 filas permitidas (máx. 5e-05)
+OK     C-ACT: pisos de actividad bajo sus techos
+OK     C-ACTDEM: trae las 69 palancas de su composición (A,B,C,ACTH,IMPACT,DEMACTDEM_C,RESP)
+ERROR  C-ACTDEM: Electrical copia las 5 filas de CONA6 que sus palancas no reemplazan
+OK     C-ACTDEM: SmartGrid copia las 4 filas de CONA6
+OK     C-ACTDEM: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-ACTDEM: el datafile difiere de CONA6 en 68 filas, todas de sus palancas
+OK     C-ACTDEM: historia 2010-2025 igual a CONA6 salvo 15 filas permitidas (máx. 5e-05)
+OK     C-ACTDEM: pisos de actividad bajo sus techos
+OK     C-GAS: trae las 26 palancas de su composición (A,B,C)
+ERROR  C-GAS: Electrical copia las 7 filas de CONA6G que sus palancas no reemplazan
+OK     C-GAS: SmartGrid copia las 4 filas de CONA6G
+OK     C-GAS: Efficiency copia las 0 filas de CONA6G que sus palancas no reemplazan
+OK     C-GAS: el datafile difiere de CONA6G en 26 filas, todas de sus palancas
+OK     C-GAS: historia 2010-2025 igual a CONA6G salvo 12 filas permitidas (máx. 5e-05)
+OK     C-GAS: pisos de actividad bajo sus techos
+OK     A-V7: trae las 7 palancas de su composición (A_V7)
+ERROR  A-V7: Electrical copia las 9 filas de CONA6 que sus palancas no reemplazan
+OK     A-V7: SmartGrid copia las 4 filas de CONA6
+OK     A-V7: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     A-V7: el datafile difiere de CONA6 en 7 filas, todas de sus palancas
+OK     A-V7: historia 2010-2025 igual a CONA6
+OK     A-V7: pisos de actividad bajo sus techos
+OK     B-V7: trae las 11 palancas de su composición (A_V7,B_V7)
+ERROR  B-V7: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     B-V7: SmartGrid copia las 4 filas de CONA6
+OK     B-V7: Efficiency copia las 3 filas de CONA6 que sus palancas no reemplazan
+OK     B-V7: el datafile difiere de CONA6 en 11 filas, todas de sus palancas
+OK     B-V7: historia 2010-2025 igual a CONA6
+OK     B-V7: pisos de actividad bajo sus techos
+OK     C-V7: trae las 26 palancas de su composición (A_V7,B_V7,C_V7)
+ERROR  C-V7: Electrical copia las 7 filas de CONA6 que sus palancas no reemplazan
+OK     C-V7: SmartGrid copia las 4 filas de CONA6
+OK     C-V7: Efficiency copia las 0 filas de CONA6 que sus palancas no reemplazan
+OK     C-V7: el datafile difiere de CONA6 en 26 filas, todas de sus palancas
+OK     C-V7: historia 2010-2025 igual a CONA6 salvo 12 filas permitidas (máx. 5e-05)
+OK     C-V7: pisos de actividad bajo sus techos
+OK     palanca A1: misma definición en sus 13 escenarios
+OK     palanca A1: misma fila en el datafile de sus 13 escenarios
+OK     palanca A1-V7: misma definición en sus 1 escenarios
+OK     palanca A1-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca A3: misma definición en sus 13 escenarios
+OK     palanca A3: misma fila en el datafile de sus 13 escenarios
+OK     palanca A3-V7: misma definición en sus 1 escenarios
+OK     palanca A3-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca A5: misma definición en sus 38 escenarios
+OK     palanca A5: misma fila en el datafile de sus 38 escenarios
+OK     palanca A5-V7: misma definición en sus 3 escenarios
+OK     palanca A5-V7: misma fila en el datafile de sus 3 escenarios
+OK     palanca A6-V7: misma definición en sus 3 escenarios
+OK     palanca A6-V7: misma fila en el datafile de sus 3 escenarios
+OK     palanca A7: misma definición en sus 38 escenarios
+OK     palanca A7: misma fila en el datafile de sus 38 escenarios
+OK     palanca A7-V7: misma definición en sus 3 escenarios
+OK     palanca A7-V7: misma fila en el datafile de sus 3 escenarios
+OK     palanca A8: misma definición en sus 26 escenarios
+OK     palanca A8: misma fila en el datafile de sus 26 escenarios
+OK     palanca A8-V7: misma definición en sus 2 escenarios
+OK     palanca A8-V7: misma fila en el datafile de sus 2 escenarios
+OK     palanca A9: misma definición en sus 26 escenarios
+OK     palanca A9: misma fila en el datafile de sus 26 escenarios
+OK     palanca A9-V7: misma definición en sus 2 escenarios
+OK     palanca A9-V7: misma fila en el datafile de sus 2 escenarios
+OK     palanca B10: misma definición en sus 25 escenarios
+OK     palanca B10: misma fila en el datafile de sus 25 escenarios
+OK     palanca B2: misma definición en sus 25 escenarios
+OK     palanca B2: misma fila en el datafile de sus 25 escenarios
+OK     palanca B2-V7: misma definición en sus 2 escenarios
+OK     palanca B2-V7: misma fila en el datafile de sus 2 escenarios
+OK     palanca B4: misma definición en sus 25 escenarios
+OK     palanca B4: misma fila en el datafile de sus 25 escenarios
+OK     palanca B4-V7: misma definición en sus 2 escenarios
+OK     palanca B4-V7: misma fila en el datafile de sus 2 escenarios
+OK     palanca B6: misma definición en sus 25 escenarios
+OK     palanca B6: misma fila en el datafile de sus 25 escenarios
+OK     palanca B6-V7: misma definición en sus 2 escenarios
+OK     palanca B6-V7: misma fila en el datafile de sus 2 escenarios
+OK     palanca B7: misma definición en sus 25 escenarios
+OK     palanca B7: misma fila en el datafile de sus 25 escenarios
+OK     palanca B7-V7: misma definición en sus 2 escenarios
+OK     palanca B7-V7: misma fila en el datafile de sus 2 escenarios
+OK     palanca B8: misma definición en sus 25 escenarios
+OK     palanca B8: misma fila en el datafile de sus 25 escenarios
+OK     palanca B8-V7: misma definición en sus 2 escenarios
+OK     palanca B8-V7: misma fila en el datafile de sus 2 escenarios
+OK     palanca B9: misma definición en sus 25 escenarios
+OK     palanca B9: misma fila en el datafile de sus 25 escenarios
+OK     palanca B9-V7: misma definición en sus 2 escenarios
+OK     palanca B9-V7: misma fila en el datafile de sus 2 escenarios
+OK     palanca C-EI1: misma definición en sus 12 escenarios
+OK     palanca C-EI1: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI1-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI1-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI10: misma definición en sus 12 escenarios
+OK     palanca C-EI10: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI10-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI10-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI11: misma definición en sus 12 escenarios
+OK     palanca C-EI11: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI11-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI11-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI12: misma definición en sus 12 escenarios
+OK     palanca C-EI12: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI12-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI12-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI2: misma definición en sus 12 escenarios
+OK     palanca C-EI2: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI2-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI2-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI3: misma definición en sus 12 escenarios
+OK     palanca C-EI3: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI3-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI3-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI4: misma definición en sus 12 escenarios
+OK     palanca C-EI4: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI4-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI4-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI5: misma definición en sus 10 escenarios
+OK     palanca C-EI5: misma fila en el datafile de sus 10 escenarios
+OK     palanca C-EI5-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI5-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI6: misma definición en sus 12 escenarios
+OK     palanca C-EI6: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI6-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI6-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI7: misma definición en sus 12 escenarios
+OK     palanca C-EI7: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI7-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI7-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI8: misma definición en sus 12 escenarios
+OK     palanca C-EI8: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI8-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI8-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EI9: misma definición en sus 12 escenarios
+OK     palanca C-EI9: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EI9-V7: misma definición en sus 1 escenarios
+OK     palanca C-EI9-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EM1: misma definición en sus 12 escenarios
+OK     palanca C-EM1: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EM1-V7: misma definición en sus 1 escenarios
+OK     palanca C-EM1-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EM2: misma definición en sus 12 escenarios
+OK     palanca C-EM2: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-EM2-V7: misma definición en sus 1 escenarios
+OK     palanca C-EM2-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-EM3: misma definición en sus 10 escenarios
+OK     palanca C-EM3: misma fila en el datafile de sus 10 escenarios
+OK     palanca C-EM3-V7: misma definición en sus 1 escenarios
+OK     palanca C-EM3-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-GEO1: misma definición en sus 12 escenarios
+OK     palanca C-GEO1: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-GEO1-V7: misma definición en sus 1 escenarios
+OK     palanca C-GEO1-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca C-GEO2: misma definición en sus 12 escenarios
+OK     palanca C-GEO2: misma fila en el datafile de sus 12 escenarios
+OK     palanca C-GEO2-V7: misma definición en sus 1 escenarios
+OK     palanca C-GEO2-V7: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-A1: misma definición en sus 2 escenarios
+OK     palanca D-A1: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-A2: misma definición en sus 2 escenarios
+OK     palanca D-A2: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-A3: misma definición en sus 2 escenarios
+OK     palanca D-A3: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-A4: misma definición en sus 2 escenarios
+OK     palanca D-A4: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-A5: misma definición en sus 2 escenarios
+OK     palanca D-A5: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-A6: misma definición en sus 2 escenarios
+OK     palanca D-A6: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-C1: misma definición en sus 1 escenarios
+OK     palanca D-C1: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-C2: misma definición en sus 1 escenarios
+OK     palanca D-C2: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-C3: misma definición en sus 1 escenarios
+OK     palanca D-C3: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-C4: misma definición en sus 1 escenarios
+OK     palanca D-C4: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-C5: misma definición en sus 1 escenarios
+OK     palanca D-C5: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-C6: misma definición en sus 1 escenarios
+OK     palanca D-C6: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-P1: misma definición en sus 2 escenarios
+OK     palanca D-P1: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-P2: misma definición en sus 2 escenarios
+OK     palanca D-P2: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-P3: misma definición en sus 2 escenarios
+OK     palanca D-P3: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-P4: misma definición en sus 2 escenarios
+OK     palanca D-P4: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-P5: misma definición en sus 2 escenarios
+OK     palanca D-P5: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-P6: misma definición en sus 2 escenarios
+OK     palanca D-P6: misma fila en el datafile de sus 2 escenarios
+OK     palanca D-Q1: misma definición en sus 1 escenarios
+OK     palanca D-Q1: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-Q2: misma definición en sus 1 escenarios
+OK     palanca D-Q2: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-Q3: misma definición en sus 1 escenarios
+OK     palanca D-Q3: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-Q4: misma definición en sus 1 escenarios
+OK     palanca D-Q4: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-Q5: misma definición en sus 1 escenarios
+OK     palanca D-Q5: misma fila en el datafile de sus 1 escenarios
+OK     palanca D-Q6: misma definición en sus 1 escenarios
+OK     palanca D-Q6: misma fila en el datafile de sus 1 escenarios
+OK     palanca I1: misma definición en sus 4 escenarios
+OK     palanca I1: misma fila en el datafile de sus 4 escenarios
+OK     palanca I2: misma definición en sus 4 escenarios
+OK     palanca I2: misma fila en el datafile de sus 4 escenarios
+OK     palanca I3: misma definición en sus 6 escenarios
+OK     palanca I3: misma fila en el datafile de sus 6 escenarios
+OK     palanca I4: misma definición en sus 6 escenarios
+OK     palanca I4: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-A301: misma definición en sus 3 escenarios
+OK     palanca R-A301: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A302: misma definición en sus 3 escenarios
+OK     palanca R-A302: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A303: misma definición en sus 3 escenarios
+OK     palanca R-A303: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A304: misma definición en sus 3 escenarios
+OK     palanca R-A304: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A305: misma definición en sus 3 escenarios
+OK     palanca R-A305: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A306: misma definición en sus 3 escenarios
+OK     palanca R-A306: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A307: misma definición en sus 3 escenarios
+OK     palanca R-A307: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A308: misma definición en sus 3 escenarios
+OK     palanca R-A308: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A309: misma definición en sus 3 escenarios
+OK     palanca R-A309: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A310: misma definición en sus 3 escenarios
+OK     palanca R-A310: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A311: misma definición en sus 3 escenarios
+OK     palanca R-A311: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A312: misma definición en sus 3 escenarios
+OK     palanca R-A312: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A313: misma definición en sus 3 escenarios
+OK     palanca R-A313: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A314: misma definición en sus 3 escenarios
+OK     palanca R-A314: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A315: misma definición en sus 3 escenarios
+OK     palanca R-A315: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A316: misma definición en sus 3 escenarios
+OK     palanca R-A316: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A317: misma definición en sus 3 escenarios
+OK     palanca R-A317: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A318: misma definición en sus 3 escenarios
+OK     palanca R-A318: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A319: misma definición en sus 3 escenarios
+OK     palanca R-A319: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A320: misma definición en sus 3 escenarios
+OK     palanca R-A320: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A321: misma definición en sus 3 escenarios
+OK     palanca R-A321: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A322: misma definición en sus 3 escenarios
+OK     palanca R-A322: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A323: misma definición en sus 3 escenarios
+OK     palanca R-A323: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A324: misma definición en sus 3 escenarios
+OK     palanca R-A324: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A325: misma definición en sus 3 escenarios
+OK     palanca R-A325: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A326: misma definición en sus 3 escenarios
+OK     palanca R-A326: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A327: misma definición en sus 3 escenarios
+OK     palanca R-A327: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A328: misma definición en sus 3 escenarios
+OK     palanca R-A328: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A329: misma definición en sus 3 escenarios
+OK     palanca R-A329: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A330: misma definición en sus 3 escenarios
+OK     palanca R-A330: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A331: misma definición en sus 3 escenarios
+OK     palanca R-A331: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A332: misma definición en sus 3 escenarios
+OK     palanca R-A332: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-A333: misma definición en sus 3 escenarios
+OK     palanca R-A333: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM01: misma definición en sus 3 escenarios
+OK     palanca R-AM01: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM02: misma definición en sus 3 escenarios
+OK     palanca R-AM02: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM03: misma definición en sus 3 escenarios
+OK     palanca R-AM03: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM04: misma definición en sus 3 escenarios
+OK     palanca R-AM04: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM05: misma definición en sus 3 escenarios
+OK     palanca R-AM05: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM06: misma definición en sus 3 escenarios
+OK     palanca R-AM06: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM07: misma definición en sus 3 escenarios
+OK     palanca R-AM07: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM08: misma definición en sus 3 escenarios
+OK     palanca R-AM08: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM09: misma definición en sus 3 escenarios
+OK     palanca R-AM09: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM10: misma definición en sus 3 escenarios
+OK     palanca R-AM10: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM11: misma definición en sus 3 escenarios
+OK     palanca R-AM11: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM12: misma definición en sus 3 escenarios
+OK     palanca R-AM12: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM13: misma definición en sus 3 escenarios
+OK     palanca R-AM13: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM14: misma definición en sus 3 escenarios
+OK     palanca R-AM14: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM15: misma definición en sus 3 escenarios
+OK     palanca R-AM15: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM16: misma definición en sus 3 escenarios
+OK     palanca R-AM16: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM17: misma definición en sus 3 escenarios
+OK     palanca R-AM17: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM18: misma definición en sus 3 escenarios
+OK     palanca R-AM18: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM19: misma definición en sus 3 escenarios
+OK     palanca R-AM19: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM20: misma definición en sus 3 escenarios
+OK     palanca R-AM20: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM21: misma definición en sus 3 escenarios
+OK     palanca R-AM21: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM22: misma definición en sus 3 escenarios
+OK     palanca R-AM22: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM23: misma definición en sus 3 escenarios
+OK     palanca R-AM23: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM24: misma definición en sus 3 escenarios
+OK     palanca R-AM24: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM25: misma definición en sus 3 escenarios
+OK     palanca R-AM25: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM26: misma definición en sus 3 escenarios
+OK     palanca R-AM26: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM27: misma definición en sus 3 escenarios
+OK     palanca R-AM27: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM28: misma definición en sus 3 escenarios
+OK     palanca R-AM28: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM29: misma definición en sus 3 escenarios
+OK     palanca R-AM29: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM30: misma definición en sus 3 escenarios
+OK     palanca R-AM30: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM31: misma definición en sus 3 escenarios
+OK     palanca R-AM31: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM32: misma definición en sus 3 escenarios
+OK     palanca R-AM32: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AM33: misma definición en sus 3 escenarios
+OK     palanca R-AM33: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AS01: misma definición en sus 6 escenarios
+OK     palanca R-AS01: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS02: misma definición en sus 6 escenarios
+OK     palanca R-AS02: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS03: misma definición en sus 6 escenarios
+OK     palanca R-AS03: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS04: misma definición en sus 6 escenarios
+OK     palanca R-AS04: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS05: misma definición en sus 6 escenarios
+OK     palanca R-AS05: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS06: misma definición en sus 6 escenarios
+OK     palanca R-AS06: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS07: misma definición en sus 3 escenarios
+OK     palanca R-AS07: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AS08: misma definición en sus 6 escenarios
+OK     palanca R-AS08: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS09: misma definición en sus 6 escenarios
+OK     palanca R-AS09: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS10: misma definición en sus 6 escenarios
+OK     palanca R-AS10: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS11: misma definición en sus 6 escenarios
+OK     palanca R-AS11: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS12: misma definición en sus 6 escenarios
+OK     palanca R-AS12: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS13: misma definición en sus 6 escenarios
+OK     palanca R-AS13: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS14: misma definición en sus 6 escenarios
+OK     palanca R-AS14: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS15: misma definición en sus 6 escenarios
+OK     palanca R-AS15: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS16: misma definición en sus 6 escenarios
+OK     palanca R-AS16: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS17: misma definición en sus 6 escenarios
+OK     palanca R-AS17: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS18: misma definición en sus 3 escenarios
+OK     palanca R-AS18: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AS19: misma definición en sus 6 escenarios
+OK     palanca R-AS19: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS20: misma definición en sus 6 escenarios
+OK     palanca R-AS20: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS21: misma definición en sus 6 escenarios
+OK     palanca R-AS21: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS22: misma definición en sus 6 escenarios
+OK     palanca R-AS22: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS23: misma definición en sus 6 escenarios
+OK     palanca R-AS23: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS24: misma definición en sus 6 escenarios
+OK     palanca R-AS24: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS25: misma definición en sus 6 escenarios
+OK     palanca R-AS25: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS26: misma definición en sus 6 escenarios
+OK     palanca R-AS26: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS27: misma definición en sus 6 escenarios
+OK     palanca R-AS27: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS28: misma definición en sus 6 escenarios
+OK     palanca R-AS28: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS29: misma definición en sus 3 escenarios
+OK     palanca R-AS29: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-AS30: misma definición en sus 6 escenarios
+OK     palanca R-AS30: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS31: misma definición en sus 6 escenarios
+OK     palanca R-AS31: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS32: misma definición en sus 6 escenarios
+OK     palanca R-AS32: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AS33: misma definición en sus 6 escenarios
+OK     palanca R-AS33: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT01: misma definición en sus 6 escenarios
+OK     palanca R-AT01: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT02: misma definición en sus 6 escenarios
+OK     palanca R-AT02: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT03: misma definición en sus 6 escenarios
+OK     palanca R-AT03: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT04: misma definición en sus 6 escenarios
+OK     palanca R-AT04: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT05: misma definición en sus 6 escenarios
+OK     palanca R-AT05: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT06: misma definición en sus 6 escenarios
+OK     palanca R-AT06: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT07: misma definición en sus 6 escenarios
+OK     palanca R-AT07: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT08: misma definición en sus 6 escenarios
+OK     palanca R-AT08: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT09: misma definición en sus 6 escenarios
+OK     palanca R-AT09: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT10: misma definición en sus 6 escenarios
+OK     palanca R-AT10: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT11: misma definición en sus 6 escenarios
+OK     palanca R-AT11: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT12: misma definición en sus 6 escenarios
+OK     palanca R-AT12: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT13: misma definición en sus 6 escenarios
+OK     palanca R-AT13: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT14: misma definición en sus 6 escenarios
+OK     palanca R-AT14: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT15: misma definición en sus 6 escenarios
+OK     palanca R-AT15: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT16: misma definición en sus 6 escenarios
+OK     palanca R-AT16: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT17: misma definición en sus 6 escenarios
+OK     palanca R-AT17: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT18: misma definición en sus 6 escenarios
+OK     palanca R-AT18: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT19: misma definición en sus 6 escenarios
+OK     palanca R-AT19: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT20: misma definición en sus 6 escenarios
+OK     palanca R-AT20: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT21: misma definición en sus 6 escenarios
+OK     palanca R-AT21: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT22: misma definición en sus 6 escenarios
+OK     palanca R-AT22: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT23: misma definición en sus 6 escenarios
+OK     palanca R-AT23: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT24: misma definición en sus 6 escenarios
+OK     palanca R-AT24: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT25: misma definición en sus 6 escenarios
+OK     palanca R-AT25: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT26: misma definición en sus 6 escenarios
+OK     palanca R-AT26: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT27: misma definición en sus 6 escenarios
+OK     palanca R-AT27: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT28: misma definición en sus 6 escenarios
+OK     palanca R-AT28: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT29: misma definición en sus 6 escenarios
+OK     palanca R-AT29: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT30: misma definición en sus 6 escenarios
+OK     palanca R-AT30: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT31: misma definición en sus 6 escenarios
+OK     palanca R-AT31: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT32: misma definición en sus 6 escenarios
+OK     palanca R-AT32: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-AT33: misma definición en sus 6 escenarios
+OK     palanca R-AT33: misma fila en el datafile de sus 6 escenarios
+OK     palanca R-CA01: misma definición en sus 3 escenarios
+OK     palanca R-CA01: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CA02: misma definición en sus 3 escenarios
+OK     palanca R-CA02: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CA03: misma definición en sus 3 escenarios
+OK     palanca R-CA03: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CC01: misma definición en sus 3 escenarios
+OK     palanca R-CC01: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CC02: misma definición en sus 3 escenarios
+OK     palanca R-CC02: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CC03: misma definición en sus 3 escenarios
+OK     palanca R-CC03: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CD01: misma definición en sus 3 escenarios
+OK     palanca R-CD01: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CD02: misma definición en sus 3 escenarios
+OK     palanca R-CD02: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CD03: misma definición en sus 3 escenarios
+OK     palanca R-CD03: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CS01: misma definición en sus 3 escenarios
+OK     palanca R-CS01: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CS02: misma definición en sus 3 escenarios
+OK     palanca R-CS02: misma fila en el datafile de sus 3 escenarios
+OK     palanca R-CS03: misma definición en sus 3 escenarios
+OK     palanca R-CS03: misma fila en el datafile de sus 3 escenarios
+OK     palanca RE1: misma definición en sus 30 escenarios
+OK     palanca RE1: misma fila en el datafile de sus 30 escenarios
+OK     palanca RE2: misma definición en sus 30 escenarios
+OK     palanca RE2: misma fila en el datafile de sus 30 escenarios
+OK     palanca RE3: misma definición en sus 30 escenarios
+OK     palanca RE3: misma fila en el datafile de sus 30 escenarios
+OK     palanca RE4: misma definición en sus 30 escenarios
+OK     palanca RE4: misma fila en el datafile de sus 30 escenarios
+OK     palanca S1: misma definición en sus 3 escenarios
+OK     palanca S1: misma fila en el datafile de sus 3 escenarios
+OK     palanca S2: misma definición en sus 3 escenarios
+OK     palanca S2: misma fila en el datafile de sus 3 escenarios
+OK     palanca S3: misma definición en sus 3 escenarios
+OK     palanca S3: misma fila en el datafile de sus 3 escenarios
+OK     palanca SIN1: misma definición en sus 1 escenarios
+OK     palanca SIN1: misma fila en el datafile de sus 1 escenarios
+OK     palanca SIN2: misma definición en sus 1 escenarios
+OK     palanca SIN2: misma fila en el datafile de sus 1 escenarios
+OK     palanca SIN4: misma definición en sus 1 escenarios
+OK     palanca SIN4: misma fila en el datafile de sus 1 escenarios
+OK     palanca SIN5: misma definición en sus 1 escenarios
+OK     palanca SIN5: misma fila en el datafile de sus 1 escenarios
+OK     palanca SIN6: misma definición en sus 1 escenarios
+OK     palanca SIN6: misma fila en el datafile de sus 1 escenarios
+OK     palanca SIN7: misma definición en sus 1 escenarios
+OK     palanca SIN7: misma fila en el datafile de sus 1 escenarios
+OK     palanca SIN8: misma definición en sus 1 escenarios
+OK     palanca SIN8: misma fila en el datafile de sus 1 escenarios
+OK     palanca SIN9: misma definición en sus 1 escenarios
+OK     palanca SIN9: misma fila en el datafile de sus 1 escenarios
+OK     A-ANOSECO: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     A-ANOSEC3: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     A-ANOSECM: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     A-CCOFFANOSECO: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     A-ACT: cada clase hidroeléctrica es la de CONA6 por su factor de 2026 (Art6_ACT2026) y su razón de Art6_AnoSeco en 2029, 2032 y 2035
+OK     A-ACTDEM: cada clase hidroeléctrica es la de CONA6 por su factor de 2026 (Art6_ACT2026) y su razón de Art6_AnoSeco en 2029, 2032 y 2035
+OK     B-ANOSECO: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     B-ANOSEC3: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     B-ANOSECM: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     B-CCOFFANOSECO: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     B-ACT: cada clase hidroeléctrica es la de CONA6 por su factor de 2026 (Art6_ACT2026) y su razón de Art6_AnoSeco en 2029, 2032 y 2035
+OK     B-ACTDEM: cada clase hidroeléctrica es la de CONA6 por su factor de 2026 (Art6_ACT2026) y su razón de Art6_AnoSeco en 2029, 2032 y 2035
+OK     C-ANOSECO: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     C-ANOSEC3: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     C-ANOSECM: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     C-CCOFFANOSECO: cada clase hidroeléctrica es la de CONA6 por su razón de Art6_AnoSeco en los años del estado
+OK     C-ACT: cada clase hidroeléctrica es la de CONA6 por su factor de 2026 (Art6_ACT2026) y su razón de Art6_AnoSeco en 2029, 2032 y 2035
+OK     C-ACTDEM: cada clase hidroeléctrica es la de CONA6 por su factor de 2026 (Art6_ACT2026) y su razón de Art6_AnoSeco en 2029, 2032 y 2035
+
+Resultado: 44 errores
+
+Contabilidad del Artículo 6 con las decisiones del 13-10-2026 (después del análisis)
+OK     líneas en reserva (EN32) fuera de las condicionadas declaradas de la oferta
+OK     oferta central 11674.4 kt = suma de sus bloques (11674.4); la línea en reserva va en columna aparte (925.0 kt)
+OK     niveles rotulados por caso (central, con pisos del Modelo CLG, sensibilidad sin gas de la capa 1, que no es nivel de oferta)
+OK     oferta central: con EN32 (12599.4) menos sin EN32 (11674.4) = 925.0 kt declarados
+OK     oferta con_pisos_CLG_12_10: con EN32 (10371.9) menos sin EN32 (9446.9) = 925.0 kt declarados
+OK     oferta sensibilidad_sin_gas_capa_1: con EN32 (14765.8) menos sin EN32 (13840.8) = 925.0 kt declarados
+OK     la oferta central de oferta_tres_niveles.csv es la de potencial_articulo6.csv
+OK     autorizado = min(oferta, max(0, margen CLG prudente del C intacto)) en cada año: 11674.4 kt
+OK     sobreventa_por_riesgo.csv usa ese autorizado en las 44 filas (dos proyecciones y dos reglas)
+OK     oferta de toda_con_EN32 recalculada desde emisiones_energia_kt.csv y Art6_Adicionalidad: 12599.4 kt (diferencia máxima 0.07 kt por redondeo)
+OK     oferta de sin_EN32 recalculada desde emisiones_energia_kt.csv y Art6_Adicionalidad: 11674.4 kt (diferencia máxima 0.07 kt por redondeo)
+OK     oferta de lista_blanca recalculada desde emisiones_energia_kt.csv y Art6_Adicionalidad: 3072.2 kt (diferencia máxima 0.06 kt por redondeo)
+OK     oferta de solo_firme recalculada desde emisiones_energia_kt.csv y Art6_Adicionalidad: 384.8 kt (diferencia máxima 0.01 kt por redondeo)
+OK     subconjuntos anidados en cada año: solo_firme ⊂ lista_blanca ⊂ sin_EN32 ⊂ toda_con_EN32
+OK     sobreventa recalculada desde headroom_proyecciones.csv en 352 filas (regla anual y método de promedio con ajuste de 2035 = autorizado / 10)
+OK     la sobreventa no crece al pasar a un subconjunto menor
+OK     la matriz trae los dos métodos, las cuatro lecturas y los 4 subconjuntos
+OK     redondeo: sobreventa <= autorizado <= oferta en las 352 filas de la matriz y en las tablas de sobreventa por riesgo; autorizado central único (11674.4 kt)
+OK     reserva por añada: autorizable = min(oferta, max(0, margen CLG prudente)) y reserva = oferta - autorizable en 220 filas
+OK     reserva por añada: lo autorizable 2031-2035 de cada estado es su transferible sin incumplir (potencial_articulo6.csv) en 11 estados
+OK     ACT, ACTDEM y CCSOLO marcados como estados de referencia de la reserva
+OK     autorizable ex post = min(reducción del estado, max(0, margen), oferta de la añada) y sin tope = min(reducción, max(0, margen)) en 660 filas
+OK     el autorizable ex post central nunca supera la oferta de su añada
+OK     con el sistema intacto lo autorizable ex post es lo autorizado ex ante
+OK     capa del C en cada estado = emisiones del escalón previo menos las del C en el mismo estado
+OK     cifras_finales_producto3.json: 1304 cifras con valor, unidad, archivo, escenario y md5
+OK     cada md5 de las cifras es el del _Output.csv vigente (50 escenarios)
+OK     oferta con pisos del Modelo CLG: 2 cifras citan Energy/Art6_calibracion/sensibilidad_pisos_CLG_2026-10-12/Executables y el md5 de cada _Output.csv coincide (CONA6 331e5665, A bcf834b7, B 9f7b4fd6, C 3f9370de)
+OK     los 18 archivos citados en «archivo» existen (rutas relativas a B2_Output_Art6)
+OK     cifras_finales_producto3.json trae los temas pedidos
+OK     rango del gas: puentes de la base recalculados desde emisiones_energia_kt.csv
+OK     respaldo: ENS = R x eta_T x eta_D (eficiencias del datafile) y horas 24 x ENS / D, 8.760 x ENS / D y 48 x ENS / D recalculadas en 310 filas
+OK     respaldo: la fórmula anterior (24 x R / D) excede a la corregida en 1 / (eta_T x eta_D) en 47 años con al menos 0,5 h de corte equivalente
+OK     respaldo: la demanda D de las horas es todo el uso final de E3ELE del _Output.csv (E5*ELE más T4ELE_HEA) en 310 filas
+OK     ACT y ACT-DEM: demanda eléctrica de 2026 con el crecimiento observado (12.72 % en A y B) e importación de 2026 igual a la anterior al 07-09-2026 (267.1 GWh) en 6 escenarios
+OK     ACT: participación térmica del modelo = térmica / (hidro + térmica + ERNC + importación) en 21 filas y observada con el mismo perímetro: 14.55 % en 2025 y 20.50 % en enero a agosto de 2026 (sin importación, 14.82 % y 20.68 %, solo trazabilidad)
+OK     el archivo de cifras corresponde a resultados_art6.json 02640034
+
+Resultado de la contabilidad: 0 errores
