@@ -150,7 +150,7 @@ color:var(--acento-fuerte)}
 .meta{margin:0 0 1rem;color:var(--tinta-2);font-size:.9375rem}
 .pregunta{margin:0;max-width:72ch;font-size:1.0625rem}
 .marco{max-width:1360px;margin:0 auto;padding:1.5rem;display:grid;grid-template-columns:15rem minmax(0,1fr);gap:2rem}
-.indice{position:sticky;top:1.5rem;align-self:start;font-size:.9375rem}
+.indice{position:sticky;top:1.5rem;align-self:start;font-size:.9375rem;max-height:calc(100vh - 3rem);overflow-y:auto;overscroll-behavior:contain}
 .indice summary{font-size:.875rem;font-weight:600;color:var(--tinta-2);margin:0 0 .5rem;cursor:pointer;
 min-height:2.75rem;display:flex;align-items:center;list-style:none}
 .indice summary::-webkit-details-marker{display:none}
@@ -190,7 +190,7 @@ tbody tr:hover{background:var(--fondo)}
 .pie p{max-width:90ch;margin:.25rem 0}
 @media (max-width:960px){
 .marco{grid-template-columns:1fr;padding:1rem}
-.indice{position:static;background:var(--papel);border:1px solid var(--linea);border-radius:6px;padding:.75rem 1rem}
+.indice{position:static;max-height:none;overflow:visible;background:var(--papel);border:1px solid var(--linea);border-radius:6px;padding:.75rem 1rem}
 .indice ol{columns:2;column-gap:1.5rem}
 .cabecera{padding:1.5rem 1rem}
 h1{font-size:1.5rem}
