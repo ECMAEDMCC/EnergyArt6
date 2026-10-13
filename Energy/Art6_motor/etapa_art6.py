@@ -476,8 +476,6 @@ def posterior():
     import tablero
     tablero.exportar(F, L)
     exportar_docs(F, L)
-    import docs_github
-    docs_github.exportar()
     ejecutar_cuaderno()
     construir_docs()
     print("  etapa de Artículo 6 en %.0f s" % (time.time() - t0))

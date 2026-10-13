@@ -39,3 +39,4 @@ Energy/Art6_calibracion/participacion_pphrorab_2025.csv
 # documentos fuente locales (PDF de CENACE, ARCONEL, MAE y XM), en Energy/Fuentes: se citan, no se distribuyen.
 # La ruta va completa porque git en Windows no distingue mayúsculas y Energy/Art6_motor/fuentes (tipografía) sí va.
 /Energy/Fuentes/
+Energy/B2_Output_Art6/graficas/

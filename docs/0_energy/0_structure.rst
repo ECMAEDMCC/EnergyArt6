@@ -152,7 +152,7 @@ La carpeta ``Energy`` conserva la estructura de la cadena del Modelo CLG (reposi
    ├── B2_Output_Art6/                     resultados de B3: tablas, gráficas, tablero, cifras y verificación
    ├── B3_Visualizador_Art6.ipynb          gráficas interactivas para la decisión
    ├── Art6_motor/                         código de la etapa de Artículo 6 y scripts de la corrida
-   ├── Art6_calibracion/                   calibración propia, generador de escenarios y registro (LEEME.md)
+   ├── Art6_calibracion/                   calibración propia y generador de escenarios
    ├── Insumos_Art6/                       agregación nacional, energía por escenario y datos del Modelo CLG, iniciativas e INGEI
    ├── tests/                              validación del libro, no regresión y base congelada
    ├── registros/                          registro de cada corrida de ejecutar_modelo.bat (no se versiona)

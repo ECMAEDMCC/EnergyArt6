@@ -40,8 +40,7 @@ Cambios del Consultor para el PNUD (2026)
    congelada de las referencias corregidas y diferencias explicadas entre cada referencia y su escenario de origen.
 6. Herramientas de corrida. ejecutar_modelo.bat, los scripts de corrida de Energy/Art6_motor
    (correr_con_registro.py, seleccionar_escenarios.py y cifras_principales.py), environment.yml y requirements.txt.
-7. Documentación en docs/ (Sphinx con el tema de Read the Docs, publicada en GitHub Pages, y versión en
-   Markdown para GitHub).
+7. Documentación en docs/ (Sphinx, publicada en GitHub Pages).
 8. Datos de la capa CENTRALES de ARCONEL (uso autorizado). El repositorio no lleva filas por central: el modelo lee
    los parámetros agregados por clase de Energy/Art6_calibracion/parametros_hidro_por_clase.csv.
 

@@ -125,7 +125,7 @@ potencia. Ese respaldo se informa en MW equivalentes y en horas de corte equival
 | `Energy/Executables/<ESC>_0/` | Datafile, entradas y salidas de cada escenario, versionados para comprobar las cifras sin correr el modelo |
 | `Energy/Insumos_Art6/` | Insumos del análisis. `Emisiones Totales.xlsx`, `ECUOutput_Energy.csv` y `Energy.xlsx` son copias sin cambios de `PowerBI/` y `Data/` del Modelo CLG (agregación nacional, energía por escenario y datos de la calibración) |
 | `Energy/registros/` | Registro de cada corrida de `ejecutar_modelo.bat`, fuera del control de versiones |
-| `docs/` | Documentación Sphinx publicada en GitHub Pages y su versión en Markdown para GitHub (`docs/github`) |
+| `docs/` | Documentación Sphinx publicada en GitHub Pages |
 | `ejecutar_modelo.bat`, `environment.yml`, `requirements.txt` | Ejecución de la cadena, entorno y dependencias |
 | `LICENSE`, `NOTICE` | Licencia Apache 2.0 y reconocimiento del modelo base con la lista de cambios |
 

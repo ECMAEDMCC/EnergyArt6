@@ -1,9 +1,0 @@
-combustible_INGEI,INGEI_1A1_CO2_kt,fuente_INGEI,BEN_2_28_x_factor_CO2_kt,CONA6_CO2_kt,CLG_NDCCON_CO2_kt,comparable,desvio_CONA6_pct,desvio_CLG_NDCCON_pct
-Fuelóleo residual,2500.38,MULTI2022|cat_principales_envio2|fila 7|col E,2047.53,2006.57,4192.02,"no: el INGEI 1A1 incluye la refinación (1A1b, 1.249 kt CO2-eq en 2022)",,
-Gas / Diesel Oil,1961.6,MULTI2022|cat_principales_envio2|fila 10|col E,1616.66,1584.32,1969.45,"no: el INGEI 1A1 incluye la refinación (1A1b, 1.249 kt CO2-eq en 2022)",,
-Petróleo crudo,1276.16,MULTI2022|cat_principales_envio2|fila 12|col E,1276.39,1301.49,872.78,sí,1.98,-31.61
-Gas Natural (seco),760.17,MULTI2022|cat_principales_envio2|fila 16|col E,760.12,744.92,540.99,sí,-2.01,-28.83
-Gas de refinería,219.88,MULTI2022|cat_principales_envio2|fila 24|col E,,,,no: combustible sin térmica en el modelo (refinación u otros),,
-Gasolina para motores,70.73,MULTI2022|cat_principales_envio2|fila 33|col E,,,,no: combustible sin térmica en el modelo (refinación u otros),,
-Gases licuados de petróleo,67.93,MULTI2022|cat_principales_envio2|fila 34|col E,31.9,31.26,79.94,"no: el INGEI 1A1 incluye la refinación (1A1b, 1.249 kt CO2-eq en 2022)",,
-Queroseno para motor de reacción,9.59,MULTI2022|cat_principales_envio2|fila 48|col E,,,,no: combustible sin térmica en el modelo (refinación u otros),,
