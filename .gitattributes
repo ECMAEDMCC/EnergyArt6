@@ -5,3 +5,8 @@
 *.woff2 binary
 *.dll binary
 *.exe binary
+
+# Salidas generadas y documentación: fuera de la barra de lenguajes de GitHub
+docs/** linguist-documentation
+Energy/B2_Output_Art6/** linguist-generated
+*.ipynb linguist-generated
