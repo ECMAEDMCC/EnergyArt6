@@ -1,0 +1,9 @@
+Palanca,Tecnología,Parámetro,2030,2035,Qué fija,Iniciativa,Adicionalidad,Fuente
+SIN1,PPWNDON,Actividad techo,0.736,0.736,"Contrafactual: techo eólico igual al potencial de la capacidad existente de CONA6 (66.35 MW), sin la capacidad nueva del condicional.",contrafactual,no aplica,regla de A1 sin inversión
+SIN2,PPPVT,Actividad techo,0.122,0.122,Contrafactual: techo solar igual al potencial de la capacidad existente de CONA6 sin el condicional (24.14 MW).,contrafactual,no aplica,regla de A3 sin inversión
+SIN4,PPWNDON,TotalAnnualMinCapacityInvestment,0.000,0.000,"Contrafactual: sin la inversión eólica del condicional (230,4 MW de 2026-2030 a cero).",contrafactual,no aplica,retiro de la inversión del condicional
+SIN5,PPPVT,TotalAnnualMinCapacityInvestment,0.000,0.000,Contrafactual: sin la inversión solar del condicional (700 MW de 2025-2034 a cero).,contrafactual,no aplica,retiro de la inversión del condicional
+SIN6,PPPVT,Actividad piso,0.120,0.120,"Contrafactual: piso solar igual a 0,98 por la generación de la capacidad existente (regla de K12c sin el incremento del condicional).",contrafactual,no aplica,regla de K12c
+SIN7,PPGEO,Actividad techo,0.000,0.000,Contrafactual: sin techo de generación geotérmica (cero).,contrafactual,no aplica,retiro de la geotermia del condicional
+SIN8,PPGEO,TotalAnnualMaxCapacity,0.000,0.000,Contrafactual: sin capacidad geotérmica (tope cero).,contrafactual,no aplica,retiro de la geotermia del condicional
+SIN9,PPGEO,TotalAnnualMinCapacityInvestment,0.000,0.000,Contrafactual: sin inversión geotérmica (cero).,contrafactual,no aplica,retiro de la geotermia del condicional

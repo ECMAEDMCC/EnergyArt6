@@ -1,0 +1,58 @@
+{
+ "INCA6_vs_NDCINC": {
+  "estrategia_en_salida": [
+   [
+    "INCA6"
+   ],
+   [
+    "NDCINC"
+   ]
+  ],
+  "AnnualTechnologyEmission_por_emision_anio": {
+   "claves": 390,
+   "diferencia_maxima": 0.0,
+   "claves_distintas": 0
+  },
+  "ProductionByTechnology_por_tecnologia_anio": {
+   "claves": 2756,
+   "diferencia_maxima": 0.0,
+   "claves_distintas": 0
+  },
+  "output_completo_igual": true,
+  "input_completo_igual": true,
+  "datafile_ordenado_igual": true,
+  "md5_output": {
+   "INCA6": "92c3f7c0e9e936c72138f841df81a3e4",
+   "NDCINC": "0aaf3d2727e93063cf969a51b6a08d50"
+  },
+  "estado": "IGUAL"
+ },
+ "CONA6_vs_NDCCON": {
+  "estrategia_en_salida": [
+   [
+    "CONA6"
+   ],
+   [
+    "NDCCON"
+   ]
+  ],
+  "AnnualTechnologyEmission_por_emision_anio": {
+   "claves": 390,
+   "diferencia_maxima": 0.0,
+   "claves_distintas": 0
+  },
+  "ProductionByTechnology_por_tecnologia_anio": {
+   "claves": 2782,
+   "diferencia_maxima": 0.0,
+   "claves_distintas": 0
+  },
+  "output_completo_igual": true,
+  "input_completo_igual": true,
+  "datafile_ordenado_igual": true,
+  "md5_output": {
+   "CONA6": "1d97b56ef63d562de0aac68f295d7840",
+   "NDCCON": "96cad593b20eea0ad6751f844b0f9c2c"
+  },
+  "estado": "IGUAL"
+ }
+}

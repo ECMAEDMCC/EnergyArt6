@@ -1,0 +1,18 @@
+Código,Gas,Componente,En las emisiones del sector energía
+CO2e_REF,CO2e,refinación,sí
+CO2e_PP,CO2e,generación eléctrica,sí
+CO2e_FUG,CO2e,fugitivas,sí
+CO2e_DE,CO2e,demanda final,sí
+CO2e_sources,CO2e,todas las fuentes,
+CO2_PP,CO2,generación eléctrica,
+CH4_PP,CH4,generación eléctrica,
+N2O_PP,N2O,generación eléctrica,
+CO2_DE,CO2,demanda final,
+CH4_DE,CH4,demanda final,
+N2O_DE,N2O,demanda final,
+CO2_FUG,CO2,fugitivas,
+CH4_FUG,CH4,fugitivas,
+N2O_FUG,N2O,fugitivas,
+CO2_REF,CO2,refinación,
+CH4_REF,CH4,refinación,
+N2O_REF,N2O,refinación,

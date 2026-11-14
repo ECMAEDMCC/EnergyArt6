@@ -1,0 +1,202 @@
+{
+ "origen": {
+  "archivo": "dashboard_demanda_art6_V8 (1).jsx",
+  "version": "V8",
+  "md5": "7e25958ad2478b737075d1f0de11ab67",
+  "fecha_archivo": "2026-10-13",
+  "fecha_extraccion": "2026-10-13",
+  "bloque": "SYN",
+  "capitulo": "Capítulo 4 · Síntesis"
+ },
+ "niveles": [
+  "Reducción — núcleo",
+  "Reducción — condicionada",
+  "Remoción — núcleo (2.ª pierna)"
+ ],
+ "actividades": [
+  {
+   "nivel": "Reducción — núcleo",
+   "actividad": "Geotermia",
+   "ejes": "Firme · desplaza térmico de estiaje · captura alta · mineral baja",
+   "canal": "Sin canal / emergente",
+   "norma": "Art. 38 a.ii",
+   "actividades_de_la_cartera": [
+    "Geotermia"
+   ],
+   "arquetipos_de_remocion": [],
+   "proyectos": 3,
+   "actividades_de_cartera": 0,
+   "arquetipos": 0
+  },
+  {
+   "nivel": "Reducción — núcleo",
+   "actividad": "Abatimiento de metano / biogás (rellenos, digestión de lodos)",
+   "ejes": "Escapa a la trampa (GWP) · captura alta · mineral nula",
+   "canal": "Art. 6 · Anunciada (JCM; Suiza)",
+   "norma": "Art. 38 b.i, iii",
+   "actividades_de_la_cartera": [
+    "Biogás de relleno (metano)",
+    "PTAR / digestión anaerobia de lodos (metano)"
+   ],
+   "arquetipos_de_remocion": [],
+   "proyectos": 6,
+   "actividades_de_cartera": 0,
+   "arquetipos": 0
+  },
+  {
+   "nivel": "Reducción — núcleo",
+   "actividad": "Biodigestores agropecuarios (metano)",
+   "ejes": "Destruye metano · captura media · mineral nula",
+   "canal": "Art. 6 · Anunciada (Suiza/KliK)",
+   "norma": "Residuos / agro",
+   "actividades_de_la_cartera": [
+    "Biodigestores agropecuarios (metano)"
+   ],
+   "arquetipos_de_remocion": [],
+   "proyectos": 1,
+   "actividades_de_cartera": 0,
+   "arquetipos": 0
+  },
+  {
+   "nivel": "Reducción — núcleo",
+   "actividad": "Calor de proceso renovable y eficiencia térmica (biomasa, biochar, SHIP)",
+   "ejes": "Desplaza fósil directo · captura alta · mineral baja",
+   "canal": "Art. 6 · Anunciada (JCM)",
+   "norma": "Art. 38 a.x, xxix",
+   "actividades_de_la_cartera": [
+    "Eficiencia Energética Industrial (calor de proceso fósil)",
+    "Solar térmica (SHIP + piscinas)"
+   ],
+   "arquetipos_de_remocion": [],
+   "proyectos": 0,
+   "actividades_de_cartera": 2,
+   "arquetipos": 0
+  },
+  {
+   "nivel": "Reducción — núcleo",
+   "actividad": "Destrucción de HFC / refrigerantes",
+   "ejes": "Escapa a la trampa (GWP) · captura local · mineral nula",
+   "canal": "JCM · Anunciada (F-gas; Ecuador no es socio)",
+   "norma": "Brecha Art. 38 — cláusula (e)",
+   "actividades_de_la_cartera": [
+    "Destrucción de HFC / refrigerantes"
+   ],
+   "arquetipos_de_remocion": [],
+   "proyectos": 0,
+   "actividades_de_cartera": 1,
+   "arquetipos": 0
+  },
+  {
+   "nivel": "Reducción — condicionada",
+   "actividad": "Renovable aislada insular — Galápagos",
+   "ejes": "Desplaza diésel en red aislada · captura baja · mineral alta",
+   "canal": "Art. 6 · Anunciada (Suiza/KliK; CORSIA insular ≤15 MW · perímetro)",
+   "norma": "Art. 38",
+   "actividades_de_la_cartera": [
+    "Renovable aislada (Galápagos)"
+   ],
+   "arquetipos_de_remocion": [],
+   "proyectos": 4,
+   "actividades_de_cartera": 0,
+   "arquetipos": 0
+  },
+  {
+   "nivel": "Reducción — condicionada",
+   "actividad": "Biomasa despachable — cogeneración de bagazo",
+   "ejes": "Adicional en capacidad nueva · desplaza térmico · captura alta",
+   "canal": "Sin canal / emergente",
+   "norma": "Art. 38",
+   "actividades_de_la_cartera": [
+    "Biomasa despachable"
+   ],
+   "arquetipos_de_remocion": [],
+   "proyectos": 0,
+   "actividades_de_cartera": 1,
+   "arquetipos": 0
+  },
+  {
+   "nivel": "Reducción — condicionada",
+   "actividad": "Electromovilidad de flotas comerciales",
+   "ejes": "Desplaza diésel · captura parcial · mineral media-alta",
+   "canal": "Art. 6 · Revelada + Anunciada (Suiza/KliK)",
+   "norma": "Condicionada (doble conteo)",
+   "actividades_de_la_cartera": [
+    "Electromovilidad de flotas"
+   ],
+   "arquetipos_de_remocion": [],
+   "proyectos": 2,
+   "actividades_de_cartera": 0,
+   "arquetipos": 0
+  },
+  {
+   "nivel": "Reducción — condicionada",
+   "actividad": "Reemplazo de aires acondicionados (Plan de Inversión PLANMICC)",
+   "ejes": "Corta pico térmico / vía HFC · condicional",
+   "canal": "Art. 6 · Anunciada (JCM · eficiencia; F-gases excluidos de CORSIA)",
+   "norma": "Art. 38 a.viii, xv",
+   "actividades_de_la_cartera": [
+    "AC eficiente / refrigerantes"
+   ],
+   "arquetipos_de_remocion": [],
+   "proyectos": 1,
+   "actividades_de_cartera": 0,
+   "arquetipos": 0
+  },
+  {
+   "nivel": "Remoción — núcleo (2.ª pierna)",
+   "actividad": "Biochar (ancla CDR)",
+   "ejes": "Ventaja territorial · captura alta · permanencia media-alta",
+   "canal": "CORSIA · perímetro · precompra voluntaria",
+   "norma": "AM 055 / ARTTRM · fuera de NDC · bloqueada por INGEI",
+   "actividades_de_la_cartera": [],
+   "arquetipos_de_remocion": [
+    "Biochar (ancla)"
+   ],
+   "proyectos": 0,
+   "actividades_de_cartera": 0,
+   "arquetipos": 1
+  },
+  {
+   "nivel": "Remoción — núcleo (2.ª pierna)",
+   "actividad": "BECCS (puente reducción ↔ remoción)",
+   "ejes": "Energía firme + remoción de alto valor · misma infra de inyección",
+   "canal": "CORSIA · perímetro (vía CCS geológico)",
+   "norma": "Art. 38 + AM 055",
+   "actividades_de_la_cartera": [],
+   "arquetipos_de_remocion": [
+    "BECCS"
+   ],
+   "proyectos": 0,
+   "actividades_de_cartera": 0,
+   "arquetipos": 1
+  },
+  {
+   "nivel": "Remoción — núcleo (2.ª pierna)",
+   "actividad": "Inyección geológica de bio-oil",
+   "ejes": "Ventaja territorial · permanencia geológica alta · captura alta",
+   "canal": "Ambiguo en CORSIA · precompra voluntaria",
+   "norma": "AM 055 / ARTTRM · bloqueada por INGEI",
+   "actividades_de_la_cartera": [],
+   "arquetipos_de_remocion": [
+    "Bio-oil / bioslurry geológico"
+   ],
+   "proyectos": 0,
+   "actividades_de_cartera": 0,
+   "arquetipos": 1
+  },
+  {
+   "nivel": "Remoción — núcleo (2.ª pierna)",
+   "actividad": "Meteorización mejorada de rocas (ERW)",
+   "ejes": "Geología volcánica · captura media · permanencia alta",
+   "canal": "CORSIA · excluida · precompra voluntaria",
+   "norma": "AM 055 / ARTTRM · bloqueada por INGEI",
+   "actividades_de_la_cartera": [],
+   "arquetipos_de_remocion": [
+    "Meteorización mejorada de rocas (ERW)"
+   ],
+   "proyectos": 0,
+   "actividades_de_cartera": 0,
+   "arquetipos": 1
+  }
+ ]
+}

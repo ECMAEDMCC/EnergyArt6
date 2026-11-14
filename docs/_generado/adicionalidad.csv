@@ -1,0 +1,37 @@
+Código,Línea,Periodo,Escenario de la NDC,kt/año declarados,Escenario Art. 6,Adicionalidad,Veredicto de compradores
+EN01,Operación Comercial del Tranvía de Cuenca,2026-2035,Incondicional,"15,00",fuera,No transferible,
+EN02,"Diseño, Construcción e Implementación de la línea 2 del Tranvía de Cuenca",2030-2035,Condicional,"8,00",A (fuera del modelo),Por demostrar,Condicionada
+EN03,Modernización del Sistema de Transporte Público Metropolitano de Pasajeros de Quito a través de la Dotación de Trolebuses,2026-2035,Incondicional,"4,97",fuera,No transferible,
+EN04,Proyecto Primera Línea del Metro de Quito,2026-2035,Incondicional,"60,00",fuera,No transferible,
+EN05,Proyecto Extensión de la Primera Línea del Metro de Quito desde el Labrador hasta La Ofelia,2032-2035,Condicional,"16,00",A (fuera del modelo),Por demostrar,Condicionada
+EN06,Programa de Soluciones Energéticas Upstream,2026-2035,Incondicional,"428,55",fuera,No transferible,
+EN07,Preparación y Despacho de Gasolinas con Etanol,2026-2035,Incondicional,"199,06",fuera,No transferible,
+EN08,Proyecto Geotérmico Chachimbiro,2034-2035,Condicional,"192,39",A,Firme,Núcleo
+EN10,Proyecto Eólico Ducal Membrillo,2029-2035,Condicional,"195,08",A,Por demostrar,Descartar
+EN12,Proyecto Eólico Pimo,2030-2035,Condicional,"406,88",A,Por demostrar,Descartar
+EN13,Central Hidroeléctrica Coca Codo Sinclair,2026-2035,Incondicional,"3927,00",fuera,No transferible,
+EN14,Central Hidroeléctrica Manduriacu,2026-2035,Incondicional,"168,00",fuera,No transferible,
+EN15,Central Hidroeléctrica Mazar,2026-2035,Incondicional,"255,00",fuera,No transferible,
+EN16,Central Hidroeléctrica Minas San Francisco,2026-2035,Incondicional,"529,00",fuera,No transferible,
+EN17,Central Hidroeléctrica Sopladora,2026-2035,Incondicional,"1150,00",fuera,No transferible,
+EN18,Proyecto Hidroeléctrico Santiago,2034-2035,Condicional,"7352,82",fuera,Sin adicionalidad,
+EN19,Proyecto hidroeléctrico Cardenillo,2034-2035,Condicional,"1638,63",fuera,Sin adicionalidad,
+EN20,Proyecto Solar Flotante Mazar,2029-2035,Condicional,"180,84",A,Por demostrar,Descartar
+EN21,Proyecto Hidroeléctrico Delsitanisagua,2026-2035,Incondicional,"369,00",fuera,No transferible,
+EN22,Proyecto Eólico Villonaco,2026-2035,Incondicional,"37,00",fuera,No transferible,
+EN23,Complejo Hidroeléctrico Toachi Pilatón,2026-2035,Incondicional,"537,00",fuera,No transferible,
+EN24,Proyecto Hidroeléctrico Soldados Yanuncay,2028-2035,Incondicional,"58,00",fuera,No transferible,
+EN25,Proyecto Fotovoltaico Huascachaca,2026-2035,Condicional,"16,00",A,Por demostrar,Descartar
+EN26,Sistema Híbrido Isabela (Fase II),2028-2035,Incondicional,"1,34",fuera,No transferible,
+EN27,Proyecto Conolophus,2029-2035,Incondicional,"17,78",fuera,No transferible,
+EN28,Sistema Solar Fotovoltaico San Cristóbal (Fase II),2029-2035,Condicional,"3,57",A (fuera del modelo),Por demostrar,Condicionada
+EN29,Isla Floreana 100% Renovable,2028-2035,Condicional,"0,29",A (fuera del modelo),Por demostrar,Condicionada
+EN31,Sistema Eléctrico de Monorriel Intracantonal para la Provincia Guayas,2030-2035,Condicional,"42,78",A (fuera del modelo),Por demostrar,Condicionada
+EN32,Renovación y Descarbonización del Transporte Público y Comercial en el Ecuador,2026-2035,Condicional,"185,00",A (fuera del modelo),Por demostrar,Condicionada
+B-SOL,Portafolio solar CELEC EP y AFD (3 000 GWh/año),2028-2035,Fuera de la NDC,,B,Por demostrar,Descartar
+B-EOL,Eólica del plan de expansión no listada en la NDC (585 MW),2028-2035,Fuera de la NDC,,B,Por demostrar,Descartar
+B-BIO,"Biomasa del portafolio ESIN-CELEC EP (39,3 MW, 192,8 GWh/año)",2031-2035,Fuera de la NDC,,B,Por demostrar,Condicionada
+FOI,Sin pisos térmicos del Modelo CLG,2026-2035,Supuesto de operación,,sensibilidad,No es actividad,
+C-EM,"Electromovilidad del Plan de Acción del PLANMICC (vehículos eléctricos e híbridos privados, taxis y buses)",2026-2035,Fuera de la NDC,,C,Por demostrar,
+C-EI,"Eficiencia energética industrial del Plan de Acción del PLANMICC (ISO 50001, ESCO)",2026-2035,Fuera de la NDC,,C,Por demostrar,
+C-GEO,Proyecto Geotérmico Binacional Tufiño-Chiles-Cerro Negro (138 MW),2035,Fuera de la NDC,,C,Por demostrar,

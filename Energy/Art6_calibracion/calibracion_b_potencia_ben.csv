@@ -1,0 +1,265 @@
+escenario,anio,fuente,modelo_MW,BEN_o_fuente_MW,desvio_pct,tipo_ARCONEL,ARCONEL_2025_MW,desvio_ARCONEL_pct,nota
+CLG_NDCCON,2015,hidraulica,23283.4,2402.0,869.34,nominal,,,PPHD (hidro distribuida) aporta 20414.5 MW
+CLG_NDCCON,2015,eolica,323.2,21.0,1439.06,efectiva,,,
+CLG_NDCCON,2015,solar,77.3,26.0,197.21,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2015,termica_fosil_mas_biomasa_y_biogas,3841.9,3109.0,23.57,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CLG_NDCCON,2015,biomasa_PPIBIM,212.5,136.4,55.79,efectiva,,,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2015,biogas_PPBGS,128.5,,,efectiva,,,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2015,termica_fosil,3400.9,,,nominal,,,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2015,solar_centrales_PPPVT,75.4,,,efectiva,,,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2016,hidraulica,24339.5,4418.0,450.92,nominal,4446.36,447.4,PPHD (hidro distribuida) aporta 20429.7 MW
+CLG_NDCCON,2016,eolica,323.2,21.0,1439.06,efectiva,21.15,1428.15,
+CLG_NDCCON,2016,solar,77.5,26.0,198.12,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2016,termica_fosil_mas_biomasa_y_biogas,4011.5,3141.0,27.71,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CLG_NDCCON,2016,biomasa_PPIBIM,212.5,136.4,55.79,efectiva,136.4,55.79,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2016,biogas_PPBGS,128.5,1.76,7201.14,efectiva,1.76,7201.14,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2016,termica_fosil,3570.5,,,nominal,3586.14,-0.44,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2016,solar_centrales_PPPVT,75.5,,,efectiva,25.59,195.04,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2017,hidraulica,24970.9,4486.0,456.64,nominal,4515.96,452.95,PPHD (hidro distribuida) aporta 20429.6 MW
+CLG_NDCCON,2017,eolica,323.2,21.0,1439.06,efectiva,21.15,1428.15,
+CLG_NDCCON,2017,solar,77.7,26.0,198.85,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2017,termica_fosil_mas_biomasa_y_biogas,5113.1,2912.0,75.59,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CLG_NDCCON,2017,biomasa_PPIBIM,215.5,136.4,57.98,efectiva,136.4,57.98,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2017,biogas_PPBGS,128.5,6.5,1876.92,efectiva,6.5,1876.92,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2017,termica_fosil,4669.1,,,nominal,3335.49,39.98,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2017,solar_centrales_PPPVT,75.5,,,efectiva,25.59,195.04,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2018,hidraulica,25536.3,5036.0,407.08,nominal,5066.4,404.03,PPHD (hidro distribuida) aporta 20424.2 MW
+CLG_NDCCON,2018,eolica,327.9,21.0,1461.44,efectiva,21.15,1450.37,
+CLG_NDCCON,2018,solar,52.1,27.0,92.96,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2018,termica_fosil_mas_biomasa_y_biogas,5202.0,2964.0,75.51,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CLG_NDCCON,2018,biomasa_PPIBIM,215.5,136.4,58.01,efectiva,136.4,58.01,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2018,biogas_PPBGS,128.5,6.5,1876.92,efectiva,6.5,1876.92,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2018,termica_fosil,4758.0,,,nominal,3395.15,40.14,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2018,solar_centrales_PPPVT,49.9,,,efectiva,26.74,86.62,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2019,hidraulica,25675.3,5047.0,408.72,nominal,5076.4,405.78,PPHD (hidro distribuida) aporta 20413.2 MW
+CLG_NDCCON,2019,eolica,327.9,21.0,1461.44,efectiva,21.15,1450.37,
+CLG_NDCCON,2019,solar,52.7,27.0,95.19,,,,"BEN incluye SGDA (0.06 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2019,termica_fosil_mas_biomasa_y_biogas,5230.0,2979.0,75.56,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CLG_NDCCON,2019,biomasa_PPIBIM,215.5,136.4,58.01,efectiva,136.4,58.01,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2019,biogas_PPBGS,128.5,6.5,1876.92,efectiva,6.5,1876.92,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2019,termica_fosil,4786.0,,,nominal,3408.27,40.42,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2019,solar_centrales_PPPVT,49.9,,,efectiva,26.74,86.62,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2020,hidraulica,25763.3,5064.0,408.75,nominal,5098.75,405.29,PPHD (hidro distribuida) aporta 20426.2 MW
+CLG_NDCCON,2020,eolica,327.9,21.0,1461.44,efectiva,21.15,1450.37,
+CLG_NDCCON,2020,solar,52.7,29.0,81.73,,,,"BEN incluye SGDA (2.35 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2020,termica_fosil_mas_biomasa_y_biogas,5191.8,2984.0,73.99,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CLG_NDCCON,2020,biomasa_PPIBIM,215.5,136.4,58.01,efectiva,136.4,58.01,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2020,biogas_PPBGS,128.5,6.5,1876.92,efectiva,6.5,1876.92,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2020,termica_fosil,4747.7,,,nominal,3413.21,39.1,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2020,solar_centrales_PPPVT,49.9,,,efectiva,26.74,86.62,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2021,hidraulica,25765.2,5072.0,407.99,nominal,5106.85,404.52,PPHD (hidro distribuida) aporta 20428.1 MW
+CLG_NDCCON,2021,eolica,327.9,21.0,1461.44,efectiva,21.15,1450.37,
+CLG_NDCCON,2021,solar,52.7,33.0,59.7,,,,"BEN incluye SGDA (5.9 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2021,termica_fosil_mas_biomasa_y_biogas,5756.0,2981.0,93.09,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CLG_NDCCON,2021,biomasa_PPIBIM,215.5,136.4,58.01,efectiva,136.4,58.01,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2021,biogas_PPBGS,128.5,7.2,1684.72,efectiva,7.2,1684.72,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2021,termica_fosil,5312.0,,,nominal,3426.14,55.04,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2021,solar_centrales_PPPVT,49.9,,,efectiva,26.76,86.48,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2022,hidraulica,25778.6,5151.0,400.46,nominal,5191.3,396.57,PPHD (hidro distribuida) aporta 20425.2 MW
+CLG_NDCCON,2022,eolica,327.9,50.0,555.81,efectiva,49.72,559.5,el BEN 2.23 suma en 2022 29 MW de Huascachaca; la capa CENTRALES la registra con inicio el 31-03-2023 y el modelo la cuenta desde 2023 (K11a)
+CLG_NDCCON,2022,solar,53.2,48.0,10.76,,,,"BEN incluye SGDA (20.22 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2022,termica_fosil_mas_biomasa_y_biogas,5764.9,2991.0,92.74,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CLG_NDCCON,2022,biomasa_PPIBIM,215.5,136.4,58.01,efectiva,136.4,58.01,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2022,biogas_PPBGS,128.5,7.2,1684.72,efectiva,7.2,1684.72,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2022,termica_fosil,5320.9,,,nominal,3438.65,54.74,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2022,solar_centrales_PPPVT,49.9,,,efectiva,27.76,79.76,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2023,hidraulica,25794.9,5152.0,400.68,nominal,5192.3,396.79,PPHD (hidro distribuida) aporta 20425.2 MW
+CLG_NDCCON,2023,eolica,327.9,71.0,361.84,efectiva,71.13,360.99,
+CLG_NDCCON,2023,solar,53.2,67.0,-20.65,,,,"BEN incluye SGDA (38.38 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2023,termica_fosil_mas_biomasa_y_biogas,6013.8,3003.0,100.26,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CLG_NDCCON,2023,biomasa_PPIBIM,215.5,136.4,58.01,efectiva,136.4,58.01,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2023,biogas_PPBGS,128.5,7.2,1684.72,efectiva,7.2,1684.72,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2023,termica_fosil,5569.8,,,nominal,3454.47,61.23,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2023,solar_centrales_PPPVT,49.9,,,efectiva,28.17,77.14,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2024,hidraulica,25811.2,5371.0,380.57,nominal,5419.17,376.29,PPHD (hidro distribuida) aporta 20425.2 MW
+CLG_NDCCON,2024,eolica,327.9,71.0,361.84,efectiva,71.13,360.99,
+CLG_NDCCON,2024,solar,53.2,83.0,-35.95,,,,"BEN incluye SGDA (54.78 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CLG_NDCCON,2024,termica_fosil_mas_biomasa_y_biogas,6013.8,3125.0,92.44,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (405 MW)
+CLG_NDCCON,2024,biomasa_PPIBIM,215.5,147.7,45.92,efectiva,147.7,45.92,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2024,biogas_PPBGS,128.5,9.97,1188.87,efectiva,9.97,1188.87,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2024,termica_fosil,5569.8,,,nominal,3569.07,56.06,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2024,solar_centrales_PPPVT,49.9,,,efectiva,28.24,76.7,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CLG_NDCCON,2025,hidraulica,25879.7,5387.0,380.41,nominal,5388.85,380.25,PPHD (hidro distribuida) aporta 20425.2 MW
+CLG_NDCCON,2025,eolica,327.9,71.0,361.84,efectiva,71.13,360.99,
+CLG_NDCCON,2025,solar,120.2,142.0,-15.38,,,,"BEN incluye SGDA (113.26 MW, tabla 2.25); capacidad nueva de PPPVT en el año 67.0 MW"
+CLG_NDCCON,2025,termica_fosil_mas_biomasa_y_biogas,6062.0,3393.0,78.66,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (491 MW)
+CLG_NDCCON,2025,biomasa_PPIBIM,215.5,148.5,45.14,efectiva,148.5,45.14,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2025,biogas_PPBGS,128.5,9.97,1188.87,efectiva,9.97,1188.87,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CLG_NDCCON,2025,termica_fosil,5618.0,,,nominal,3792.53,48.13,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CLG_NDCCON,2025,solar_centrales_PPPVT,116.9,,,efectiva,28.24,313.96,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2015,hidraulica,3177.9,2402.0,32.3,nominal,,,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2015,eolica,21.1,21.0,0.44,efectiva,,,
+CONA6,2015,solar,26.0,26.0,-0.15,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2015,termica_fosil_mas_biomasa_y_biogas,3321.8,3109.0,6.85,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CONA6,2015,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,,,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2015,biogas_PPBGS,0.0,,,efectiva,,,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2015,termica_fosil,3185.4,,,nominal,,,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2015,solar_centrales_PPPVT,24.1,,,efectiva,,,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2016,hidraulica,5226.7,4418.0,18.31,nominal,4446.36,17.55,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2016,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+CONA6,2016,solar,26.0,26.0,0.11,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2016,termica_fosil_mas_biomasa_y_biogas,3112.7,3141.0,-0.9,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CONA6,2016,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2016,biogas_PPBGS,1.8,1.76,0.0,efectiva,1.76,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2016,termica_fosil,2974.5,,,nominal,3586.14,-17.05,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2016,solar_centrales_PPPVT,24.0,,,efectiva,25.59,-6.28,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2017,hidraulica,5358.4,4486.0,19.45,nominal,4515.96,18.66,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2017,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+CONA6,2017,solar,26.2,26.0,0.9,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2017,termica_fosil_mas_biomasa_y_biogas,3122.5,2912.0,7.23,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CONA6,2017,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2017,biogas_PPBGS,6.5,6.5,0.0,efectiva,6.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2017,termica_fosil,2979.6,,,nominal,3335.49,-10.67,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2017,solar_centrales_PPPVT,24.0,,,efectiva,25.59,-6.28,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2018,hidraulica,5927.4,5036.0,17.7,nominal,5066.4,16.99,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2018,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+CONA6,2018,solar,26.1,27.0,-3.4,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2018,termica_fosil_mas_biomasa_y_biogas,3152.5,2964.0,6.36,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CONA6,2018,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2018,biogas_PPBGS,6.5,6.5,0.0,efectiva,6.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2018,termica_fosil,3009.6,,,nominal,3395.15,-11.35,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2018,solar_centrales_PPPVT,23.8,,,efectiva,26.74,-10.88,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2019,hidraulica,6077.4,5047.0,20.42,nominal,5076.4,19.72,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2019,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+CONA6,2019,solar,26.5,27.0,-1.78,,,,"BEN incluye SGDA (0.06 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2019,termica_fosil_mas_biomasa_y_biogas,3153.9,2979.0,5.87,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CONA6,2019,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2019,biogas_PPBGS,6.5,6.5,0.0,efectiva,6.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2019,termica_fosil,3011.0,,,nominal,3408.27,-11.65,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2019,solar_centrales_PPPVT,23.8,,,efectiva,26.74,-11.1,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2020,hidraulica,6152.0,5064.0,21.49,nominal,5098.75,20.66,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2020,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+CONA6,2020,solar,28.5,29.0,-1.66,,,,"BEN incluye SGDA (2.35 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2020,termica_fosil_mas_biomasa_y_biogas,3113.7,2984.0,4.35,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CONA6,2020,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2020,biogas_PPBGS,6.5,6.5,0.0,efectiva,6.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2020,termica_fosil,2970.8,,,nominal,3413.21,-12.96,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2020,solar_centrales_PPPVT,23.5,,,efectiva,26.74,-12.19,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2021,hidraulica,6152.3,5072.0,21.3,nominal,5106.85,20.47,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2021,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+CONA6,2021,solar,32.5,33.0,-1.53,,,,"BEN incluye SGDA (5.9 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2021,termica_fosil_mas_biomasa_y_biogas,3114.4,2981.0,4.48,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CONA6,2021,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2021,biogas_PPBGS,7.2,7.2,0.0,efectiva,7.2,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2021,termica_fosil,2970.8,,,nominal,3426.14,-13.29,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2021,solar_centrales_PPPVT,23.9,,,efectiva,26.76,-10.66,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2022,hidraulica,6168.8,5151.0,19.76,nominal,5191.3,18.83,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2022,eolica,21.1,50.0,-57.8,efectiva,49.72,-57.56,el BEN 2.23 suma en 2022 29 MW de Huascachaca; la capa CENTRALES la registra con inicio el 31-03-2023 y el modelo la cuenta desde 2023 (K11a)
+CONA6,2022,solar,46.5,48.0,-3.13,,,,"BEN incluye SGDA (20.22 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2022,termica_fosil_mas_biomasa_y_biogas,3114.4,2991.0,4.13,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CONA6,2022,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2022,biogas_PPBGS,7.2,7.2,0.0,efectiva,7.2,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2022,termica_fosil,2970.8,,,nominal,3438.65,-13.6,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2022,solar_centrales_PPPVT,23.6,,,efectiva,27.76,-15.03,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2023,hidraulica,6185.1,5152.0,20.05,nominal,5192.3,19.12,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2023,eolica,71.1,71.0,0.14,efectiva,71.13,-0.04,
+CONA6,2023,solar,65.1,67.0,-2.85,,,,"BEN incluye SGDA (38.38 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2023,termica_fosil_mas_biomasa_y_biogas,3408.3,3003.0,13.49,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+CONA6,2023,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2023,biogas_PPBGS,7.2,7.2,0.0,efectiva,7.2,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2023,termica_fosil,3264.7,,,nominal,3454.47,-5.49,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2023,solar_centrales_PPPVT,24.0,,,efectiva,28.17,-14.72,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2024,hidraulica,6208.7,5371.0,15.6,nominal,5419.17,14.57,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2024,eolica,71.1,71.0,0.14,efectiva,71.13,-0.04,
+CONA6,2024,solar,81.1,83.0,-2.3,,,,"BEN incluye SGDA (54.78 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+CONA6,2024,termica_fosil_mas_biomasa_y_biogas,3527.6,3125.0,12.88,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (405 MW)
+CONA6,2024,biomasa_PPIBIM,147.7,147.7,0.0,efectiva,147.7,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2024,biogas_PPBGS,10.0,9.97,-0.0,efectiva,9.97,-0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2024,termica_fosil,3370.0,,,nominal,3569.07,-5.58,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2024,solar_centrales_PPPVT,23.6,,,efectiva,28.24,-16.35,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+CONA6,2025,hidraulica,6277.2,5387.0,16.53,nominal,5388.85,16.49,PPHD (hidro distribuida) aporta 813.0 MW
+CONA6,2025,eolica,71.1,71.0,0.14,efectiva,71.13,-0.04,
+CONA6,2025,solar,207.1,142.0,45.84,,,,"BEN incluye SGDA (113.26 MW, tabla 2.25); capacidad nueva de PPPVT en el año 67.0 MW"
+CONA6,2025,termica_fosil_mas_biomasa_y_biogas,3757.1,3393.0,10.73,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (491 MW)
+CONA6,2025,biomasa_PPIBIM,148.5,148.5,0.0,efectiva,148.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2025,biogas_PPBGS,10.0,9.97,-0.0,efectiva,9.97,-0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+CONA6,2025,termica_fosil,3598.6,,,nominal,3792.53,-5.11,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+CONA6,2025,solar_centrales_PPPVT,91.1,,,efectiva,28.24,222.75,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2015,hidraulica,3177.9,2402.0,32.3,nominal,,,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2015,eolica,21.1,21.0,0.44,efectiva,,,
+INCA6,2015,solar,26.0,26.0,-0.15,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2015,termica_fosil_mas_biomasa_y_biogas,3321.8,3109.0,6.85,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+INCA6,2015,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,,,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2015,biogas_PPBGS,0.0,,,efectiva,,,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2015,termica_fosil,3185.4,,,nominal,,,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2015,solar_centrales_PPPVT,24.1,,,efectiva,,,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2016,hidraulica,5226.7,4418.0,18.31,nominal,4446.36,17.55,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2016,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+INCA6,2016,solar,26.0,26.0,0.11,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2016,termica_fosil_mas_biomasa_y_biogas,3112.7,3141.0,-0.9,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+INCA6,2016,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2016,biogas_PPBGS,1.8,1.76,0.0,efectiva,1.76,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2016,termica_fosil,2974.5,,,nominal,3586.14,-17.05,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2016,solar_centrales_PPPVT,24.0,,,efectiva,25.59,-6.28,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2017,hidraulica,5358.4,4486.0,19.45,nominal,4515.96,18.66,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2017,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+INCA6,2017,solar,26.2,26.0,0.9,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2017,termica_fosil_mas_biomasa_y_biogas,3122.5,2912.0,7.23,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+INCA6,2017,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2017,biogas_PPBGS,6.5,6.5,0.0,efectiva,6.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2017,termica_fosil,2979.6,,,nominal,3335.49,-10.67,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2017,solar_centrales_PPPVT,24.0,,,efectiva,25.59,-6.28,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2018,hidraulica,5927.4,5036.0,17.7,nominal,5066.4,16.99,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2018,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+INCA6,2018,solar,26.1,27.0,-3.4,,,,"BEN incluye SGDA (0 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2018,termica_fosil_mas_biomasa_y_biogas,3152.5,2964.0,6.36,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+INCA6,2018,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2018,biogas_PPBGS,6.5,6.5,0.0,efectiva,6.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2018,termica_fosil,3009.6,,,nominal,3395.15,-11.35,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2018,solar_centrales_PPPVT,23.8,,,efectiva,26.74,-10.88,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2019,hidraulica,6077.4,5047.0,20.42,nominal,5076.4,19.72,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2019,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+INCA6,2019,solar,26.5,27.0,-1.78,,,,"BEN incluye SGDA (0.06 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2019,termica_fosil_mas_biomasa_y_biogas,3153.9,2979.0,5.87,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+INCA6,2019,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2019,biogas_PPBGS,6.5,6.5,0.0,efectiva,6.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2019,termica_fosil,3011.0,,,nominal,3408.27,-11.65,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2019,solar_centrales_PPPVT,23.8,,,efectiva,26.74,-11.1,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2020,hidraulica,6152.0,5064.0,21.49,nominal,5098.75,20.66,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2020,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+INCA6,2020,solar,28.5,29.0,-1.66,,,,"BEN incluye SGDA (2.35 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2020,termica_fosil_mas_biomasa_y_biogas,3113.7,2984.0,4.35,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+INCA6,2020,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2020,biogas_PPBGS,6.5,6.5,0.0,efectiva,6.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2020,termica_fosil,2970.8,,,nominal,3413.21,-12.96,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2020,solar_centrales_PPPVT,23.5,,,efectiva,26.74,-12.19,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2021,hidraulica,6152.3,5072.0,21.3,nominal,5106.85,20.47,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2021,eolica,21.1,21.0,0.47,efectiva,21.15,-0.24,
+INCA6,2021,solar,32.5,33.0,-1.53,,,,"BEN incluye SGDA (5.9 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2021,termica_fosil_mas_biomasa_y_biogas,3114.4,2981.0,4.48,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+INCA6,2021,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2021,biogas_PPBGS,7.2,7.2,0.0,efectiva,7.2,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2021,termica_fosil,2970.8,,,nominal,3426.14,-13.29,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2021,solar_centrales_PPPVT,23.9,,,efectiva,26.76,-10.66,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2022,hidraulica,6168.8,5151.0,19.76,nominal,5191.3,18.83,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2022,eolica,21.1,50.0,-57.8,efectiva,49.72,-57.56,el BEN 2.23 suma en 2022 29 MW de Huascachaca; la capa CENTRALES la registra con inicio el 31-03-2023 y el modelo la cuenta desde 2023 (K11a)
+INCA6,2022,solar,46.5,48.0,-3.13,,,,"BEN incluye SGDA (20.22 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2022,termica_fosil_mas_biomasa_y_biogas,3114.4,2991.0,4.13,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+INCA6,2022,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2022,biogas_PPBGS,7.2,7.2,0.0,efectiva,7.2,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2022,termica_fosil,2970.8,,,nominal,3438.65,-13.6,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2022,solar_centrales_PPPVT,23.6,,,efectiva,27.76,-15.03,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2023,hidraulica,6185.1,5152.0,20.05,nominal,5192.3,19.12,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2023,eolica,71.1,71.0,0.14,efectiva,71.13,-0.04,
+INCA6,2023,solar,65.1,67.0,-2.85,,,,"BEN incluye SGDA (38.38 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2023,termica_fosil_mas_biomasa_y_biogas,3408.3,3003.0,13.49,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (0 MW)
+INCA6,2023,biomasa_PPIBIM,136.4,136.4,0.0,efectiva,136.4,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2023,biogas_PPBGS,7.2,7.2,0.0,efectiva,7.2,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2023,termica_fosil,3264.7,,,nominal,3454.47,-5.49,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2023,solar_centrales_PPPVT,24.0,,,efectiva,28.17,-14.72,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2024,hidraulica,6208.7,5371.0,15.6,nominal,5419.17,14.57,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2024,eolica,71.1,71.0,0.14,efectiva,71.13,-0.04,
+INCA6,2024,solar,81.1,83.0,-2.3,,,,"BEN incluye SGDA (54.78 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2024,termica_fosil_mas_biomasa_y_biogas,3527.6,3125.0,12.88,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (405 MW)
+INCA6,2024,biomasa_PPIBIM,147.7,147.7,0.0,efectiva,147.7,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2024,biogas_PPBGS,10.0,9.97,-0.0,efectiva,9.97,-0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2024,termica_fosil,3370.0,,,nominal,3569.07,-5.58,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2024,solar_centrales_PPPVT,23.6,,,efectiva,28.24,-16.35,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"
+INCA6,2025,hidraulica,6277.2,5387.0,16.53,nominal,5388.85,16.49,PPHD (hidro distribuida) aporta 813.0 MW
+INCA6,2025,eolica,71.1,71.0,0.14,efectiva,71.13,-0.04,
+INCA6,2025,solar,140.1,142.0,-1.34,,,,"BEN incluye SGDA (113.26 MW, tabla 2.25); capacidad nueva de PPPVT en el año 0.0 MW"
+INCA6,2025,termica_fosil_mas_biomasa_y_biogas,3757.1,3393.0,10.73,,,,BEN: turbovapor (incluye bagazo) + turbogas + MCI (incluye biogás); sin grupos electrógenos de emergencia (491 MW)
+INCA6,2025,biomasa_PPIBIM,148.5,148.5,0.0,efectiva,148.5,0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2025,biogas_PPBGS,10.0,9.97,-0.0,efectiva,9.97,-0.0,"fuente: capacidad_bio_fuentes.csv, potencia efectiva de ARCONEL (Estadística Anual y Multianual 2025, tabla 19); el BEN 2.23 las incluye en térmica"
+INCA6,2025,termica_fosil,3598.6,,,nominal,3792.53,-5.11,"potencia nominal del modelo (Energy.xlsx y altas de la capa, K15c desde 2023) frente a la nominal no renovable de ARCONEL (tabla 18), que incluye sistemas no incorporados"
+INCA6,2025,solar_centrales_PPPVT,24.1,,,efectiva,28.24,-14.5,"PPPVT (centrales del SNI, potencia efectiva del BEN 2.23 sin SGDA) frente a la fotovoltaica efectiva de ARCONEL (tabla 19)"

@@ -1,0 +1,107 @@
+Código,Nombre
+E1DSL,Primaria - Diesel
+E1GSL,Primaria - Gasolina
+E1NGS,Primaria -  Gas Natural
+E1LPG,Primaria - GLP
+E1COK,Primaria -  Coque
+E1KER,Primaria -  Keroseno
+E1JET,Primaria -  Jet
+E1FIR,Primaria - Leña
+E1CHA,Primaria - Carbon Vegetal
+E1BIM,Primaria - Biomasa
+E1BGS,Primaria - Biogas
+E0CRU,
+E1COA,Primaria -  Carbón
+E1FO1,Primaria - Búnker
+E1ELE,Secundaria - Electricidad de la Generación
+E3ELE,Secondary - Electricidad de la Distribución
+E2ELE,Secundaria - Electricidad de la Transmisión
+E2HYDG,Secundaria - Hidrógeno Verde Producido
+E1CRU,
+E3HYD,Secundaria - Hidrógeno Transportado
+E1FOI,Primaria - Búnker
+E5COMDSL,Final - Commercial - Diesel
+E5COMGSL,Final - Commercial - Gasoline
+E5COMLPG,Final - Commercial - LPG
+E5COMELE,Final - Commercial - Electric
+E5COMFIR,Final - Commercial - Firewood
+E5COMCHA,Final - Commercial - Charcoal
+E5COMOPE,Final - Commercial - Other non-energy petroleum products
+E5RESDSL,Final - Residential - Diesel
+E5RESGSL,Final - Residential - Gasoline
+E5RESLPG,Final - Residential - LPG
+E5RESELE,Final - Residential - Electric
+E5RESKER,Final - Residential - Kerosen
+E5RESFIR,Final - Residential - Firewood
+E5RESCHA,Final - Residential - Charcoal
+E5RESOPE,Final - Residential - Other non-energy petroleum products
+E5PUBELE,Final - Public - Electric
+E5INDDSL,Final - Industrial - Diesel
+E5INDGSL,Final - Industrial - Gasoline
+E5INDNGS,Final - Industrial - Natural Gas
+E5INDELE,Final - Industrial - Electric
+E5INDHYD,Final - Industrial - Hydrogen
+E5INDCOK,Final - Industrial - Coke
+E5INDBIM,Final - Industrial - Biomass
+E5INDCOA,Final - Industrial - Coal
+E5INDFOI,Final - Industrial - Fuel Oil
+E5CONDSL,Final - Construction - Diesel
+E5CONELE,Final - Construction - Electric
+E5CONFOI,Final - Construction - Fuel Oil
+E5EXPDSL,Final - Exports - Diesel
+E5EXPJET,Final - Exports - Jet Fuel and others
+E5EXPFOI,Final - Exports - Fuel Oil
+E5TAEJET,Final - Transport - Aero - Jet Fuel and others
+E5TMADSL,Final - Transport - Maritime - Diesel
+E5TMANGS,Final - Transport - Maritime - Natural Gas
+E5TMALPG,Final - Transport - Maritime - LPG
+E5TMAELE,Final - Transport - Maritime - Electric
+E5TMAFOI,Final - Transport - Maritime - Fuel Oil
+E5TRODSL,Final - Transport - Road - Diesel
+E5TROGSL,Final - Transport - Road - Gasoline
+E5TRONGS,Final - Transport - Road - Natural Gas
+E5TROLPG,Final - Transport - Road - LPG
+E5TROELE,Final - Transport - Road - Electric
+E5TROBGS,Final - Transport - Road - Biofuel/Biogas
+E5TROFOI,Final - Transport - Road - Fuel Oil
+E4ELE_HEA,
+E5TRXTRAI,
+E6TDFREHEA,
+E6TRNOMOT,
+E5COMFOI,Final - Commercial - Fuel Oil
+E5RESNGS,Final - Residential - Natural Gas
+E5INDLPG,Final - Industrial - LPG
+E5INDFIR,Final - Industrial - Firewood
+E5CONGSL,Final - Construction - Gasoline
+E5CONLPG,Final - Construction - LPG
+E5CONOPE,Final - Construction - Other non-energy petroleum products
+E0NGS,
+E0GRE,
+E0GSL,
+E0JET,
+E0DSL,
+E0FOI,
+E0LPG,
+E5EXPCRU,Final - Exports - Crude
+E5VEGWAS,
+E5TRNFOI,
+E5TAEGSL,Final - Transport - Aero - Gasoline
+E5TMAGSL,Final - Transport - Maritime - Gasoline
+E5TCADSL,
+E5TCAGSL,
+E5ALLTRNDSL,
+E5ALLTRNELE,
+E5ALLTRNFOI,
+E5ALLTRNLPG,
+E5ALLTRNGSL,
+E5ALLTRNJET,
+E5CONKER,Final - Construction - Kerosen
+E5AGRDSL,
+E5AGRLPG,
+E5AGRGSL,
+E5AGROTP,
+E1RDF,
+E1OID,
+E5INDRDF,
+E5INDOID,
+E1OPE,

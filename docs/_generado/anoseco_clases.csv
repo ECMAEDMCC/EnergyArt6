@@ -1,0 +1,12 @@
+Clase,Origen de la razón,Razón aplicada,Desde,Años secos ANOSEC3
+PPHD,"promedio nacional de las 8 series, ponderado por caudal","0,8410",2026,"2026, 2029, 2032, 2035"
+PPHDAMAB,medida: Molino (serie del CENACE),"0,6479",2026,"2026, 2029, 2032, 2035"
+PPHDAMAM,medida: Mazar y Agoyán (series del CENACE ponderadas por potencia nominal),"0,6470",2026,"2026, 2029, 2032, 2035"
+PPHDAMAS,heredada: Pisayambo (embalse amazónico pequeño),"0,7598",2026,"2026, 2029, 2032, 2035"
+PPHDAMPM,medida: Pucará y Marcel Laniado (series del CENACE ponderadas por potencia nominal),"0,9406",2026,"2026, 2029, 2032, 2035"
+PPHDAMPS,heredada de PPHDAMPM (Toachi Pilatón-Sarapullo sin serie),"0,9406",2026,"2026, 2029, 2032, 2035"
+PPHRORAB,medida: Sopladora y Coca Codo Sinclair (series del CENACE ponderadas por potencia nominal),"0,8640",2026,"2026, 2029, 2032, 2035"
+PPHRORAM,medida: Delsitanisagua (serie del CENACE),"0,8040",2026,"2026, 2029, 2032, 2035"
+PPHRORAS,heredada de PPHDAMAS,"0,7598",2026,"2026, 2029, 2032, 2035"
+PPHRORPM,medida: San Francisco y Minas San Francisco (series del CENACE ponderadas por potencia nominal),"0,6590",2026,"2026, 2029, 2032, 2035"
+PPHRORPS,heredada de PPHRORPM,"0,6590",2026,"2026, 2029, 2032, 2035"

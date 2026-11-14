@@ -1,0 +1,27 @@
+{
+ "insumos": {
+  "CONA6_0.txt": "669a832aacb001171a4fc58cbb440dda",
+  "CONA6G_0.txt": "4320121c21e9b8548069162c66196971",
+  "INCA6_0.txt": "f0faef0a45a59b00455ab4b17d544f6e"
+ },
+ "corridas": {
+  "CONA6_demanda_electrica_menos_1pct": {
+   "datafile_md5": "5ea90121488d7eb10efb859baa788731",
+   "rc": 0,
+   "optimo": true,
+   "infactible": false
+  },
+  "CONA6G_demanda_electrica_menos_1pct": {
+   "datafile_md5": "bbe6b680a84d415f721c9860225f155f",
+   "rc": 0,
+   "optimo": true,
+   "infactible": false
+  },
+  "INCA6_demanda_electrica_menos_1pct": {
+   "datafile_md5": "f2cca42a7f69a4c191a7234a24651dcf",
+   "rc": 0,
+   "optimo": true,
+   "infactible": false
+  }
+ }
+}

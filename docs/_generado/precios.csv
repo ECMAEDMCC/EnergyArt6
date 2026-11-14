@@ -1,0 +1,4 @@
+Precio,US$/t,Referencia,Fuente,Fecha del dato,Estado
+Bajo,10,"Renovables conectadas a red vendidas como ITMO, extremo bajo; techo aproximado del mercado voluntario de alta calidad",mercado-datos (Ecosystem Marketplace 2025; síntesis de contratos 2024-2026),2024-2026,refrescar
+Central,25,Punto medio del rango bilateral de ITMO de 20 a 50 US$/t; cartera KliK 2025-2030 de CHF 27/t,KliK Foundation; síntesis de contratos KliK/JCM,2024-2026,refrescar
+Alto,30,"Primera transferencia de ITMO bajo el Artículo 6.2 (Tailandia a Suiza, 15-12-2023), unos 30 USD por tonelada","Primera transferencia de ITMO bajo el Artículo 6.2 entre Tailandia y Suiza (TGO y Fundación KliK), diciembre de 2023; precio de referencia público",2023,refrescar

@@ -1,0 +1,39 @@
+﻿estado,sufijo,grupo,capa,escenario,base,mide,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,total_2026_2030,total_2031_2035,total_2026_2035
+Intacto,,Intacto,A,A,CONA6,capa frente a la referencia del estado,268.0,363.4,401.7,707.1,963.3,837.6,579.4,438.0,346.1,272.0,2703.7,2473.1,5176.8
+Intacto,,Intacto,B,B,A,capa frente al escalón previo en el mismo estado,0.0,0.0,354.9,782.2,1097.8,1593.9,1876.2,1462.9,911.7,284.3,2235.0,6129.0,8364.0
+Intacto,,Intacto,C,C,B,capa frente al escalón previo en el mismo estado,6.4,14.7,79.3,93.6,112.0,171.6,207.8,581.5,657.2,732.2,306.0,2350.3,2656.3
+Salida de Coca Codo y Sopladora,CCOFF,Riesgo,A,A-CCOFF,CONA6,escenario en el estado frente a CONA6 intacto: incluye el efecto del estado (no es capa),268.0,363.4,401.7,-5277.0,-4546.3,-5133.9,-6000.1,-6382.2,-6257.3,-6084.6,-8790.0,-29858.2,-38648.2
+Salida de Coca Codo y Sopladora,CCOFF,Riesgo,B,B-CCOFF,A-CCOFF,capa frente al escalón previo en el mismo estado,0.0,0.0,354.9,988.9,988.9,983.7,2128.4,2832.0,3047.8,3263.6,2332.7,12255.5,14588.2
+Salida de Coca Codo y Sopladora,CCOFF,Riesgo,C,C-CCOFF,B-CCOFF,capa frente al escalón previo en el mismo estado,6.4,14.7,79.3,37.0,110.2,183.4,90.1,110.5,136.4,897.7,247.6,1418.1,1665.7
+Salida de Coca Codo sola,CCSOLO,Riesgo,A,A-CCSOLO,CONA6,escenario en el estado frente a CONA6 intacto: incluye el efecto del estado (no es capa),268.0,363.4,401.7,-3298.8,-2568.1,-3155.7,-4021.9,-4404.0,-4279.1,-4106.4,-4833.7,-19967.2,-24800.8
+Salida de Coca Codo sola,CCSOLO,Riesgo,B,B-CCSOLO,A-CCSOLO,capa frente al escalón previo en el mismo estado,0.0,0.0,354.9,988.9,988.9,983.7,2128.3,2831.9,3015.3,2945.6,2332.7,11904.9,14237.6
+Salida de Coca Codo sola,CCSOLO,Riesgo,C,C-CCSOLO,B-CCSOLO,capa frente al escalón previo en el mismo estado,6.4,14.7,79.3,36.9,110.1,183.3,90.1,110.5,160.6,851.0,247.4,1395.5,1642.9
+Derrateo de Coca Codo,CCDER,Riesgo,A,A-CCDER,CONA6,escenario en el estado frente a CONA6 intacto: incluye el efecto del estado (no es capa),268.0,-692.3,-412.3,-153.6,-84.0,-187.3,-317.0,-319.7,-411.6,-485.7,-1074.3,-1721.4,-2795.7
+Derrateo de Coca Codo,CCDER,Riesgo,B,B-CCDER,A-CCDER,capa frente al escalón previo en el mismo estado,0.0,0.0,411.2,889.2,1391.5,1861.0,2014.9,2031.1,1669.4,1042.1,2691.9,8618.5,11310.4
+Derrateo de Coca Codo,CCDER,Riesgo,C,C-CCDER,B-CCDER,capa frente al escalón previo en el mismo estado,6.4,14.7,79.3,93.6,112.0,171.6,207.8,243.5,657.2,732.2,306.0,2012.2,2318.3
+Año seco severo,ANOSECO,Riesgo,A,A-ANOSECO,CONA6,escenario en el estado frente a CONA6 intacto: incluye el efecto del estado (no es capa),-3711.9,-3631.4,-3352.6,-2799.2,-2068.5,-2656.1,-3522.3,-4291.8,-4934.9,-5370.2,-15563.6,-20775.4,-36338.9
+Año seco severo,ANOSECO,Riesgo,B,B-ANOSECO,A-ANOSECO,capa frente al escalón previo en el mismo estado,0.0,0.0,494.5,694.1,527.4,1167.5,1897.2,2477.4,2950.5,3239.2,1716.0,11731.8,13447.8
+Año seco severo,ANOSECO,Riesgo,C,C-ANOSECO,B-ANOSECO,capa frente al escalón previo en el mismo estado,6.4,14.7,26.2,36.9,52.8,68.9,90.1,110.5,136.4,890.0,137.0,1295.9,1432.9
+Un año seco cada tres,ANOSEC3,Riesgo,A,A-ANOSEC3,CONA6,escenario en el estado frente a CONA6 intacto: incluye el efecto del estado (no es capa),-3711.9,384.3,416.7,-2799.2,1424.1,864.5,-3522.3,453.0,361.1,-5370.2,-4285.9,-7214.0,-11499.9
+Un año seco cada tres,ANOSEC3,Riesgo,B,B-ANOSEC3,A-ANOSEC3,capa frente al escalón previo en el mismo estado,0.0,0.0,354.9,694.1,805.7,1582.0,1897.2,1448.0,896.7,3239.2,1854.6,9063.1,10917.7
+Un año seco cada tres,ANOSEC3,Riesgo,C,C-ANOSEC3,B-ANOSEC3,capa frente al escalón previo en el mismo estado,6.4,14.7,79.3,36.9,139.3,171.6,90.1,581.5,657.2,890.0,276.6,2390.3,2667.0
+Año seco moderado,ANOSECM,Riesgo,A,A-ANOSECM,CONA6,escenario en el estado frente a CONA6 intacto: incluye el efecto del estado (no es capa),-1410.4,-1336.9,-1057.4,-798.9,-640.6,-952.4,-1206.1,-1236.1,-1274.1,-1418.0,-5244.2,-6086.7,-11331.0
+Año seco moderado,ANOSECM,Riesgo,B,B-ANOSECM,A-ANOSECM,capa frente al escalón previo en el mismo estado,0.0,0.0,494.4,988.9,1394.6,2072.7,2254.7,2202.4,2207.7,1974.3,2878.0,10711.8,13589.8
+Año seco moderado,ANOSECM,Riesgo,C,C-ANOSECM,B-ANOSECM,capa frente al escalón previo en el mismo estado,6.4,14.7,26.3,37.0,52.7,90.9,207.8,243.5,283.4,732.2,137.0,1557.8,1694.8
+Salida de Coca Codo y año seco severo,CCOFFANOSECO,Riesgo,A,A-CCOFFANOSECO,CONA6,escenario en el estado frente a CONA6 intacto: incluye el efecto del estado (no es capa),-3711.9,-3631.4,-3352.6,-8679.2,-7948.5,-8713.4,-9599.3,-10368.8,-11011.9,-11640.2,-27323.6,-51333.7,-78657.2
+Salida de Coca Codo y año seco severo,CCOFFANOSECO,Riesgo,B,B-CCOFFANOSECO,A-CCOFFANOSECO,capa frente al escalón previo en el mismo estado,0.0,0.0,494.5,988.9,988.9,1161.0,1704.2,2284.4,2757.5,3263.6,2472.3,11170.7,13643.0
+Salida de Coca Codo y año seco severo,CCOFFANOSECO,Riesgo,C,C-CCOFFANOSECO,B-CCOFFANOSECO,capa frente al escalón previo en el mismo estado,6.4,14.7,26.2,36.9,110.1,183.3,90.1,110.6,136.5,897.7,194.3,1418.2,1612.5
+Sin pisos térmicos,FOI,Sensibilidad,A,A-FOI,CONA6P,capa frente a la referencia del estado,268.0,363.4,559.7,902.1,971.7,868.5,715.2,542.7,346.1,272.0,3065.0,2744.4,5809.4
+Sin pisos térmicos,FOI,Sensibilidad,B,B-FOI,A-FOI,capa frente al escalón previo en el mismo estado,0.0,0.0,419.8,897.9,1400.1,1890.9,2043.3,2031.1,2059.1,1431.7,2717.8,9456.0,12173.8
+Sin importación desde Colombia,IMP0,Riesgo,A,A-IMP0,CONA6I,capa frente a la referencia del estado,268.0,363.4,424.7,813.8,971.7,862.1,668.5,438.0,346.1,272.0,2841.6,2586.7,5428.3
+Sin importación desde Colombia,IMP0,Riesgo,B,B-IMP0,A-IMP0,capa frente al escalón previo en el mismo estado,0.0,0.0,354.9,783.7,1197.5,1676.0,1876.2,1734.1,1182.8,555.4,2336.1,7024.5,9360.5
+Sin importación desde Colombia,IMP0,Riesgo,C,C-IMP0,B-IMP0,capa frente al escalón previo en el mismo estado,6.4,14.7,79.3,93.6,112.0,171.6,207.8,499.5,657.2,732.2,306.0,2268.3,2574.3
+Situación actual 2026 con choque de demanda transitorio,ACT,Riesgo,A,A-ACT,CONA6,escenario en el estado frente a CONA6 intacto: incluye el efecto del estado (no es capa),-1613.9,-14.3,130.6,-2786.9,1637.8,504.3,-3707.0,181.8,90.0,-5748.0,-2646.6,-8678.9,-11325.5
+Situación actual 2026 con choque de demanda transitorio,ACT,Riesgo,B,B-ACT,A-ACT,capa frente al escalón previo en el mismo estado,0.0,0.0,354.9,988.8,1079.4,1671.1,1704.1,1719.1,1167.8,3256.8,2423.1,9518.9,11942.1
+Situación actual 2026 con choque de demanda transitorio,ACT,Riesgo,C,C-ACT,B-ACT,capa frente al escalón previo en el mismo estado,-1.1,14.7,79.3,37.0,139.3,171.6,90.1,500.2,657.2,890.0,269.2,2309.0,2578.2
+Situación actual 2026 con demanda persistente,ACTDEM,Riesgo,A,A-ACTDEM,CONA6,escenario en el estado frente a CONA6 intacto: incluye el efecto del estado (no es capa),-1613.9,-3352.4,-3174.8,-6313.9,-1951.2,-3213.4,-7520.7,-3390.3,-3351.5,-9640.1,-16406.2,-27116.1,-43522.2
+Situación actual 2026 con demanda persistente,ACTDEM,Riesgo,B,B-ACTDEM,A-ACTDEM,capa frente al escalón previo en el mismo estado,0.0,0.0,494.5,988.9,1483.3,2121.7,1704.2,2798.1,2775.7,3116.0,2966.7,12515.6,15482.3
+Situación actual 2026 con demanda persistente,ACTDEM,Riesgo,C,C-ACTDEM,B-ACTDEM,capa frente al escalón previo en el mismo estado,-1.1,0.0,4.5,8.1,17.3,26.9,41.9,80.5,240.3,831.6,28.8,1221.2,1250.0
+Sin la expansión a gas declarada,GAS,Sensibilidad,A,A-GAS,CONA6G,capa frente a la referencia del estado,268.0,363.4,559.7,241.3,156.5,640.9,702.4,589.4,461.4,341.5,1589.0,2735.5,4324.5
+Sin la expansión a gas declarada,GAS,Sensibilidad,B,B-GAS,A-GAS,capa frente al escalón previo en el mismo estado,0.0,0.0,494.4,988.9,1483.3,2121.7,2587.7,1970.4,1202.4,351.8,2966.7,8234.0,11200.7
+Sin la expansión a gas declarada,GAS,Sensibilidad,C,C-GAS,B-GAS,capa frente al escalón previo en el mismo estado,6.4,14.7,26.3,37.0,52.7,68.9,109.5,581.5,657.2,732.2,137.0,2149.3,2286.3

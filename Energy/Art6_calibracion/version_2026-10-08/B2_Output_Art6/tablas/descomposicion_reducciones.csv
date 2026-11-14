@@ -1,0 +1,8 @@
+﻿componente,referencia,escenario,2031,2032,2033,2034,2035,total_2031_2035
+Tramo condicional oficial,NDCINC,NDCCON,1573.9,3368.3,5082.5,6812.3,8447.4,25284.5
+Proyectos de la NDC financiada (sobre el condicional),NDCCON,A,879.6,724.4,603.1,466.0,324.7,2997.8
+Paquete fuera de la NDC (B sobre A),A,B,2121.3,2505.6,1722.6,934.0,63.9,7347.5
+Paquete fuera de la NDC (C sobre B),B,C,49.9,187.6,581.5,657.2,732.2,2208.4
+Baja del piso de fuel oil en el A (riesgo de operación),A,A-FOI,0.0,0.0,0.0,0.0,58.8,58.8
+Baja del piso de fuel oil en el B (riesgo de operación),B,B-FOI,0.0,119.3,969.0,1034.1,1017.0,3139.4
+Sin sus proyectos en el A (contrafactual),A,A-SIN,-1422.7,-1489.1,-1555.5,-1622.0,-1589.3,-7678.6

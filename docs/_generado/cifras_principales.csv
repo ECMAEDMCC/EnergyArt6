@@ -1,0 +1,19 @@
+Cifra,Valor,Unidad,Periodo,Archivo,Clave
+"Oferta transferible, sin la electromovilidad de flotas en reserva","11 674,4",kt CO2-eq,2031-2035,tablas/oferta_tres_niveles.csv,oferta_central_sin_reserva
+"Lista blanca validada por los expertos, autorizable con el sistema intacto","3 072,3",kt CO2-eq,2031-2035,tablas/reserva_por_aniada.csv,reserva|lista_blanca|intacto
+"De esa oferta, línea firme (geotermia de Chachimbiro)","384,8",kt CO2-eq,2031-2035,tablas/oferta_por_caso.csv,oferta_central_firme
+Margen de 2035 del Escenario C frente a la meta incondicional (1),"8 556,8",kt CO2-eq,2035,tablas/headroom_proyecciones.csv,margen_2035_C_CLG_prudente
+Lista blanca autorizable si persiste la demanda de 2026 (1),"2 793,8",kt CO2-eq,2031-2035,tablas/reserva_por_aniada.csv,reserva|lista_blanca|ACTDEM
+"Sobreventa, situación actual 2026 con demanda persistente (1)","4 950,3",kt CO2-eq,2031-2035,tablas/sobreventa_por_metodo_y_subconjunto.csv,sobreventa|sin_EN32|anual|CLG_prudente|ACTDEM
+"Sobreventa, salida de Coca Codo sola (1)","4 006,2",kt CO2-eq,2031-2035,tablas/sobreventa_por_metodo_y_subconjunto.csv,sobreventa|sin_EN32|anual|CLG_prudente|CCSOLO
+"Sobreventa, situación actual 2026 con demanda transitoria (1)","1 457,8",kt CO2-eq,2031-2035,tablas/sobreventa_por_metodo_y_subconjunto.csv,sobreventa|sin_EN32|anual|CLG_prudente|ACT
+"Sobreventa, un año seco cada tres (1)","1 080,0",kt CO2-eq,2031-2035,tablas/sobreventa_por_metodo_y_subconjunto.csv,sobreventa|sin_EN32|anual|CLG_prudente|ANOSEC3
+Capa del Escenario A sobre CONA6,"2 473,1",kt CO2-eq,2031-2035,tablas/descomposicion_reducciones.csv,capa_A_2031_2035
+Capa del Escenario B sobre A,"6 129,0",kt CO2-eq,2031-2035,tablas/descomposicion_reducciones.csv,capa_B_2031_2035
+Capa del Escenario C sobre B,"2 350,3",kt CO2-eq,2031-2035,tablas/descomposicion_reducciones.csv,capa_C_2031_2035
+Oferta con la electromovilidad de flotas en reserva,"12 599,4",kt CO2-eq,2031-2035,tablas/oferta_tres_niveles.csv,oferta_central_con_reserva
+Oferta con los pisos térmicos del Modelo CLG (sensibilidad),"9 446,9",kt CO2-eq,2031-2035,tablas/oferta_tres_niveles.csv,oferta_con_pisos_CLG_12_10_sin_reserva
+Puente CONA6 menos NDCCON (efecto de la calibración propia),"−7 085,0",kt CO2-eq,2031-2035,tablas/descomposicion_reducciones.csv,puente_CONA6_menos_NDCCON_2031_2035
+Puente CONA6G menos NDCCON (sin la expansión a gas declarada),"−4 310,0",kt CO2-eq,2031-2035,tablas/descomposicion_reducciones.csv,puente_CONA6G_menos_NDCCON_2031_2035
+Margen de 2035 de CONA6 frente a la meta incondicional (1),"7 268,2",kt CO2-eq,2035,tablas/headroom_proyecciones.csv,margen_2035_CONA6_CLG_prudente
+Margen de 2035 de CONA6 con la regla condicional,"10 600,0",kt CO2-eq,2035,tablas/headroom_proyecciones.csv,margen_2035_CONA6_CLG_condicional
